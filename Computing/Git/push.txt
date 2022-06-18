@@ -10,7 +10,7 @@ Creating a new Project:
 
 Creating a new Repo on GH:
 1. Change to project directory (cd _____)
-^ again, verify with pwd
+^ verify with pwd
 2. Check status (git status, shouldn't be modified)
 3. Create New Repository on GH
 4. Name + Create Repository (that's all)
@@ -18,4 +18,9 @@ Creating a new Repo on GH:
 6. Copy commands from "…or push an existing repository from the command line"
 7. Refresh GH page
 8. Delete local folder (optional)
-^ should work haha
+
+Updating Existing Repo on GH:
+1. Change to project directory (cd _____)
+^ verify with pwd
+2. C/P git push -u origin main
+3. Refresh GH page
