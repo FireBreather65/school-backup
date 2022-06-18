@@ -7,15 +7,22 @@ Foreign Language:
 - duolingo (spanish)
 - pronunciator (asl)
 
-GED Prep:
-- see GED folder
+Humanities:
+- us history
+- us government + civics
+
+Language Arts:
+- see english.txt
 
 Mathematics:
-- see math.txt
+- see other.txt
 
 Physical Education:
 - crunches + pushups
 ^ 15 crunches w/ slowly incrementing pushups
+
+Science:
+- see other.txt
 
 --- Electives ---
 - library events
@@ -25,23 +32,19 @@ Physical Education:
 - volunteermatch
 
 --- Misc. ---
-GED Notes (for everything but math):
-- RLA courses + grammar on KA
-- Biology, Chemistry, and Physics Libraries
-^ especially reading scientific diagrams
-- https://www.khanacademy.org/science/cosmology-and-astronomy
-- https://www.ushistory.org/documents/
-- https://www.khanacademy.org/humanities/us-government-and-civics
-
 Links:
 - https://www.careeraddict.com/
+- https://ged.com/blog/
 - https://ged.com/en/ (June 2023)
+- https://ged.com/study/free_online_ged_test/
 - https://www.indeed.com/ (for internships)
 - https://www.khanacademy.org/careers/interns (Oct., if allowed)
+- https://www.thoughtco.com
 - https://workforce-central.org/job-seekers/young-adults/hire-pierce-county-next-gen/ (Feb 2024)
 
 Notes:
 - create savings account (2023)
+- /GED/Notes/practice.txt (May 2023)
 - get my GED (then a part-time job)
 - participate in a hackathon (if available)
 - reward yourself (a song + wordle)

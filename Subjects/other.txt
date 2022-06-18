@@ -1,17 +1,9 @@
-English:
-- rla and grammar (khan academy)
-- reading online (see list below)
-- writing essays (Fridays)
-- writing blog posts
-- writing short stories (if interested)
-
 Math (KA):
-- algebra 1 (take again and write complete notes with video links, similar to actual course)
+- algebra 1
+^ take again, writing complete notes w/videos this time
 - https://www.khanacademy.org/math/algebra-home/alg-system-of-equations
-- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs
-- hs geometry (starting from congruence)
+- hs geometry
 - algebra 2
-^^ stuff that I want to finish before taking the GED ^^
 - trigonometry
 - hs statistics
 - precalculus
@@ -25,3 +17,12 @@ Math (CC):
 - discrete mathematics
 - linear algebra (KA supp.)
 - differential calculus (KA supp.)
+
+Science:
+- hs biology - NGSS
+^ take again, writing complete notes this time (w/videos???)
+- hs physics - NGSS
+- hs chemistry - NGSS
+^ not yet released
+- cosmology/astronomy
+- ap environmental science

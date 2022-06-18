@@ -5,7 +5,9 @@ Clean Freezer
 Check Mail
 Shower + Hair
 
-- get two more pencils (haha)
-- implement dummies.txt into school.txt (especially focus on weaknesses), add essay writing
+- don't update weekend.txt until Monday haha
+- update school.txt once totally completed and updated locally
+^ same with goals.txt, once completely completed
+- don't know when to update crossy.txt...
 - sort through/delete music (again), making sure to check for curse words
 - watch the big scary s word (socialism)
