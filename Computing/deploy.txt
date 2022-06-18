@@ -1,0 +1,29 @@
+AWS:
+https://content.codecademy.com/courses/deploy-a-website/u3-ex2-awsacct.mp4
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex3-route53access.mp4
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex4-purchasedomain.mp4
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex5-domainsetupGH.mp4
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex6-hostedzone.mp4
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex7-nameservers.mp4
+^ take note of unique name servers (there are 4)
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex8-Arecord.mp4
+^ use same IPs as video
+
+https://content.codecademy.com/courses/deploy-a-website/u3-ex10-CNAMErecord.mp4
+
+Watch in order when ready to use real domains!!
+
+Netlify:
+1. Import from Git.
+2. Connect to GH (login)
+3. Choose Repository.
+4. Deploy Site.
+5. Edit Site Name (if desired).
+
+- https://docs.netlify.com/

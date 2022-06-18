@@ -1,0 +1,50 @@
+- fcc projects (the main ones especially)
+
+Wordle Clone (unlimited, with color blind mode)
+
+True Google Clone
+
+Personal Blog (to post articles/videos, make sure you can watch the videos on my page)
+^ do i have this with my hashnode website???
+^ potentially connect hashnode to personal blog site???
+
+Mom's Website (when further along, after technologies have been learned)
+^ maybe develop into an app?? <- with help!!
+
+Random Colors Website (that posts hex/rgb/etc. of color shown, might help with color picking?)
+^ or make a place with sliders (for r/g/b), similar to this: https://www.w3schools.com/html/html_colors_rgb.asp
+
+Wordle Word Database (or such, shows best/worst words to guess and why)
+
+Math Project (of some sort...math is awesome ❤)
+
+Excursion (after re-learning HTML + CSS)
+
+Pomodoro Timer (fcc project already...simply putting emphasis!!)
+
+Chore App (w/messaging, based on OurHome)
+
+Separate Messaging App (maybe even before chore app, for practice or something??)
+
+Crossy Road (x Edge Surf???) <- in HTML using <canvas> tag, individual albums can be shuffled (similar to iTunes)
+
+Potentially make a color wheel??
+
+Weight conversion tool (maybe also time conversion, conversions in general???)
+
+Notes App (if desired, not totally sure...)
+
+Spelling Bee (with same rules, unlike spelling-bee.io)
+^ maybe just remake all NYT games on my own website (and unlimited)??
+
+Chillhop (w/React, kind of a clone??)
+
+3D world/Minecraft kind of thing?? <- for fun, not really for anything
+
+TI-30XS Calculator Simulator (something I wish I had haha)
+
+Try making an HTML <map> (with links to wikipedia articles for each <area>)
+^ definitely write an article about this!!!!
+^ also, use this link for help: https://www.w3schools.com/html/html_images_imagemap.asp
+
+Also try making a Drag and Drop game of sorts (using https://www.w3schools.com/html/html5_draganddrop.asp)

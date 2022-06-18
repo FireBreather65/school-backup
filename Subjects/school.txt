@@ -1,0 +1,56 @@
+--- School Subjects ---
+Computing:
+- see computing.txt
+
+Foreign Language:
+- duolingo (french)
+- duolingo (spanish)
+- pronunciator (asl)
+
+GED Prep:
+- see GED folder
+
+Mathematics:
+- see math.txt
+
+Physical Education:
+- crunches + pushups
+^ 15 crunches w/ slowly incrementing pushups
+
+--- Electives ---
+- library events
+- live help + WL (bf)
+- personal finance
+- pixar in a box
+- volunteermatch
+
+--- Misc. ---
+GED Notes (for everything but math):
+- RLA courses + grammar on KA
+- Biology, Chemistry, and Physics Libraries
+^ especially reading scientific diagrams
+- https://www.khanacademy.org/science/cosmology-and-astronomy
+- https://www.ushistory.org/documents/
+- https://www.khanacademy.org/humanities/us-government-and-civics
+
+Links:
+- https://www.careeraddict.com/
+- https://ged.com/en/ (June 2023)
+- https://www.indeed.com/ (for internships)
+- https://www.khanacademy.org/careers/interns (Oct., if allowed)
+- https://workforce-central.org/job-seekers/young-adults/hire-pierce-county-next-gen/ (Feb 2024)
+
+Notes:
+- create savings account (2023)
+- get my GED (then a part-time job)
+- participate in a hackathon (if available)
+- reward yourself (a song + wordle)
+- study in different places (bed, patio, desk)
+- take regular breaks (for exercise)
+- teach software development (HN + FCC)
+
+Volunteering:
+- https://www.volunteermatch.org/search/opp3538447.jsp
+- https://www.volunteermatch.org/search/opp3369524.jsp
+- https://www.volunteermatch.org/search/opp3029541.jsp
+^ always be looking for more opportunities to help, though!

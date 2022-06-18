@@ -1,0 +1,52 @@
+Double Diamond Process:
+- discover (divergent strategy): explore the problem and landscape, and learn from users and the market through user interviews, surveys, and other research
+- define (convergent strategy): sort and analyze the information gathered during the discovery stage and hone in on the problem we’re trying to solve
+- develop (divergent execution): generate a range of ideas for possible solutions through brainstorms, workshops, low fidelity prototypes, and other ideation methods
+- deliver (convergent execution): hone in on, develop, and deliver the solution
+^ continue evaluating and testing the developed design to ensure it meets user needs
+
+PDLC Process:
+- brainstorm: starting from a defined problem or pain point, the team brainstorms all possible solutions
+- define: the team aligns on specifications for the product by defining the vision, goals, target users, features, benefits, and success metrics
+- design: the product is designed from low-fidelity to high-fidelity, starting with sketches and wireframes and moving to prototypes and a completed interface
+- test: the product or prototype is tested to ensure it works as intended
+- launch: the final design is released to the public
+^ testing continues even after launch though
+
+Design Thinking Process:
+- empathize: understand the user and the landscape
+- define: define the problem and align with business goals and user needs
+- ideate: generate a range of ideas for possible solutions, emphasizing creativity
+- prototype: explore potential solutions by creating prototypes of the product to gather feedback
+- test: test the best solutions developed during prototyping
+^ may result in redefining the original problem
+
+UCD Process:
+- understand: empathize with the user
+- specify: hone in on a specific problem to solve
+- design: brainstorm and develop solutions
+- evaluate: test the product or prototypes to assess success and incorporate feedback
+
+"Good" UX is:
+- useful aka fulfills a user's needs
+- useable aka easy to use and understand
+- desirable aka visually attractive and succinct
+- findable aka easy to navigate and find information
+- accessible aka users with disabilities can use the product
+- credible aka the product, company, and services are trustworthy
+- valuable aka delivers business value
+
+10 Usability Heuristics:
+- visibility of system status (like if it's slow/broken/etc.)
+- match between system and real world (esp. with icons)
+- user control and freedom (not static)
+- consistency and standards (similar to #2, but within the system as well)
+- error prevention
+- recognition rather than recall
+^ like asking "Is Havana the capital of Cuba?" vs. "What's the capital of Cuba?"
+- flexibility and efficiency of use (for experienced users vs. novice users)
+- aesthetic and minimalist design (all for it haha)
+- help users recognize, diagnose and recover from errors (simple error messages vs. error codes)
+- help and documentation
+
+https://www.freecodecamp.org/news/what-is-digital-design-and-why-does-it-matter/

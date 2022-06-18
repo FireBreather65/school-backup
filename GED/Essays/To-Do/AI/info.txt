@@ -1,0 +1,55 @@
+Is Artificial Intelligence Good for Society?
+
+Argument For:
+AI can make everyday life more convenient and enjoyable, improving our health and standard of living. Why sit in a traffic jam when a map app can navigate you around the car accident? Why fumble with shopping bags searching for your keys in the dark when a preset location-based command can have your doorway illuminated as you approach your now unlocked door? Why scroll through hundreds of possible TV shows when the streaming app already knows what genres you like? Why forget eggs at the grocery store when a digital assistant can take an inventory of your refrigerator and add them to your grocery list and have them delivered to your home? All of these marvels are assisted by AI technology.
+
+AI-enabled fitness apps boomed during the COVID-19 pandemic when gyms were closed, increasing the number of AI options for at-home workouts. Now, you can not only set a daily steps goal with encouragement reminders on your smart watch, but you can ride through the countryside on a Peloton bike from your garage or have a personal trainer on your living room TV. For more specialized fitness, AI wearables can monitor yoga poses or golf and baseball swings.
+
+AI can even enhance your doctor’s appointments and medical procedures. It can alert medical caregivers to patterns in your health data as compared to the vast library of medical data, while also doing the paperwork tied to medical appointments so doctors have more time to focus on their patients, resulting in more personalized care. AI can even help surgeons be quicker, more accurate, and more minimally invasive in their operations.
+
+Smart speakers including Amazon’s Echo can use AI to soothe babies to sleep and monitor their breathing. Using AI, speakers can also detect regular and irregular heartbeats, as well as heart attacks and congestive heart failure.
+
+AI can offer accessibility for people with disabilities. Artificial intelligence is commonly integrated into smartphones and other household devices. Virtual assistants, including Siri, Alexa, and Cortana, can perform innumerable tasks from making a phone call to navigating the internet. Those who are deaf and hearing impaired can access transcripts of voicemails or other audio, for example.
+
+Other virtual assistants can transcribe conversations as they happen, allowing for more comprehension and participation by those who are communicationally challenged. Using voice commands with virtual assistants can allow better use by people with dexterity disabilities who may have difficulty navigating small buttons or screens, or turning on a lamp.
+
+Apps enabled by AI on smartphones and other devices, including VoiceOver and TalkBack, can read messages, describe app icons or images, and give information such as battery levels for visually impaired people. Other apps, such as Voiceitt, can transcribe and standardize the voices of people with speech impediments.
+
+Wheelmap provides users with information about wheelchair accessibility. And Evelity offers users indoor navigation tools that are customized to the user’s needs, providing audio or text instructions and routes for wheelchair accessibility.
+
+Other AI implementations such as smart thermostats, smart lighting, and smart plugs can be automated to work on a schedule to aid people with mobility or cognitive disabilities lead more independent lives.
+
+More advanced AI projects can combine with robotics to help physically disabled people. HOOBOX Robotics, for example, uses facial recognition software to allow a wheelchair user to move the wheelchair with facial expressions, making movement easier for seniors and those with ALS or quadriparesis.
+
+Artificial intelligence can improve workplace safety. AI doesn’t get stressed, tired, or sick, three major causes of human accidents in the workplace. AI robots can collaborate with or replace humans for especially dangerous tasks. For example, 50% of construction companies that used drones to inspect roofs and other risky tasks saw improvements in safety.
+
+Artificial intelligence can also help humans be more safe. For instance, AI can ensure employees are up-to-date on training by tracking and automatically scheduling safety or other training. AI can also check and offer corrections for ergonomics to prevent repetitive stress injuries or worse.
+
+An AI program called AI-SAFE (Automated Intelligent System for Assuring Safe Working Environments) aims to automate the workplace personal protective equipment (PPE) check, eliminating human errors that could cause accidents in the workplace. With COVID-19 and more people wearing more PPE to prevent the spread of the virus, this sort of AI could protect against outbreaks.
+
+In India, AI was used in the midst of the coronavirus pandemic to reopen factories safely by providing camera, cell phone, and smart wearable device-based technology to ensure social distancing, take employee temperatures at regular intervals, and perform contact tracing if anyone tested positive for the virus. AI can also perform more sensitive harm-reduction tasks in the workplace such as scanning work emails for improper behavior and types of harassment.
+
+~
+
+Argument Against:
+AI will harm the standard of living for many people by causing mass unemployment as robots replace people. AI robots and other software and hardware are becoming less expensive and need none of the benefits and services required by human workers, such as sick days, lunch hours, bathroom breaks, health insurance, pay raises, promotions, and performance reviews, which spells trouble for workers and society at large. 48% of experts believed AI will replace a large number of blue- and even white-collar jobs, creating greater income inequality, increased unemployment, and a breakdown of the social order.
+
+The axiom “everything that can be automated, will be automated” is no longer science fiction. Self-checkout kiosks in stores like CVS, Target, and WalMart use AI-assisted video and scanners to prevent theft, alert staff to suspicious transactions, predict shopping trends, and mitigate sticking points at checkout.These AI-enabled machines have displaced human cashiers. About 11,000 retail jobs were lost in 2019, largely due to self-checkout and other technologies. In 2020, during the COVID-19 pandemic, a self-checkout manufacturer shipped 25% more units globally, reflecting the more than 70% of American grocery shoppers who preferred self or touchless checkouts.
+
+An Oct. 2020 World Economic Forum report found 43% of businesses surveyed planned to reduce workforces in favor of automation. Many businesses, especially fast-food restaurants, retail shops, and hotels, automated jobs during the COVID-19 pandemic. Income inequality was exacerbated over the last four decades as 50-70% of changes in American paychecks were caused by wage decreases for workers whose industries experienced rapid automation, including AI technologies.
+
+AI repeats and exacerbates human racism. Facial recognition has been found to be racially biased, easily recognizing the faces of white men while wrongly identifying black women 35% of the time. One study of Amazon’s Rekognition AI program falsely matched 28 members of the US Congress with mugshots from a criminal database. 40% of the errors were people of color.
+
+AI has also been disproportionately employed against black and brown communities, with more federal and local police surveillance cameras in neighborhoods of color, and more social media surveillance of Black Lives Matter and other black activists. The same technologies are used for housing and employment decisions and TSA airport screenings. Some cities, including Boston and San Francisco, have banned police use of facial recognition for these reasons.
+
+One particular AI software tasked with predicting recidivism risk for US courts–the Correctional Offender Management Profiling for Alternative Sanctions (Compas)–was found to falsely label black defendants as high risk at twice the rate of white defenders, and to falsely label white defendants as low risk more often. In China, facial recognition AI has been used to track Uyghurs, a largely Muslim minority. The US and other governments have accused the Chinese government of genocide and forced labor in Xinjiang where a large population of Uyghurs live.
+
+Beyond facial recognition, online AI algorithms frequently fail to recognize and censor racial slurs, such as a recent incident in an Amazon product description for a black doll. AI is also incapable of distinguishing between when the N-word is being used as a slur and when it’s being used culturally by a black person. AI algorithms have also been found to show a “persistent anti-Muslim bias,” by associating violence with the word “Muslim” at a higher rate than with words describing other religions including Christians, Jews, Sikhs, or Buddhists.
+
+Artificial intelligence poses dangerous privacy risks. Facial recognition technology can be used for passive, warrantless surveillance without knowledge of the person being watched. In Russia, facial recognition was used to monitor and arrest protesters who supported jailed opposition politician Alexei Navalny. Russians fear a new facial recognition payment system for Moscow’s metro will increase these sorts of arrests.
+
+Ring, the AI doorbell company, partnered with more than 400 police departments as of 2019, allowing the police to request footage from users’ doorbell cameras. While users were allowed to deny access to any footage, privacy experts fear the close relationship between Ring and the police could override customer privacy, especially when the doorbells frequently record others’ property.
+
+AI also follows you on your weekly errands. Target used an algorithm to determine which shoppers were pregnant and sent them baby- and pregnancy-specific coupons in the mail, infringing on the medical privacy of those who may be pregnant, as well as those whose shopping patterns may just imitate pregnant people.
+
+Moreover, artificial intelligence can be a godsend to crooks. In 2020, a group of 17 criminals defrauded $35 million from a bank in the United Arab Emirates using AI “deep voice” technology to impersonate an employee authorized to make money transfers. In 2019, thieves attempted to steal $240,000 using the same AI technology to impersonate the CEO of an energy firm in the United Kingdom.

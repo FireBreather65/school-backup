@@ -1,0 +1,299 @@
+~ Algebra 1 ~
+
+Linear Equations:
+- move all (answer variable) terms to one side of the equation, and move all other terms to the other side of the equation.
+- using the distributive property, group like terms together on both sides of the equation.
+- to isolate (answer variable), divide both sides by the coefficents of (answer variable).
+
+Slope:
+- rtl is positive, ltr is negative :)
+^ direction determined by higher side
+
+* from two points:
+- y2 - y1
+~ divided by ~
+- x2 - x1
+
+Slope-Intercept Form:
+- y = mx + b
+^ where m is the slope and b is the y-intercept
+
+Point-Slope Form:
+- y - b = m (x - a)
+^ b is the y-coordinate of one point
+^ m is the slope
+^ a is the x-coordinate of the aforementioned point
+
+Standard Form:
+- ax + by = c
+
+Linear Equations to Standard Form:
+- simplify linear equation (to as basic as possible, removing all fractions)
+- set variables (and coefficients, if applicable) to one side, all other numbers on other side
+- simplify again (if possible)
+
+Graph to Linear Equation:
+- if given y-intercept, use slope-intercept form
+- if not, use point-slope form
+
+Systems of Equations w/ Graphing:
+- if not already, put equation into slope-intercept form
+^ standard form also works, simply find x and y intercepts and ignore last two steps
+- set y-intercept as...well...y-intercept XD
+- set slope as...well...slope (really, after in slope-int form, it's self-explanatory)
+
+Systems of Equations w/ Elimination:
+- add equations together to eliminate a variable
+^ or manipulate equations to remove a variable
+- solve for that variable
+- insert into equation and solve for other variable
+- check answer by inserting both variables into other equation
+
+SoEwE in Number of Solutions:
+- complete first step of above
+^ if we get 0 = 0, there are infinite solutions (consistent)
+^ if we get 0 = non-zero, there are no solutions (inconsistent)
+^ lastly, if we get something else altogether, there is one solution (the intercept, also consistent)
+
+Graphing Inequalities:
+- change line into slope-intercept form (if needed)
+- graph line (using what is known about graphing linear equations)
+^ if less/greater than or equal to, line is solid - if not, line is dashed
+- shade in all space below/above (depending on less or greater than)
+
+Function Rules from Equations:
+- function variable will be in equation, solve for other variable
+^ e.g. f(x) in terms of x, if variables are x and y, solve equation so y = blah-blah
+
+Domain and Range of Functions:
+- x ε ℝ means (x) is a member of real numbers
+^ relevant because any real values of x derived from f(x) are in the domain
+- round bracket means the number isn't included, square bracket means the number is included
+- simply put, domain = x values of the function, range = y values of the function aka f(x)
+
+Functions from Graphs:
+- vertical lines aren't functions
+^ proved by the vertical line test
+
+Maxima and Minima:
+- absolute extremum = the min/max points across the entire function
+- relative extremum = the min/max points across specific parts of the function
+
+Inverse Functions:
+- solve for other variable (usu. x = f(x) instead of y)
+- but still replace y with x in the new equation (WHY?)
+
+Arithmetic vs. Geometric Sequences:
+- aritmetic is for addition and subtraction of the common ratio
+- geometric is for multiplication and division of the common ratio
+
+Explicit vs. Recursive Functions - Arithmetic:
+- explicit definition is typically written in the form f(n) = A - B(n-1)
+- whereas recursive definition is typically written in the form below:
+~ f(n) = A (if n = 1)
+~ f(n) = f(n-1) - B (if n > 1)
+- explicit is more helpful for finding a given nth term (simply replace n with term), whereas recursive functions are helpful in computer science...not really obviously helpful in math??
+
+Explicit vs. Recursive Functions - Geometric:
+- explicit definition is typically written in the form A * B^(i-1)
+- whereas recursive definition is typically written in the form below:
+~ A1 = A (if n = 1)
+~ Ai = _A^(i-1) (if n > 1 and n ε ℝ)
+
+Absolute Value Functions:
+- formula is a|x - h| + k
+^ a is the amount the function "stretches" also known as the slope
+^ h is the amount away from x (we want that to be 0)
+^ k is the y coordinate (relative to the graph)
+
+Piecewise Functions:
+- pretty self explanatory haha
+- if help is really needed, see this video: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:absolute-value-piecewise-functions/x2f8bb11595b61c86:piecewise-functions/v/evaluating-piecewise-functions-example
+
+Simplifying Square Roots w/ Variables:
+- remember, exponents are added, not multiplied, when it comes to squaring as well
+
+Simplifying Square-Root Expressions:
+- multiply numbers outside of square roots regularly
+- multiply numbers inside of square roots regularly, but take the square root of the product
+- then take out perfect squares and etcetera out
+
+Exponential Growth vs. Decay:
+- growth comes from numbers greater than 1
+- decay comes from numbers smaller than 1 (fractions)
+- ...but what happens when it *equals* 1?
+
+Graphing Exponential Functions:
+- for example, g(x) = 2 * 3^x
+- 2 is the y intercept (verified by the fact that you find the y-int when x = 0, in this case the first coordinate would be [0, 2])
+- 3 is the strech (verified when x = 1, in this case the second coordinate would be [1, 6])
+
+Polynomial Intro:
+- standard form for expressions means exponents (degrees) are in order from greatest to least
+- multiplying binomials w/ an area model is just like multiplying regularly (w/ an area model)
+- standard form for polynomial terms is Ax^n
+^ where A is the coefficient
+^ x is the variable
+^ n is the exponent (which must be a non-negative integer)
+
+Special Products of Binomials:
+- if in the form (x + a)(x - a), the answer is x² - a²
+^ known as difference of squares expressions
+- if in the form (x + a)², the answer is x² + 2*a*x + a²
+^ known as perfect squares expressions
+- if in the form (x - a)², the answer is x² - 2*a*x + a²
+^ known as negative perfect squares expressions
+
+Factoring Quadratics Intro:
+- standard form for quadratics: x² + (a + b)x + ab <- comes from (x +/- a)(x +/- b)
+^ a and b can be figured out using this formula (with the knowledge that the numbers added and multiplied will equal given numbers)
+^ for example, x² - x - 42, you can figure out that original equation is (x + 6)(x - 7) knowing standard form
+- leading term must always be x², although not all trinomials with that as a leading term can be factored
+- quadratics is a fancy term for polynomials with a highest degree of 2
+
+Factoring Quadratics w/ Common Factor:
+- sub out common factor, then solve for regular
+^ for example, 6x² - 18x - 60 can be solved by subbing out a 6, making it 6(x² - 3x - 10)
+^ which can be solved like regular (the answer is 6[x - 5][x + 2])
+
+Factoring Quadratics by Grouping:
+- first, group terms that share a GCF (greatest common factor)
+^ then factor those terms
+- then find common terms amongst the result
+^ and factor those haha
+- read this if needed: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/a/factoring-by-grouping
+
+Factoring Quadratics w/ Coefficient ≠ 1:
+- start by finding two numbers that multiply to ac and add up to b (where a is the first term, b is the second, and c is the third)
+- use these numbers to split up the middle x-term
+- use grouping (above) to factor the quadratic expression
+- again, read this if needed: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/a/factoring-quadratics-leading-coefficient-not-1
+
+Factoring Quadratics w/ Difference of Squares:
+- read Special Products of Binomials (above), that's our principle
+^ with factoring out the x² coefficient, if possible/needed
+
+Factoring Quadratics w/ Perfect Square Factorization:
+- read Special Products of Binomials (above), that's our principle
+^ with factoring out the x² coefficient, if possible/needed
+
+Zero Product Property:
+- based on the simple idea that if a * b = 0, a or b must be 0
+^ you can solve for either side (a or b), there will be two answers though
+
+Solving Quadratics by Taking Square Roots:
+- really straightforward once you do it
+^ but watch this if you're still confused: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/v/solving-quadratics-by-taking-square-roots
+
+Solving Quadratics:
+- see solving-quadratics.png (1 and 2)
+
+Quadratic Formula:
+- x = -b +/- sqrt(b² - 4ac) / 2a
+^ memorize this formula (somehow)
+^ b² - 4ac is the discriminant
+- after in this form, use factoring to simplify
+
+QE in Number of Solutions:
+- if b² - 4ac > 0, there are 2 solutions
+- if b² - 4ac = 0, there is one solution (0)
+- if b² - 4ac < 0, there are no REAL solutions
+
+Completing the Square:
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/ex1-completing-the-square
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/rewriting-quadratics-a-perfect-squares
+
+Graphing Quadratics in Standard Form:
+- good to know that standard form is y = ax² + bx + c
+- first find the vertex's x-coordinate (-b / 2a)
+- next find the vertex's y-coordinate (by inputting the x-coordinate into the original equation)
+- to find the y-intercept, set x = 0 (in the original equation and the x-coordinate)
+^ PAY ATTENTION TO THE VERTEX VS. RANDOM POINT
+
+Graphing Quadratics in Vertex Form:
+- good to know that vertex form is a(x − h)² + k 
+- the vertex coordinates are simply (h, k)
+- the next pair of coordinates is (h+/-?, y)
+^ input +/- h into the equation and solve it, that's your y
+^ PAY ATTENTION TO THE VERTEX VS. RANDOM POINT
+
+Graphing Quadratics in Factored Form:
+- good to know that factored form is A(x + b)(x + c)
+- the x-intercepts are at (b, 0) and (c, 0)
+- the vertex's x-coordinate is exactly halfway through the x-intercepts
+- the vertex's y-coordinate is found by inputting x-coordinate into original equation
+^ PAY ATTENTION TO THE VERTEX VS. RANDOM POINT
+
+Concavity:
+- function opens upwards when the coefficent of x² is positive
+- function opens downwards when the coefficent of x² is negative
+
+Shifting Parabolas:
+- equation from translating: y = (x - h)² + k
+- negative values of h are leftward, positive values are rightward
+- negative values of k are downward, positive values are upward
+
+Scaling and Reflecting Parabolas:
+- scaling by fractions <1 makes parabolas bigger, whereas scaling by whole number makes them smaller
+
+~ Geometry ~
+
+Circumference:
+- from radius: 2πr
+- from diameter: πd
+
+Area of a Circle:
+- from radius: π * r²
+- from diameter: π * d/2²
+
+Surface Area:
+- area of each face added together
+
+Pythagorean Theorem:
+- a² + b² = c²
+
+Perimeter of Triangle:
+- figure out sides using above (PT)
+- add up sides (a + b + c)
+
+Area of Isoceles Triangle:
+- halve base
+- use PT to find height
+- og base * 1/2 * height
+
+Volume of Sphere:
+- 4/3 * π * r³
+
+Volume of Cone:
+- 1/3 * π * r² * h
+
+Volume of Cylinder:
+- r² * h * π
+
+Area of Parallelogram:
+- h * b
+
+Rotation:
+positive (counterclockwise) and negative (clockwise)
+for a (positive) 90 degree rotation about (0, 0), (x, y) = (−y, x)
+for a (negative) 90 degree rotation about (0, 0), (x, y) = (y, −x)
+for a 180 degree rotation about (0, 0), (x, y) = (-x, -y)
+^ study above (to remember!!)
+
+Reflection:
+- find coordinates for two different points e.g. (-4, -4) and (2, -6)
+- take x coordinates added together and y coordinates added together, and divide both by 2
+- that's one of your points of reflection
+
+------------------------------------------------------------------
+| SSS = side-side-side (proves congruency)                       |
+|                                                                |
+| SAS = side-angle-side (proves congruency)                      |
+|                                                                |
+| AAS/ASA = angle-angle-side (proves congruency)                 |
+|                                                                |
+| SSA = side-side-angle (doesn't prove congruency)               |
+| ^ RHS is a special case where congruence can be proven         |
+|                                                                |
+| AAA = angle-angle-angle (proves similarity, not congruency)    |
+------------------------------------------------------------------

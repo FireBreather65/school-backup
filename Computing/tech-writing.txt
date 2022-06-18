@@ -1,0 +1,59 @@
+Define new or unfamiliar terms (give a link, if they can explain it better).
+
+Be sure to use terms consistently (if a term is too long/wordy, give it a nickname AT THE BEGINNING, not halfway through).
+
+"On the initial use of an unfamiliar acronym within a document or a section, spell out the full term, and then put the acronym in parentheses. Put both the spelled-out version and the acronym in boldface."
+
+Don't go back and forth with the acronym and expanded version, stick to one (if sticking to expanded version, why even introduce the acronym??)
+
+Also don't define acronyms that will only be used a few times. Only define ones where either the acronym is much shorter than the full term, and/or it appears many times in the article.
+
+Avoid using pronouns (especially ambiguously).
+
+Use active voice vs. passive voice (because the sentences tend to be shorter and more to the point, unlike this one).
+^ to know which one you're using, remember that active voice = actor + verb + target, whereas passive voice = target + verb + actor
+
+Choose strong verbs (unlike forms of be, occur, happen)
+^ aka more descriptive verbs haha
+
+Reduce there is/are, in order to keep active voice.
+^ but don't replace with weak verbs
+
+Minimize certain adjectives and adverbs (be more literal, while still being interesting)
+
+Focus each sentence on a single idea (make them shorter, making them easier to read)
+^ convert some long sentences into lists vs. individual sentences
+
+DON'T USE FILLER TEXT (LITERALLY STAY AS FAR AWAY FROM IT AS POSSIBLE)
+
+Keep the one sentence = one idea formula in mind.
+
+If you read a sentence aloud and hear a pause just before the subordinate clause, then use which. If you don't hear a pause, use that.
+
+There are three types of lists (bulleted, numbered, and run-in).
+^ bulleted are for random ideas, numbered are for steps in order, and run-in are to be avoided (XD)
+
+Start numbered lists with imperative (commanding) verbs.
+
+Create useful tables and images, basically more than just words haha
+
+Paragraph "Rubric":
+- What are you trying to tell your reader?
+- Why is it important for the reader to know this?
+- How should the reader use this knowledge? Alternatively, how should the reader know your point to be true?
+
+Use widely known metaphors/similes/idioms (if any), that won't confuse or alienate any readers.
+
+Be sure to organize the document to meet your audience's needs (like so, replacing algorithm and interpreting my own order):
+- Overview of the algorithm
+  - Compare and contrast with quicksort, including Big O comparisons
+    - Link to Wikipedia article on quicksort
+  - Optimal datasets for the algorithm
+- Implementing the algorithm
+  - Implementation in pseudocode
+  - Implementation tips, including common mistakes
+- Deeper analysis of algorithm
+  - Edge cases
+  - Known unknowns
+
+~ when finished, combine with article.txt and push to a private Github repo ~

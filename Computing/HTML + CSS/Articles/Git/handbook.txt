@@ -1,0 +1,12 @@
+Headline: The Git Handbook
+
+
+
+
+- Abstract
+- Introduction
+- The Body
+- Conclusions/Summary
+- Future Work /References
+
+- also add code examples (hopefully they'll code along at home??)

@@ -1,0 +1,22 @@
+You can add a favicon to your website, see this: https://www.w3schools.com/html/html_favicon.asp
+^ probably don't do it every time, more like for stuff like Mom's Cookbook??
+
+Responsive Text can be made by setting font-size to vw instead of px.
+
+Instead of using <br> to write poems, you can also write the poem and surround it with <pre>, which preserves spaces AND line breaks.
+
+Use <abbr> for abbreviations (pointed out because it's really important for accessibility)
+
+Use th/td:nth-child(odd/even) to create a zebra-striped effect in tables.
+
+Use <kbd> for displaying keyboard shortcuts in a webpage, use <samp> for displaying program output, use <code> for displaying code
+
+This link is helpful for remembering symbols and their entities: https://www.w3schools.com/html/html_symbols.asp
+
+Similarly, this link is helpful for input types: https://www.w3schools.com/html/html_form_input_types.asp
+
+For if I ever end up making videos (of me making projects or something??): https://www.w3schools.com/html/html_youtube.asp
+
+Links:
+https://www.codecademy.com/resources/docs/html
+https://www.w3schools.com/html/default.asp

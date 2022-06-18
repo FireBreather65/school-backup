@@ -1,0 +1,97 @@
+HTML/CSS:
+- learn html + css (cc, lessons only) ✔
+- learn intermediate css (cc, lessons only) ✔
+~ Finish technical writing on Google ~
+~ Write "The Git Handbook" ~
+- rwd certification (freecodecamp)
+- html/css quizzes + exercises (w3)
+
+JavaScript:
+- learn javascript (cc, lessons only)
+- learn intermediate javascript (cc, lessons only)
+- jsads certification (freecodecamp)
+- javascript quizzes + exercises (w3)
+
+Extended JS:
+- learn angular.js (cc, lessons only)
+- learn typescript (cc, lessons only)
+- learn p5.js (cc, lessons only)
+- learn game development w/ phaser.js (cc, lessons only)
+
+Front End Libraries:
+- learn react (cc, lessons only)
+- learn redux (cc, lessons only)
+- learn react testing (cc, lessons only)
+- learn react router (cc, lessons only)
+- fedl certification (freecodecamp)
+- bootstrap quizzes + exercises (w3)
+- jquery quizzes + exercises (w3)
+- react quizzes + exercises (w3)
+
+Data:
+- getting started off-platform for data science (cc, articles only)
+- dv certification (freecodecamp)
+
+Back End Development:
+- learn node.js (cc, lessons only)
+- bed + api certification (freecodecamp)
+
+Java:
+- learn java (cc, lessons only)
+- all extra java courses (cc, lessons only)
+- learn intermediate java (cc, lessons only)
+- java quizzes + exercises (w3)
+
+PHP:
+- learn php (cc, lessons only)
+- php quizzes + exercises (w3)
+
+Quality Assurance:
+- qa certification (freecodecamp)
+
+Scientific Computing w/ Python:
+- scwp certification (freecodecamp)
+- python quizzes + exercises (w3)
+- build connect four using python (cc)
+
+Data Analysis w/ Python:
+- dawp certification (freecodecamp)
+- numpy quizzes + exercises (w3)
+- pandas quizzes + exercises (w3)
+
+Relational Database:
+- learn sql (cc, lessons only)
+- rd certification (freecodecamp)
+- sql quizzes + exercises (w3)
+
+Information Security:
+- is certification (freecodecamp)
+
+Cyber Security:
+- introduction to it (cc, lessons only)
+- introduction to cybersecurity (cc, lessons only)
+- cybersecurity quizzes (w3)
+
+Machine Learning w/ Python:
+- mlwp certification (freecodecamp)
+
+Go:
+- learn go (cc, lessons only)
+- go exercises (w3)
+
+C++:
+- learn c++ (cc, lessons only)
+- c++ quizzes + exercises (w3)
+
+Computer Science:
+- ap csp (ka)
+- computer science (ka)
+
+Coding Interview Prep:
+- cip (freecodecamp)
+- https://www.codewars.com/
+- https://www.hackerrank.com/
+
+https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/
+https://www.freecodecamp.org/news/how-to-make-a-successful-job-interview/
+https://www.freecodecamp.org/news/how-to-get-an-interview-as-a-software-developer/

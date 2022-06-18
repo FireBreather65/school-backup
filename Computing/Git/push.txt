@@ -1,0 +1,21 @@
+Creating a new Project:
+~ cd to main directory (or wherever you want to make the project) ~
+1. Create a directory (mkdir _____)
+2. Change to new directory (cd _____)
+^ verify with pwd
+3. Initialize a new repository (git init)
+4. Create files in repository (touch _____)
+5. Add files to staging area (git add .)
+6. Commit files (git commit -m "Your text here")
+
+Creating a new Repo on GH:
+1. Change to project directory (cd _____)
+^ again, verify with pwd
+2. Check status (git status, shouldn't be modified)
+3. Create New Repository on GH
+4. Name + Create Repository (that's all)
+5. Select HTTPS (at least be sure)
+6. Copy commands from "…or push an existing repository from the command line"
+7. Refresh GH page
+8. Delete local folder (optional)
+^ should work haha

@@ -1,0 +1,15 @@
+Wireframes include logos, navigation, search fields, text, buttons, images, and videos (but aren't limited to such).
+^ it doesn't include decorative elements (like typography, color scheme, etc.)
+
+Template Keys:
+logo - rectangle labeled as "logo"
+navigation - rectangle with navigation links or placeholders
+search fields - rectangle labeled "search", sometimes w/ magnifying glass
+text - rectangle labeled "text field"
+button - rectangle or pill-shaped container labeled "button"
+image - box labeled "image" with an x (diagonal lines)
+videos - box labeled "video" with an x (diagonal lines) AND a circle + play button
+
+Sketching -> Wireframing -> Prototyping (w/ user testing)
+
+Keep this in mind: https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design

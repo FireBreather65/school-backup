@@ -1,0 +1,5 @@
+You can also wireframe a webpage using grid-template-areas (see CSS Grid section on w3schools for reference)
+
+Links:
+https://www.codecademy.com/resources/docs/css
+https://www.w3schools.com/css/default.asp

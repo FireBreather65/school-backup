@@ -1,0 +1,90 @@
+------ BASH ------
+
+ls - lists all files and directories inside wherever you are
+
+pwd - prints working directory (where you are)
+
+cd - changes directory to where you want to go
+
+mkdir - makes a new directory wherever you are
+
+touch - makes a new file wherever you are
+
+clear - clears the terminal from view (doesn't delete past work)
+
+cp - copies files from one place to another
+
+cp -r - copies directories from one place to another
+
+mv - moves and/or renames files and directories (depending on arguments)
+
+rm - removes files
+
+rm -r - removes directories
+
+rm -rf - removes directories without question (XD)
+
+Better Workflow: https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/
+
+------ GIT ------
+
+Über Basic Workflow:
+
+git init - initializes a new git repository
+
+git add (filename) - adds files to staging area for a commit
+^ if multiple files separate with spaces, use period if all files are wanted
+
+git commit - adds a commit (use -m and quotation marks to write a commit message)
+
+^ also see workflow.png
+
+Basic Workflow (extras):
+
+git status - checks status of files in staging area
+^ adding --short will show a short log instead of a full log
+^ can be untracked, meaning git sees the file but isn't tracking it yet
+
+git diff - checks difference between current status and previously saved status
+
+git log - logs a list of all previous commits
+
+git log (filename) - logs a list of all previous commits for that specific file
+
+How to Backtrack:
+
+git show HEAD - shows the most recently made commit
+
+git checkout HEAD (filename) - reverts the file back to its last commit
+
+git reset HEAD (filename) - resets file to HEAD commit and removes it from the staging area
+
+git reset (first 7 of SHA aka commit id) - reverts the file back to a previous commit in history
+
+Git Branching (check out conflict.png for more info):
+
+git branch - lists all branches and lets you know what branch you're on (with green and an asterisk)
+
+git branch (branchname) - creates a new branch
+
+git checkout (branchname) - switches to the branch
+
+git merge (branchname) - merges the branch you're on with the branch that you called
+
+git branch -d (branchname) - deletes the specific branch from your repository
+
+git branch -D (branchname) - same as above, but deletes branches that were never merged with master
+
+Git Teamwork (for collaborations):
+
+git clone (remote_location) (clone_name) - clones an existing repository so you can edit w/o immediately committing changes to said repository (on a branch called origin)
+
+git fetch - fetches changes that others have made to your clone (on a remote branch, not the main), and doesn't merge them
+
+git merge origin/master - merges the origin (your) branch with the master (main) branch
+
+git push origin (branchname) - pushes an existing branch to the origin (your) branch
+
+Or just use this: https://education.github.com/git-cheat-sheet-education.pdf
+
+Also this, for even easier documentation: https://www.freecodecamp.org/news/git-cheat-sheet/
