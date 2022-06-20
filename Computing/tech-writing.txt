@@ -10,6 +10,8 @@ Also don't define acronyms that will only be used a few times. Only define ones 
 
 Avoid using pronouns (especially ambiguously).
 
+Use second person ("you" rather than "we").
+
 Use active voice vs. passive voice (because the sentences tend to be shorter and more to the point, unlike this one).
 ^ to know which one you're using, remember that active voice = actor + verb + target, whereas passive voice = target + verb + actor
 
@@ -55,5 +57,13 @@ Be sure to organize the document to meet your audience's needs (like so, replaci
 - Deeper analysis of algorithm
   - Edge cases
   - Known unknowns
+
+Find peer editors (and coders), because work is best done with others.
+
+"How-to guides, introductory overviews, and conceptual guides often work better as shorter documents when aimed at readers who are new to the subject matter."
+
+"In-depth tutorials, best practice guides, and command-line reference pages can work well as lengthier documents, especially when aimed at readers who already have some experience with the tools and subject matter."
+
+Before starting to write your article, make a high-level outline (kind of like wire-framing before building your website).
 
 ~ when finished, combine with article.txt and push to a private Github repo ~
