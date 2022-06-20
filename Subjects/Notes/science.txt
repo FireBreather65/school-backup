@@ -1,0 +1,20 @@
+~ HS Biology ~
+
+Cell Specialization:
+- cells are the fundamental unit of life, they:
+  - take in nutrients
+	- convert them into energy 
+	- produce things that the body needs
+^ but not all cells do all of these things
+
+- proteins help carry out cell processes, they:
+  - provide structural support
+	- aid in chemical reactions
+	- build/repair cells
+
+- cell specialization itself is the process where a cell takes on a specific structure and function
+^ largely based on which proteins are present or absent in the cell
+
+- groups of specialized cells are organized into tissues
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:genes-cells-and-organisms/x4c673362230887ef:cell-specialization/v/cell-specialization
