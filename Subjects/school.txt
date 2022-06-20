@@ -1,27 +1,27 @@
 --- School Subjects ---
-Computing:
+Computing (6):
 - see computing.txt
 
-Foreign Language:
+Foreign Language (5):
 - duolingo (french)
 - duolingo (spanish)
 - pronunciator (asl)
 
-Humanities:
+Humanities (1):
 - us history
 - us government + civics
 
-Language Arts:
+Language Arts (3):
 - see english.txt
 
-Mathematics:
+Mathematics (2):
 - see other.txt
 
 Physical Education:
 - crunches + pushups
 ^ 15 crunches w/ slowly incrementing pushups
 
-Science:
+Science (4):
 - see other.txt
 
 --- Electives ---

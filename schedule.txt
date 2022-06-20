@@ -7,21 +7,19 @@ Shower + Hair
 Sort Laundry
 Fold Towels
 
-Computing - Technical Writing Two
-~ 15 crunches ~
-Foreign Language - Travel (french) + Family (spanish) + Buildings (asl)
-~ 15 crunches, 5 pushups ~
 Humanities - Thinking Like a Historian
+~ 15 crunches, 5 pushups ~
+Mathematics - Overview and History
 ~ 15 crunches, 10 pushups ~
 Language Arts - Superheroes
 ~ 15 crunches, 15 pushups ~
-Mathematics - Overview and History
-~ 15 crunches, 20 pushups ~
 Science - Cell Specialization
+~ 15 crunches, 10 pushups ~
+Foreign Language - Travel (french) + Family (spanish) + Buildings (asl)
+~ 15 crunches, 5 pushups ~
+Computing - Technical Writing Two
 
 - help Mom assign KA exercises
 - sort through/delete music (again), making sure to check for curse words
 ^ also edit albums like Frozen 2
 - watch the big scary s word (socialism)
-
-- push all weekend changes to Github
