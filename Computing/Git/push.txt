@@ -22,7 +22,7 @@ Creating a new Repo on GH:
 Updating Existing Repo on GH:
 1. Change to project directory (cd _____)
 ^ verify with pwd
-2. C/P git add file(s)
-3. C/P git commit -m "Commit message"
-4. C/P git push -u origin main
+2. git add file(s)
+3. git commit -m "Commit message"
+4. git push -u origin main
 5. Refresh GH page
