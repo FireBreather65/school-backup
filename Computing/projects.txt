@@ -13,6 +13,7 @@ Mom's Website (when further along, after technologies have been learned)
 
 Random Colors Website (that posts hex/rgb/etc. of color shown, might help with color picking?)
 ^ or make a place with sliders (for r/g/b), similar to this: https://www.w3schools.com/html/html_colors_rgb.asp
+^ maybe even make a website with swatches (for lighter/darker than current color)
 
 Wordle Word Database (or such, shows best/worst words to guess and why)
 
@@ -46,5 +47,10 @@ TI-30XS Calculator Simulator (something I wish I had haha)
 Try making an HTML <map> (with links to wikipedia articles for each <area>)
 ^ definitely write an article about this!!!!
 ^ also, use this link for help: https://www.w3schools.com/html/html_images_imagemap.asp
+^ make it food themed (per Adriana's request)
+^ make another one that's music themed (again per Adriana's request)
+^ make YET ANOTHER ONE that's Khan Academy video themed (per Matthew's request)
+^ try an animal themed one (I thought of that one 😅)
+^ put all of these different themes into one website (for easy access)
 
 Also try making a Drag and Drop game of sorts (using https://www.w3schools.com/html/html5_draganddrop.asp)
