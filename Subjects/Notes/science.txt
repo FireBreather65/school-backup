@@ -11,10 +11,34 @@ Cell Specialization:
   - provide structural support
 	- aid in chemical reactions
 	- build/repair cells
-
-- cell specialization itself is the process where a cell takes on a specific structure and function
-^ largely based on which proteins are present or absent in the cell
+	- catalyze chemical reactions
+	- send "messages"
 
 - groups of specialized cells are organized into tissues
 
+- cell specialization itself is the process where a cell takes on a specific structure and function
+^ largely based on which proteins are present or absent in the cell (the unique protein combos)
+
+- all cells in an organism (like Bob the Beta Fish) have the same DNA + genes, but different protein combinations (see below if confused about DNA and genes)
+
 - video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:genes-cells-and-organisms/x4c673362230887ef:cell-specialization/v/cell-specialization
+
+~
+
+Genes, Proteins, and Cells:
+- genes are basic hereditary units, they:
+  - are passed down from parent to offspring
+	- contain information about an organism's traits
+	- can have different versions of a single gene (called alleles)
+	^ for example, same gene (color gene) but different versions (blue gene, green gene, etc.)
+	- many genes encode proteins (chains of amino acids)
+	^ they have "instructions" on creating these chains
+  - different alleles have different nucleotide sequences, which likely encode different proteins (everything's different haha)
+
+- DNA stands for DeoxyriboNucleic Acid, it is:
+  - a macromolecule (aka complex molecule)
+	- like a "cookbook" of genetic information
+	- consists of subunits called nucleotides (A, T, C, G)
+	- keeping with the analogy, genes are "recipes" within the larger "cookbook"
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:genes-cells-and-organisms/x4c673362230887ef:genes-proteins-and-cells/v/genes-proteins-and-cells
