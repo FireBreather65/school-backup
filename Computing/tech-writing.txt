@@ -66,4 +66,34 @@ Find peer editors (and coders), because work is best done with others.
 
 Before starting to write your article, make a high-level outline (kind of like wire-framing before building your website).
 
+~
+
+## Audience
+
+Describes who the tutorial is aimed at.
+
+## Prerequisites
+
+Lists concepts the reader should be familiar with prior to starting, as well as
+any software or hardware requirements.
+
+## Setting up the tutorial
+
+Explains how to configure your environment to follow the tutorial.
+
+## Useful terminology
+
+Lists definitions of terms that the reader needs to know to follow the
+tutorial.
+
+~
+
+Try writing the caption _before_ creating the illustration.
+^ make sure your caption is brief, memorable, and focused
+
+Focus the readers' attention with markings (like a shape, color, etc.)
+
+Use good samples that are correct and conscise, and can be reused by readers with minimal side effects.
+^ also use comments (explaining why - not what - the code is doing what it's doing, unless it's obvious)
+
 ~ when finished, combine with article.txt and push to a private Github repo ~
