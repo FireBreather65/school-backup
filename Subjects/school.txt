@@ -18,8 +18,7 @@ Mathematics (2):
 - see other.txt
 
 Physical Education:
-- crunches + pushups
-^ 15 crunches w/ slowly incrementing pushups
+- 15 crunches, 10 pushups
 
 Science (4):
 - see other.txt
