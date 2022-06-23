@@ -42,3 +42,10 @@ Genes, Proteins, and Cells:
 	- keeping with the analogy, genes are "recipes" within the larger "cookbook"
 
 - video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:genes-cells-and-organisms/x4c673362230887ef:genes-proteins-and-cells/v/genes-proteins-and-cells
+
+~
+
+Organization of Multicellular Organisms:
+- order is cell, tissue, organs, organ system, organism
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:genes-cells-and-organisms/x4c673362230887ef:organization-of-multicellular-organisms/v/organization-of-multicellular-organisms

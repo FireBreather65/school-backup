@@ -96,6 +96,45 @@ The Columbian Exchange:
 
 ~
 
+Spanish Colonization:
+- Encomiendas (a combination of feudalism and slavery)
+- it granted land holders the right to labor of Native Americans (WHA??)
+- anything they produced through their slave labor gave them Christianization and "protection" of Spanish feudal lords (aka encomenderos)
+
+- the Native population shrunk to 10% of its' former size, so they started using enslaved Africans for labor instead
+
+- adopting Christianity outwardly, while keeping their ancestral beliefs inwardly
+
+- the Pueblo Revolt included:
+	- killing Spanish priests
+	- burning churches (replacing them with kivas)
+	- driving the Spanish out	
+
+- racial caste system (ranked individuals by how much Spanish was in their blood, the higher amount, the more legal rights you have)"
+
+Highest: Peninsulares (children of two Spaniards born in Spain)
+2nd Highest: Criollos (children of two Spaniards born in America)
+2nd Lowest: Mestizos (children of a Spaniard + Native American) and Mulatoes (children of a Spaniard + African slave)
+Lowest: Indios (children of two Native American parents) and Negroes (children of two African parents)
+
+~
+
+Comparing European and Native [...] cultures:
+- land:
+  - Europeans: land indiviually owned, passed down in families
+	- Native Americans: communal, temporary use of plots
+- property and trade:
+  - Europeans: business transaction, wealth through high status (capitalism??? or something of the like)
+	- Native Americans: communal as well, gift-giving
+- gender roles:
+  - Europeans: men led househould, farmed, made war; women did household labor, had few rights
+	- Native Americans: men hunted, fished, made war; women farmed, had greater freedom and influence (still not equal, though)
+- religion:
+  - Europeans: believed in christian god, saints in catholicism, exclusive worship
+	- Native Americans: believed in a great creator, nature spirits, non-exclusive worship
+
+~
+
 Timeline:
 750 - 1492: Native American settlement (pre-European contact)
 1492 - 1504: Christopher Columbus messes it all up
@@ -103,9 +142,21 @@ Timeline:
   - go to people's lands
 	- take over the government
 	- enslave the native people
-~ 112 year gap ~
+~ 15 year gap ~
+1519: Hernan Cortes begins conquest of Mexico
+1521: Tenochtitlan is in ruins, the Spanish starts building Mexico City
+^ Native Americans that helped conquest Mexico die due to smallpox
+~ 64 year gap ~
+1585: Roanoke Colony
+~ 13 year gap ~
+1598: Juan de Onate establishes New Mexico
+~ 9 year gap ~
+1607: Jamestown Colony
+~ 9 year gap ~
 1616 - 18: Epidemics claim lives of 75% indigenous people
-~ 12 year gap ~
+~ >=14 year gap ~
 1630s: 1/2 of Huron and Iroquois people die of smallpox
-~ 57 year gap ~
+~ <=50 year gap ~
+1680: Pueblo Revolt (resistance to colonization in New Mexico)
+~ 7 year gap ~
 1687: Sir Hans Sloane travels to Jamaica (records hundreds of new plants)
