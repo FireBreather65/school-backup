@@ -1,11 +1,11 @@
 English - Reading Comp.:
 - rla + grammar (khan academy)
 - reading e-books (see below)
+- reading technical articles
 
 English - Writing Comp.:
-- write blog posts (for HN)
-- write essays (Fridays)
-- write short stories (if desired)
+- writing tech. articles (for HN, 15min/day)
+- writing essays (Fridays)
 
 E-books (fiction):
 - Music From Another World

@@ -1,7 +1,7 @@
 Open Blinds
 Shower + Hair
 Brush Teeth
-Take Meat (check PP)
+Take Out CT
 Wash Bedding
 Recycling + Mail
 Make Dinner
@@ -14,8 +14,8 @@ Science - Learn to UT
 ~ 15 crunches, 10 pushups ~
 Foreign Language - Travel (french) + Family (spanish) + Buildings (asl)
 ~ 15 crunches, 10 pushups ~
-Computing - Combine article.txt + tech-writing.txt
-^ start wireframing article, if there's time
+Computing - Wireframing Article (using tech-writing.txt)
 
 - help Mom assign KA exercises
+- listen to this article: https://www.codenewbie.org/podcast/how-to-transition-from-the-arts-into-a-career-in-tech
 - teen council
