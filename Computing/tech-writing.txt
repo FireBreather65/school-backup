@@ -1,127 +1,58 @@
-Read others' technical articles, to get a feel for how to write them.
+Wireframing:
+- do good research by Googling "how can i use [technology]", asking a peer politely, or even getting a book about it
+- pay attention to who my audience is, why they would read my article, and what they're expecting when wireframing layout
+- wireframe similar to a website, basic guide on the article and my ideas for it
+- use table under "Notes" to help wireframe (maybe also use intro.txt???)
 
-Develop a unique voice (don't try to copy others)
-
-Include a link to new or unfamiliar terms (better yet, define it yourself)
-
-Use terms consistently (if a term is too long/wordy, give it a nickname AT THE BEGINNING, not halfway through)
-
-"On the initial use of an unfamiliar acronym within a document or a section, spell out the full term, and then put the acronym in parentheses. Put both the spelled-out version and the acronym in boldface."
-^ don't swap between the acronym and full version in the same document, stick with one or the other
-^ also don't define acronyms that will be used less than 5 times in your article
-
-Avoid using ambiguous pronouns (also pronouns overall)
-
-Use second person ("you" rather than "we")
-
-Use the right terms (don't be afraid to use a dictionary)
-
-Avoid "etc." unless it's obvious/repetitive.
-
-Use active voice instead of passive voice (sentences are more to the point that way)
-^ to know which one you're using, remember that active voice = actor + verb + target, whereas passive voice = target + verb + actor
-
-Choose strong (aka more descriptive) verbs, avoid:
-  - forms of be (like is/are or was/were)
-	^ + past participle verbs
-	- occur
-	- happen
-
-Use the below table as a point of reference:
-- fully passive voice: Code is interpreted by Python, but code is compiled by C++.
-- semi passive voice: Python interprets code, but code is compiled by C++.
-- fully active voice: Python interprets code, but C++ compiles code.
-
-Minimize certain adjectives and adverbs (be more literal, while still being interesting)
-
-Focus each sentence on a single idea (make them shorter, making them easier to read)
+First Draft:
+- use a unique voice (don't try to copy others)
+- include a link to new or unfamiliar terms (better yet, define it yourself)
+- on the initial use of an unfamiliar acronym within a document or a section, spell out the full term, and then put the acronym in parentheses.
+^ put both the spelled-out version and the acronym in boldface
+- avoid "etc." unless it's obvious/repetitive
+- focus each sentence into a single idea (keep one sentence = one idea formula in mind)
 ^ convert some long sentences into lists instead of individual sentences
+- refrain from referring to colors in images (for blind folks and monochromatic printers)
+- also refrain from using bold, italics, and especially don't use both
+- start numbered lists with commanding (action) verbs
+- use widely known metaphors/similes/idioms (to avoid confusing/alienating readers)
+- read article aloud (assuming I'm the reader), helps you spot things that could be rephrased
+^ also use https://hemingwayapp.com/ to help
 
-DON'T USE FILLER TEXT (LITERALLY STAY AS FAR AWAY FROM IT AS POSSIBLE)
+Feedback and Editing:
+- make sure the right terms were used (don't be afraid to use a dictionary)
+- check for consistent and correct use of terms (if a term is too long/wordy, give it a nickname AT THE BEGINNING, not halfway through)
+- check for ambiguous pronouns (replace if used)
+- make sure correct person was used (second person, using "you" instead of "we")
+- check for correct usage of voice (active instead of passive, use table in "Notes" below)
+^ remember that active voice = actor + verb + target, whereas passive voice = target + verb + actor
+- check for strong verb choice, avoid forms of be (like is/are or was/were), occur, and happen
+- minimize certain adjectives and adverbs (to be more literal)
+- check for filler text (remove IMMEDIATELY)
+- clean up the punctuation (no ellipses, excessive exclamations, semi-colons)
+- check list usage (bulleted vs. numbered vs. run-in, avoid that last one)
+- verify use of that vs. which (if there's a pause before the subordinate clause, use which, otherwise use that)
+- using "Paragraph Rubric" (under "Notes), revise and edit paragraphs to fit this
 
-Don't refer to colors in figures/pictures (for blind folks and for monochrome printers)
-
-Don't use excessive bold, italics, and especially not both.
-
-Use simple, straightforward language, clean up the punctuation (no ellipses, excessive exclamations, semi-colons).
-
-Aim for 500-1000 words per article (unless it's a handbook)
-
-Keep the one sentence = one idea formula in mind
-
-If you read a sentence aloud and hear a pause just before the subordinate clause, then use which. If you don't hear a pause, use that.
-
-There are three types of lists (bulleted, numbered, and run-in).
-^ bulleted are for random ideas, numbered are for steps in order, and run-in are to be avoided XD)
-
-Start numbered lists with commanding verbs
-
-Create useful tables/images/code snippets, basically more than just words haha
+Second Draft:
+- aim for 500 words or more per article (unless it's a handbook, then it should be 15000 or more)
+- create useful code snippets, tables, and images so it's not just words
 ^ it can help to write the caption before creating an image
 ^ make sure your caption is brief, memorable, and focused
-
-Following above, if specifying a part of an image (for readers to click on or simply focus on), use a marking like a shape or color
-
-Also following above - when using code snippets - use samples that are correct, concise, and can be reused with minimal side effects
+- following above, if specifying a part of an image (for readers to focus on), use a marking like a shape or color
+- also following above, when using code snippets - use samples that are correct, concise, and can be reused with minimal side effects
 ^ also use comments (explaining why - not what - the code is doing what it's doing, unless it's obvious)
+- read article aloud (assuming I'm the reader), helps you spot things that could be rephrased
+^ also use https://hemingwayapp.com/ to help
 
-Ask questions like:
-- "Who is my audience?"
-- "Why are they reading my article?"
-- "What are they expecting?"
-
-Paragraph "Rubric":
-- What are you trying to tell your reader?
-- Why is it important for the reader to know this?
-- How should the reader use this knowledge? Alternatively, how should the reader know your point to be true?
-
-Use widely known metaphors/similes/idioms (if any), that won't confuse or alienate any readers.
-
-Be sure to organize the document (before writing) to meet your audience's needs (like so, replacing algorithm and interpreting my own order):
-- Overview of the algorithm
-  - Compare and contrast with quicksort, including Big O comparisons
-    - Link to Wikipedia article on quicksort
-  - Optimal datasets for the algorithm
-- Implementing the algorithm
-  - Implementation in pseudocode
-  - Implementation tips, including common mistakes
-- Deeper analysis of algorithm
-  - Edge cases
-  - Known unknowns
-
-Find peer editors (and coders), because work is best done with others.
-^ where to find these, though??
-
-Do good research, like the following:
-- "How can I use [technology]"
-or ask a peer (above) politely, like so:
-- "Hi [name], my name is [name]. I know you are very knowledgeable about using [technology]. I have seen some of your work over the years and it looks amazing. I'd love to know how I can [specific technological goals]? I'd totally understand if you can't respond because of your busy schedule but I will be glad if you do."
-^ but update to use own words
-or even get a book from the library
-
-"How-to guides, introductory overviews, and conceptual guides often work better as shorter documents when aimed at readers who are new to the subject matter."
-
-"In-depth tutorials, best practice guides, and command-line reference pages can work well as lengthier documents, especially when aimed at readers who already have some experience with the tools and subject matter."
-
-"After writing your first draft, read your content out loud while assuming you are the reader. This will help you spot things that can be rephrased."
-
-Use https://hemingwayapp.com/ to help with writing (after first and second drafts are completed).
-
-Make an article on my frequent Google or StackOverflow searches (with answers).
-^ but not just me personally, something I think others have experienced as well
-
-Post multi-part tutorials, then longer version, kind of like Disney shorts (where they have individual shorts and the last episode is a compilation).
+Publishing:
+- post articles on hashnode, linkedin, and dev.to
+- post multi-part tutorials, then longer compilation, like Disney shorts (where they have individual shorts and the last episode is a compilation).
 ^ also possibly write sporadic health articles (ways to be a better developer and person kinda thing??)
+^ also possibly write an article on my frequent Google and/or StackOverflow searches (with answers), ones that would help most people
 
-Maybe also post articles on dev.to and linkedin??
-
-If I end up making videos, use https://obsproject.com/download to help me.
-
-Potentially have a newsletter on my personal website or blog(s)???
-
-~
-
-Order:
+Notes:
+Article Order:
 - Headline/Title (ideas below, use emojis sparingly)
 - Cover Image
 ^ related to what I the article is about, use canva.com to make cover images (to also save from plagiarism claims), using aspect ratio of 1.91:1
@@ -129,6 +60,7 @@ Order:
 ^ includes audience (with links to previous work if applicable), prereq (if needed), setting up (if needed), useful terminology (if needed)
 - Headings/Subheadings
 - Graphics (and code snippets)
+- Body (Google for help)
 - Summary
 - Important Links
 
@@ -142,3 +74,15 @@ Headline Ideas:
 - “Why [something] matters.”
 - "A history of [something]”
 - "The [something] Handbook" (for much longer tutorials of at least 20,000 words)
+
+~
+
+Use the below table as a point of reference:
+- fully passive voice: Code is interpreted by Python, but code is compiled by C++.
+- semi passive voice: Python interprets code, but code is compiled by C++.
+- fully active voice: Python interprets code, but C++ compiles code.
+
+Paragraph Rubric:
+- What are you trying to tell your reader?
+- Why is it important for the reader to know this?
+- How should the reader use this knowledge? Alternatively, how should the reader know your point to be true?

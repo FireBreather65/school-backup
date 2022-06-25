@@ -11,10 +11,10 @@ Humanities (1):
 - us history
 - us government + civics
 
-Language Arts (3):
+Language Arts (2):
 - see english.txt
 
-Mathematics (2):
+Mathematics (3):
 - see other.txt
 
 Physical Education:
@@ -33,22 +33,24 @@ Science (4):
 --- Misc. ---
 Links:
 - https://www.careeraddict.com/
-- https://ged.com/blog/
 - https://ged.com/en/ (June 2023)
 - https://www.indeed.com/ (for internships)
 - https://www.khanacademy.org/careers/interns (Oct., if allowed)
-- https://www.thoughtco.com
 - https://workforce-central.org/job-seekers/young-adults/hire-pierce-county-next-gen/ (Feb 2024)
 
 Notes:
 - create savings account (2023)
 - /GED/Notes/practice.txt (May 2023)
 - get my GED (then a part-time job)
+- join meetups and conferences
 - participate in a hackathon (if available)
-- reward yourself (a song + wordle)
-- study in different places (bed, patio, desk)
-- take regular breaks (for exercise)
-- teach software development (HN + FCC)
+- participate in FCC and CC forums
+^ find peer coders and a mentor
+- teach software development (HN + LI + dev.to)
+^ possibly also make videos (when making projects)
+^ use https://obsproject.com/download to help
+^ also potentially have a newsletter on my website??
+- work on open source (on Github)
 
 Volunteering:
 - https://www.volunteermatch.org/search/opp3538447.jsp
