@@ -1,7 +1,8 @@
 HTML/CSS:
 - learn html + css (cc, lessons only) ✔
 - learn intermediate css (cc, lessons only) ✔
-~ Write "The Git Handbook" ~
+~ Write Git Article ~
+~ Write UI + UX Article ~
 - rwd certification (freecodecamp)
 - html/css quizzes + exercises (w3)
 

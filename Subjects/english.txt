@@ -38,5 +38,5 @@ E-books (fiction):
 E-books (non-fiction):
 - AKR ebooks + textbooks
 - GED Prep textbooks
-- editorials + the news
+- editorials + huffington post (for teens)
 - political cartoons
