@@ -17,6 +17,27 @@ Similarly, this link is helpful for input types: https://www.w3schools.com/html/
 
 For if I ever end up making videos (of me making projects or something??): https://www.w3schools.com/html/html_youtube.asp
 
+Regarding accessibility, remember transcripts for audio and captions for video; clear structure, consistent labeling, predictable links and plain language; have sufficient target sizes; don't make your services "voice-only"; text and images can be enlarged, there's sufficient contrast, not relying on color alone, support text-to-text speech.
+
+When coding, remember to use semantic tags for accessibility. Also, don't default to opening links in a new tab, instead give the user a choice.
+
+Use "aria-label" and "role=____" as attributes if you must use a <div>.
+
+Keep links underlined (as much as possible), to account for grayscale viewers and colorblind folks.
+
+If an image is simply decorative (not essential to the page), set the "alt=____" attribute as empty. Else, set the "alt=____" attribute as a description of the image (or, better yet, the intention of the image).
+
+Use headings correctly and use skip links (to improve accessibility).
+
+If website is changing in language on the screen, change the code along with it (using "lang" or "hreflang")
+
+Also try adding the "magical" autocomplete attribute to forms.
+
+An accessible error message is written in text (colors and an icon can be used, but not alone), close to the element that has failed, informative, and associated to the failed element in the code.
+^ the more precise the error's text, the better
+
+Avoid using absolute units with "line-height" (just in case user needs to zoom only text, and the box that holds the text overflows).
+
 Links:
 https://www.codecademy.com/resources/docs/html
 https://www.w3schools.com/html/default.asp

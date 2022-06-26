@@ -1,0 +1,23 @@
+- auto rename tag (by Jun Han)
+
+- code time (by Software)
+
+- colorize (by kamikillerto)
+
+- Live Server (by Ritwick Dey)
+
+- Live Share (by Microsoft)
+
+- Markdown Preview Advanced (by Yiyi Wang)
+
+- open in browser (by TechER)
+
+- Path Intellisense (by Christian Kohler)
+
+- Polacode (by P & P)
+
+- Prettier [...] (by Prettier)
+
+- Ra Livid Dark Theme (by Rahman Yerli)
+
+- W3C Web Validator (by Celian Riboulet)

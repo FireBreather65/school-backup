@@ -49,4 +49,6 @@ UCD Process:
 - help users recognize, diagnose and recover from errors (simple error messages vs. error codes)
 - help and documentation
 
+Links:
+https://www.codecademy.com/resources/docs/uiux
 https://www.freecodecamp.org/news/what-is-digital-design-and-why-does-it-matter/

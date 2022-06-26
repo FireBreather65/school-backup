@@ -88,3 +88,6 @@ git push origin (branchname) - pushes an existing branch to the origin (your) br
 Or just use this: https://education.github.com/git-cheat-sheet-education.pdf
 
 Also this, for even easier documentation: https://www.freecodecamp.org/news/git-cheat-sheet/
+
+Links:
+https://www.codecademy.com/resources/docs/git

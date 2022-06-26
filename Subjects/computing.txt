@@ -1,32 +1,38 @@
 HTML/CSS:
 - learn html + css (cc, lessons only) ✔
 - learn intermediate css (cc, lessons only) ✔
-~ Write Git Article ~
-~ Write UI + UX Article ~
+- html + css tutorials (w3, skip SASS)
+- html + css quizzes + exercises (w3)
 - rwd certification (freecodecamp)
-- html/css quizzes + exercises (w3)
 
 JavaScript:
 - learn javascript (cc, lessons only)
 - learn intermediate javascript (cc, lessons only)
+- javascript tutorial (w3, stop at BOM)
 - jsads certification (freecodecamp)
-- javascript quizzes + exercises (w3)
 
 Extended JS:
 - learn angular.js (cc, lessons only)
+- angular.js tutorial (w3)
 - learn typescript (cc, lessons only)
+- typescript tutorial + quiz + exercise (w3)
 - learn p5.js (cc, lessons only)
 - learn game development w/ phaser.js (cc, lessons only)
+- javascript tutorial (w3, start from BOM)
+- javascript quiz + exercise (w3)
 
 Front End Libraries:
 - learn react (cc, lessons only)
 - learn redux (cc, lessons only)
 - learn react testing (cc, lessons only)
 - learn react router (cc, lessons only)
-- fedl certification (freecodecamp)
+- react tutorial (w3)
+- react quiz + exercise (w3)
+- bootstrap tutorials 3, 4, 5 (w3)
 - bootstrap quizzes + exercises (w3)
-- jquery quizzes + exercises (w3)
-- react quizzes + exercises (w3)
+- jquery + SASS tutorials (w3)
+- jquery quiz + exercise (w3)
+- fedl certification (freecodecamp)
 
 Data:
 - getting started off-platform for data science (cc, articles only)
@@ -34,35 +40,36 @@ Data:
 
 Back End Development:
 - learn node.js (cc, lessons only)
+- node.js tutorial (w3, save for RPi)
 - bed + api certification (freecodecamp)
 
 Java:
 - learn java (cc, lessons only)
 - all extra java courses (cc, lessons only)
 - learn intermediate java (cc, lessons only)
-- java quizzes + exercises (w3)
+- java tutorial + quiz + exercise (w3)
 
 PHP:
 - learn php (cc, lessons only)
-- php quizzes + exercises (w3)
+- php tutorial + quiz + exercise (w3)
 
 Quality Assurance:
 - qa certification (freecodecamp)
 
 Scientific Computing w/ Python:
+- python tutorial + quiz + exercise (w3)
 - scwp certification (freecodecamp)
-- python quizzes + exercises (w3)
 - build connect four using python (cc)
 
 Data Analysis w/ Python:
+- numpy tutorial + quiz + exercise (w3)
+- pandas tutorial + quiz + exercise (w3)
 - dawp certification (freecodecamp)
-- numpy quizzes + exercises (w3)
-- pandas quizzes + exercises (w3)
 
 Relational Database:
 - learn sql (cc, lessons only)
+- sql tutorial + quiz + exercise (w3)
 - rd certification (freecodecamp)
-- sql quizzes + exercises (w3)
 
 Information Security:
 - is certification (freecodecamp)
@@ -70,24 +77,26 @@ Information Security:
 Cyber Security:
 - introduction to it (cc, lessons only)
 - introduction to cybersecurity (cc, lessons only)
-- cybersecurity quizzes (w3)
+- cybersecurity tutorial + quiz (w3)
 
 Machine Learning w/ Python:
+- python machine learning tutorial (w3)
 - mlwp certification (freecodecamp)
 
 Go:
 - learn go (cc, lessons only)
-- go exercises (w3)
+- go tutorial + exercise (w3)
 
 C++:
 - learn c++ (cc, lessons only)
-- c++ quizzes + exercises (w3)
+- c++ tutorial + quiz + exercise (w3)
 
 Computer Science:
 - ap csp (ka)
 - computer science (ka)
 
 Coding Interview Prep:
+- code challenges (cc)
 - cip (freecodecamp)
 - https://www.codewars.com/
 - https://www.hackerrank.com/
