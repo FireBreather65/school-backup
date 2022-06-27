@@ -35,7 +35,7 @@ Links:
 - https://www.careeraddict.com/
 - https://ged.com/en/ (June 2023)
 - https://www.indeed.com/ (for internships)
-- https://www.khanacademy.org/careers/interns (Oct., if allowed)
+- https://www.khanacademy.org/careers/interns (Oct. 2023, if allowed)
 - https://workforce-central.org/job-seekers/young-adults/hire-pierce-county-next-gen/ (Feb 2024)
 
 Notes:
@@ -47,7 +47,7 @@ Notes:
 - participate in FCC and CC forums
 ^ find peer coders and a mentor
 - teach software development (HN + LI + dev.to)
-^ possibly also make videos (when making projects)
+^ possibly also make videos (vlog diary when making projects)
 ^ use https://obsproject.com/download to help
 ^ also potentially have a newsletter on my website??
 - work on open source (on Github)

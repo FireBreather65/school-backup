@@ -1,6 +1,7 @@
 - fcc projects (the main ones especially)
 
 Wordle Clone (unlimited, with color blind mode)
+^ and multiple letters (4 or 5 to 11)
 
 True Google Clone
 

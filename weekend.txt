@@ -1,2 +1,0 @@
-- help Mom assign KA exercises
-- write git article, then write ui + ux article

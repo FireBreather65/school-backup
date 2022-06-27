@@ -1,6 +1,7 @@
 HTML/CSS:
 - learn html + css (cc, lessons only) ✔
 - learn intermediate css (cc, lessons only) ✔
+~ Git and UI + UX articles ~
 - html + css tutorials (w3, skip SASS)
 - html + css quizzes + exercises (w3)
 - rwd certification (freecodecamp)

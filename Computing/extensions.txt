@@ -1,6 +1,6 @@
-- auto rename tag (by Jun Han)
+- Auto Rename Tag (by Jun Han)
 
-- code time (by Software)
+- Code Time (by Software)
 
 - colorize (by kamikillerto)
 
