@@ -1,10 +1,7 @@
 Math (KA):
-- algebra 1
-^ take again, writing complete notes w/videos this time
-- https://www.khanacademy.org/math/algebra-home/alg-system-of-equations
-- hs geometry
-- algebra 2
-- trigonometry
+- algebra library
+- geometry library
+~ unfinished courses ~
 - hs statistics
 - precalculus
 - stats and prob
@@ -21,8 +18,11 @@ Math (CC):
 Science:
 - hs biology - NGSS
 ^ take again, writing complete notes w/videos this time
-- hs physics - NGSS
-- hs chemistry - NGSS
-^ not yet released
 - cosmology/astronomy
 - ap environmental science
+- hs chemistry - NGSS
+^ not yet released
+- hs physics - NGSS
+^ only do before chem. 
+^ if still not released 
+^ when all other courses are taken

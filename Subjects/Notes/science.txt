@@ -49,3 +49,27 @@ Organization of Multicellular Organisms:
 - order is cell, tissue, organs, organ system, organism
 
 - video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:genes-cells-and-organisms/x4c673362230887ef:organization-of-multicellular-organisms/v/organization-of-multicellular-organisms
+
+~
+
+Cell Division and Organism Growth:
+- each organism starts off as a cell (the result of a fusion between sperm and egg, aka two gametes)
+
+- each gamete has half of the genetic material needed to make that organism
+
+- once the above fusion has happened, you're now diploid (whereas before, you were haploid)
+
+- mitosis is the process of cell division (where a parent cell divides into two daughter cells, genetically identical to the parent cell)
+
+- chromosomes are long strands of DNA located in the nucleus of the cell
+
+stages of mitosis:
+	- prophase (early [where the mitotic spindle starts to form, chromosomes start to condense, nucleolus disappears] v. late [nuclear envelope breaks down, chromosomes are fully condensed])
+	- metaphase (chromosomes line up at metaphase plate aka the center)
+	- anaphase (sister chromosomes get pulled toward poles, poles get pushed apart)
+	- telophase (mitotic spindle disappears, nuclear membrane reforms, nucleolus reappears, chromosomes start to decondense)
+	- cytokinesis (actual complete division of cell)
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:growth-and-feedback-in-organisms/x4c673362230887ef:cell-division-and-organism-growth/v/cell-division-and-organism-growth
+
+~

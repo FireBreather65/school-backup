@@ -27,3 +27,5 @@ Netlify:
 5. Edit Site Name (if desired).
 
 - https://docs.netlify.com/
+
+Not sure if this is necessary: https://www.thoughtco.com/get-free-domain-name-4693744

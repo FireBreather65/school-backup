@@ -1,10 +1,5 @@
 ~ US History ~
 
-Thinking Like a Historian:
-- N/A
-
-~
-
 Source Identification:
 - primary source is the main source, such as:
   - photography
@@ -38,61 +33,6 @@ Avoiding Common Mistakes in Historical Essays:
 
 Native Societies Before Contact:
 - three-sister farming = corn, beans, squash
-
-~
-
-Native American Culture of the Southwest:
-- N/A
-
-~
-
-Native American Culture of the West:
-- N/A
-
-~
-
-Native American Culture of the Northeast:
-- N/A
-
-~
-
-Native American Culture of the Southeast:
-- N/A
-
-~
-
-Native American Culture of the Plains:
-- N/A
-
-~
-
-Pre-Colonization European Society:
-- N/A
-
-~
-
-African Societies [...]:
-- N/A
-
-~
-
-Motivation for European Conquest [...]:
-- N/A
-
-~
-
-Origins of European Exploration [...]:
-- N/A
-
-~
-
-Christopher Columbus:
-- N/A
-
-~
-
-The Columbian Exchange:
-- N/A
 
 ~
 
@@ -135,6 +75,50 @@ Comparing European and Native [...] cultures:
 
 ~
 
+French and Dutch Colonization:
+- much less violent than the Spanish Colonization, more friendly and observant/aware of each others' rituals
+^ but it was self-servient, because they traded with each other (the fur trade)
+
+comparing colonization:
+- goal:
+  - Spain: gold plantations
+	- France + Netherlands: trading furs and fish
+	- England: plantations + religious freedom
+- settlers:
+	- Spain: mostly men in large numbers
+	- France + Netherlands: mostly men in small numbers
+	- England: men in the South, families in the North
+- native relations:
+  - Spain: violence, slavery, intermarriage
+	- France + Netherlands: friendly, intermarriage
+	- England: violence, excursion
+- religion:
+  - Spain: forced conversion to Catholicism
+	- France + Netherlands: attempted conversion to Catholicism
+	- England: some attempted conversion to Protestantism
+
+~
+
+England in the Age of Exploration:
+- they were over 100 years late (1607 vs. 1492)
+
+- but they had their own problems (such as religious conflict between people in their own nation, colonial issues in Ireland <- resulting in a bloody and costly war, and economic depression)
+
+- they figured using privateers and their "awesome" navy to plunder Spanish ships was smarter than starting colonization
+
+~
+
+Motivations for English Colonization:
+- once internal religious conflict is resolved (England ends up a Protestant nation), they tried to compete with Catholics
+
+- 'joint-stock company' was the precursor to corporations today (spreads riches and risks regarding stocks)
+
+- "enclosure movement" messed up everything (people who were on the edge of poverty became very poor, because they naturally shared the land with richer people who are now fencing off their property)
+
+- the English government starts thinking there are too many people in England, so they start colonizing the Americas instead
+
+~
+
 Timeline:
 750 - 1492: Native American settlement (pre-European contact)
 1492 - 1504: Christopher Columbus messes it all up
@@ -146,17 +130,29 @@ Timeline:
 1519: Hernan Cortes begins conquest of Mexico
 1521: Tenochtitlan is in ruins, the Spanish starts building Mexico City
 ^ Native Americans that helped conquest Mexico die due to smallpox
-~ 64 year gap ~
+1524: First French Explorer reaches North America
+~ 54 year gap ~
+1578: First colonization attempt in Roanoke (resulting in the Lost Colony of Roanoke)
+~ 7 year gap ~
 1585: Roanoke Colony
 ~ 13 year gap ~
 1598: Juan de Onate establishes New Mexico
-~ 9 year gap ~
-1607: Jamestown Colony
-~ 9 year gap ~
+~ 4 year gap ~
+1602: Dutch East India Company established
+~ 5 year gap ~
+1607: England founds Jamestown Colony
+1609: Samuel de Champlain helps Algonquians in the war against Iroquois
+~ 7 year gap ~
 1616 - 18: Epidemics claim lives of 75% indigenous people
-~ >=14 year gap ~
+~ 3 year gap ~
+1621: Dutch West India Company established
+~ 3 year gap ~
+1624: Dutch found New Netherland
+~ >=6 year gap ~
 1630s: 1/2 of Huron and Iroquois people die of smallpox
-~ <=50 year gap ~
+~ <=34 year gap ~
+1664: England captures New Netherland
+~ 16 year gap ~
 1680: Pueblo Revolt (resistance to colonization in New Mexico)
 ~ 7 year gap ~
 1687: Sir Hans Sloane travels to Jamaica (records hundreds of new plants)

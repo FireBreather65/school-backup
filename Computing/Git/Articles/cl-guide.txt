@@ -1,0 +1,35 @@
+Title: The Beginner's Guide to ____
+~ Cover Image (canva.com, aspect ratio of 1.91:1) ~
+Introduction:
+	- audience
+	- prereq (if needed)
+	- useful terminology
+	- states what will be discussed
+Heading 1:
+	-
+	Subheading 1:
+		-
+Heading 2:
+	-
+	Subheading 1:
+		-
+Heading 3:
+	-
+	Subheading 1:
+		-
+Heading 4:
+	-
+	Subheading 1:
+		-
+Heading 5:
+	-
+	Subheading 1:
+		-
+Summary:
+	- restates what was discussed (proper writing practices)
+
+Important Links/References:
+  -
+
+Now to do the research! Haha.
+^ CC Docs, MDN, FCC articles, TOP, W3S, HN, SO, GH Docs, and GOF Google

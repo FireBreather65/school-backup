@@ -2,7 +2,7 @@ Wireframing:
 - do good research by Googling "how can i use [technology]", asking a peer politely, or even getting a book about it
 - pay attention to who my audience is, why they would read my article, and what they're expecting when wireframing layout
 - wireframe similar to a website, basic guide on the article and my ideas for it
-- use table under "Notes" to help wireframe (maybe also use intro.txt???)
+- use "Article Organization" to help wireframe
 
 First Draft:
 - use a unique voice (don't try to copy others)
@@ -52,28 +52,41 @@ Publishing:
 ^ also possibly write an article on my frequent Google and/or StackOverflow searches (with answers), ones that would help most people
 
 Notes:
-Article Order:
-- Headline/Title (ideas below, use emojis sparingly)
-- Cover Image
-^ related to what I the article is about, use canva.com to make cover images (to also save from plagiarism claims), using aspect ratio of 1.91:1
-- Introduction
-^ includes audience (with links to previous work if applicable), prereq (if needed), setting up (if needed), useful terminology (if needed)
-- Headings/Subheadings
-- Graphics (and code snippets)
-- Body (Google for help)
-- Summary
-- Important Links
 
-Headline Ideas:
-- "How to fix…"
-- "How to build…"
-- “How to [task] with [tool]”
-- "How [something] works"
-- "The [adjective] guide to…"
-- “What exactly is [noun]?”
-- “Why [something] matters.”
-- "A history of [something]”
-- "The [something] Handbook" (for much longer tutorials of at least 20,000 words)
+Article Organization:
+
+Title: The Beginner's Guide to ____
+~ Cover Image (canva.com, aspect ratio of 1.91:1) ~
+Introduction:
+	- audience
+	- prereq (if needed)
+	- useful terminology
+	- states what will be discussed
+Heading 1:
+	-
+	Subheading 1:
+		-
+Heading 2:
+	-
+	Subheading 1:
+		-
+Heading 3:
+	-
+	Subheading 1:
+		-
+Heading 4:
+	-
+	Subheading 1:
+		-
+Heading 5:
+	-
+	Subheading 1:
+		-
+Summary:
+	- restates what was discussed (proper writing practices)
+
+Important Links/References:
+  -
 
 ~
 
