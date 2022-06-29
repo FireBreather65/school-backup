@@ -1,10 +1,3 @@
-Title: The Beginner's Guide to ____
-~ Cover Image (canva.com, aspect ratio of 1.91:1) ~
-Introduction:
-	- audience
-	- prereq (if needed)
-	- useful terminology
-	- states what will be discussed
 Heading 1:
 	-
 	Subheading 1:
@@ -25,11 +18,53 @@ Heading 5:
 	-
 	Subheading 1:
 		-
-Summary:
-	- restates what was discussed (proper writing practices)
 
-Important Links/References:
-  -
+- https://www.codecademy.com/resources/docs/git
+- https://www.freecodecamp.org/news/command-line-for-beginners/
+- https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/
+- https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
+- https://www.freecodecamp.org/news/git-and-github-for-beginners/
 
-Now to do the research! Haha.
-^ CC Docs, MDN, FCC articles, TOP, W3S, HN, SO, GH Docs, and GOF Google
+Ideas (TOP):
+- quick tip: use ctrl + c to escape (if you forget a quotation mark)
+- What is the command line? Moreover, what's the difference between the command line and git bash?
+- How do you open the command line on your computer?
+- How can you navigate to a particular directory?
+- Where will cd on its own navigate you to?
+- Where will cd .. navigate you to?
+- How do you display the name of the directory you are currently in?
+- How do you display the contents of the directory you are currently in?
+- How do you create a new directory?
+- How do you create a new file?
+- How do you destroy a directory or file?
+- How do you rename a directory or file?
+- How do you set up Git Bash on your local machine (windows users)
+- How can you check what version of Git is downloaded?
+- How can you connect Git (local) to Github (remote) <- simple explanation, explain that this tutorial will not cover it completely and give link to tutorial that will cover it completely
+- ^ How do you create a new repository on GitHub?
+- How do you copy a repository onto your local machine from GitHub?
+- What is the default name of your remote connection?
+- Explain what origin is in git push origin main.
+- Explain what main is in git push origin main.
+- Explain the two-stage system that Git uses to save files.
+- How do you check the status of your current repository?
+- How do you add files to the staging area in git?
+- How do you commit the files in the staging area and add a descriptive message?
+- How do you push your changes to your repository on GitHub?
+- How do you look at the history of your previous commits?
+
+~ regarding Ideas (TOP), remember that this is mainly a Git Bash tutorial (not for Git and Github, save for one SMALL section) ~
+
+Ideas (W3S):
+- Git Staging Environment
+- Git Help
+- Git Revert
+- Git Amend (need to learn)
+- Git Stash (need to learn)
+- Git Config (whaaaa oh yeah, it sets your email and username)
+- Git Clone (whaaaa)
+- Git Pull
+
+Talk about 3 automatic files (.gitignore, README.md, and LICENSE)
+
+Be sure to bring up push.txt (esp. Updating Existing Repo on GH)

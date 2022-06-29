@@ -1,4 +1,4 @@
-Creating a new Project:
+Creating a New Project:
 ~ cd to main directory (or wherever you want to make the project) ~
 1. Create a directory (mkdir _____)
 2. Change to new directory (cd _____)
@@ -8,7 +8,7 @@ Creating a new Project:
 5. Add files to staging area (git add .)
 6. Commit files (git commit -m "Commit message")
 
-Creating a new Repo on GH:
+Creating a New Repo on GH:
 1. Change to project directory (cd _____)
 ^ verify with pwd
 2. Check status (git status, shouldn't be modified)

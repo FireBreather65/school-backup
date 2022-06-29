@@ -1,0 +1,50 @@
+Title: The Beginner's Guide to Git Bash
+
+Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1200px-Git_session.svg.png
+
+~
+
+Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its helpful qualities for developers]. [helpful intro here - including prereq - that states what will be discussed] NOTE: This tutorial is for Windows users only, however, [you can find a link to Git for other users here]. <- find a link for that
+
+~
+
+Intro to Git Bash
+  - What is Git Bash
+  - Git Bash vs. Command Prompt
+
+Installation and Setup:
+  - Installing Git Bash
+	- Setting Up Git Bash
+
+Navigating the File System:
+  - Intro to the File System
+  - Viewing and Changing the File System
+  - Configuring the Environment
+
+~ playing around a bit ~
+
+Intro to Github
+  - What is Github
+	- Github vs. Git Bash
+
+Setup:
+  - Setting Up Your Github Profile
+
+~ playing around again ~
+
+Connecting Git and Github
+  - i mean...self explanatory eh?
+	- Basic Git Workflow
+	- Important Git Operations
+	- Git Branching (???)
+	
+Deploying Your Website to Github
+  - Best Practices (maybe how to write a README???)
+	- Git Branching (???)
+
+~
+
+Summary: [recap on helpful terms learned and what we now know, in less of a childish sounding way], also take note that I didn't cover Git Teamwork (explain that I don't have much experience)
+
+Important Links/References:
+- 

@@ -73,7 +73,7 @@ git merge (branchname) - merges the branch you're on with the branch that you ca
 
 git branch -d (branchname) - deletes the specific branch from your repository
 
-git branch -D (branchname) - same as above, but deletes branches that were never merged with master
+git branch -D (branchname) - same as above, but deletes branches that were never merged with main
 
 Git Teamwork (for collaborations):
 
@@ -81,7 +81,7 @@ git clone (remote_location) (clone_name) - clones an existing repository so you 
 
 git fetch - fetches changes that others have made to your clone (on a remote branch, not the main), and doesn't merge them
 
-git merge origin/master - merges the origin (your) branch with the master (main) branch
+git merge origin/main - merges the origin (your) branch with the main (main) branch
 
 git push origin (branchname) - pushes an existing branch to the origin (your) branch
 

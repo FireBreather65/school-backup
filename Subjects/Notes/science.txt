@@ -73,3 +73,28 @@ stages of mitosis:
 - video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:growth-and-feedback-in-organisms/x4c673362230887ef:cell-division-and-organism-growth/v/cell-division-and-organism-growth
 
 ~
+
+Feedback in Living Systems:
+- physiological responses are the internal changes our bodies carry out UNCONCIOUSLY, whereas behavioral responses are the actions we carry out CONCIOUSLY in response to needs
+
+- physiological responses to hot temperatures include sweating and thirst, and behavioral responses to hot temperatures include finding shade and drinking water
+
+- homeostasis is the tendency to maintain internal conditions despite changes in external conditions
+
+- organisms maintain homeostatis with negative feedback loops (which counteract stimuli) and positive feedback loops (which amplify stimuli)
+
+negative feedback loop:
+- stimulus (detectable change in internal conditions) -> detection (detection of that detectable change, if you will) -> response (counteraction of change)
+
+positive feedback loop:
+- stimulus (detectable change in internal conditions) -> detection (detection of that detectable change, if you will) -> response (amplification of change)
+
+- thermoregulation is the process of maintaining body temperature at an acceptable range (neg.)
+
+- osmoregulation is the process of keeping salt concentration in an organism at an acceptable range (neg.)
+
+- childbirth is the process of birthing a child (pos.)
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:growth-and-feedback-in-organisms/x4c673362230887ef:feedback-in-living-systems/v/feedback-in-living-systems
+
+~

@@ -1,8 +1,8 @@
 Wireframing:
-- do good research by Googling "how can i use [technology]", asking a peer politely, or even getting a book about it
-- pay attention to who my audience is, why they would read my article, and what they're expecting when wireframing layout
-- wireframe similar to a website, basic guide on the article and my ideas for it
-- use "Article Organization" to help wireframe
+- do good research by Googling "how can i use [technology]", asking a peer politely, or even getting a book about it ✔
+- pay attention to who my audience is, why they would read my article, and what they're expecting when wireframing layout ✔
+- wireframe similar to a website, basic guide on the article and my ideas for it ✔
+- use "Article Organization" to help wireframe ✔
 
 First Draft:
 - use a unique voice (don't try to copy others)
@@ -45,7 +45,7 @@ Second Draft:
 - read article aloud (assuming I'm the reader), helps you spot things that could be rephrased
 ^ also use https://hemingwayapp.com/ to help
 
-Publishing:
+Publishing (Mon-Thurs):
 - post articles on hashnode, linkedin, and dev.to
 - post multi-part tutorials, then longer compilation, like Disney shorts (where they have individual shorts and the last episode is a compilation).
 ^ also possibly write sporadic health articles (ways to be a better developer and person kinda thing??)
