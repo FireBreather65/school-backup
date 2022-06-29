@@ -1,8 +1,6 @@
 Math (KA):
-- algebra library
-- geometry library
+- algebra + geometry libraries
 ~ unfinished courses ~
-- hs statistics
 - precalculus
 - stats and prob
 - ap calculus ab

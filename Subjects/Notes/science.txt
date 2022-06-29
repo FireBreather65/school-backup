@@ -98,3 +98,20 @@ positive feedback loop:
 - video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:growth-and-feedback-in-organisms/x4c673362230887ef:feedback-in-living-systems/v/feedback-in-living-systems
 
 ~
+
+Photosynthesis:
+- photosynthesis is the process by which plants make sugar from light
+
+- light cannot be converted to matter, however, it's a form of energy
+
+- "ingredients" for photosynthesis are simply carbon dioxide from the atmosphere and water from the ground
+
+- endergonic reactions are net increases in energy (e) from the "ingredients" above
+
+- light-dependent reactions include ATP, NADPH, and absorption of light energy (which eventually breaks the bonds of water molecules)
+
+- light-independent reactions include ADP, NADP+
+
+- breaking bonds consumes energy, forming bonds releases energy
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:matter-and-energy-in-organisms/x4c673362230887ef:photosynthesis/v/photosynthesis-hs

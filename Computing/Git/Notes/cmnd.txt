@@ -2,6 +2,16 @@
 
 ls - lists all files and directories inside wherever you are
 
+echo - prints text (and other things like equation answers) to the terminal window
+
+cat - reads files, creates files, and/or concatenate files
+
+head - reads the start of a file (10 lines by default)
+
+tail - reads the end of a file (10 lines by default)
+
+less - reads files (without fear of accidentally tampering with them)
+
 pwd - prints working directory (where you are)
 
 cd - changes directory to where you want to go
@@ -20,11 +30,15 @@ mv - moves and/or renames files and directories (depending on arguments)
 
 rm - removes files
 
-rm -r - removes directories
+rmdir - removes directories
 
 rm -rf - removes directories without question (XD)
 
-Better Workflow: https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/
+history - lists your most recent commands
+
+alias - creates your own custom Bash commands
+
+[command] --help - brings up a help menu for [command]
 
 ------ GIT ------
 
@@ -39,6 +53,8 @@ git commit - adds a commit (use -m and quotation marks to write a commit message
 
 ^ also see workflow.png
 
+~
+
 Basic Workflow (extras):
 
 git status - checks status of files in staging area
@@ -51,6 +67,8 @@ git log - logs a list of all previous commits
 
 git log (filename) - logs a list of all previous commits for that specific file
 
+~
+
 How to Backtrack:
 
 git show HEAD - shows the most recently made commit
@@ -59,7 +77,15 @@ git checkout HEAD (filename) - reverts the file back to its last commit
 
 git reset HEAD (filename) - resets file to HEAD commit and removes it from the staging area
 
-git reset (first 7 of SHA aka commit id) - reverts the file back to a previous commit in history
+git reset [commithash] - resets the file back to the [commithash] supplied (first 7 of SHA), erases all commits further
+
+git revert [commithash] - reverts the file back to the [commithash] supplied (first 7 of SHA), doesn't erase all commits further
+
+git [command] -help - gets help for a specific [command]
+
+git help --all - shows all possible commands
+
+~
 
 Git Branching (check out conflict.png for more info):
 
@@ -75,8 +101,6 @@ git branch -d (branchname) - deletes the specific branch from your repository
 
 git branch -D (branchname) - same as above, but deletes branches that were never merged with main
 
-Git Teamwork (for collaborations):
-
 git clone (remote_location) (clone_name) - clones an existing repository so you can edit w/o immediately committing changes to said repository (on a branch called origin)
 
 git fetch - fetches changes that others have made to your clone (on a remote branch, not the main), and doesn't merge them
@@ -85,9 +109,11 @@ git merge origin/main - merges the origin (your) branch with the main (main) bra
 
 git push origin (branchname) - pushes an existing branch to the origin (your) branch
 
-Or just use this: https://education.github.com/git-cheat-sheet-education.pdf
+git pull origin (branchname) - pulls the remote version of a repository to the origin (your) branch
 
-Also this, for even easier documentation: https://www.freecodecamp.org/news/git-cheat-sheet/
+~
 
 Links:
-https://www.codecademy.com/resources/docs/git
+- https://education.github.com/git-cheat-sheet-education.pdf
+- https://www.freecodecamp.org/news/git-cheat-sheet/
+- https://www.codecademy.com/resources/docs/git

@@ -1,70 +1,129 @@
-Heading 1:
-	-
-	Subheading 1:
-		-
-Heading 2:
-	-
-	Subheading 1:
-		-
-Heading 3:
-	-
-	Subheading 1:
-		-
-Heading 4:
-	-
-	Subheading 1:
-		-
-Heading 5:
-	-
-	Subheading 1:
-		-
+Title: The Beginner's Guide to Git Bash
 
-- https://www.codecademy.com/resources/docs/git
-- https://www.freecodecamp.org/news/command-line-for-beginners/
-- https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/
-- https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
-- https://www.freecodecamp.org/news/git-and-github-for-beginners/
+Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1200px-Git_session.svg.png
 
-Ideas (TOP):
-- quick tip: use ctrl + c to escape (if you forget a quotation mark)
-- What is the command line? Moreover, what's the difference between the command line and git bash?
-- How do you open the command line on your computer?
-- How can you navigate to a particular directory?
-- Where will cd on its own navigate you to?
-- Where will cd .. navigate you to?
-- How do you display the name of the directory you are currently in?
-- How do you display the contents of the directory you are currently in?
-- How do you create a new directory?
-- How do you create a new file?
-- How do you destroy a directory or file?
-- How do you rename a directory or file?
-- How do you set up Git Bash on your local machine (windows users)
-- How can you check what version of Git is downloaded?
-- How can you connect Git (local) to Github (remote) <- simple explanation, explain that this tutorial will not cover it completely and give link to tutorial that will cover it completely
-- ^ How do you create a new repository on GitHub?
-- How do you copy a repository onto your local machine from GitHub?
-- What is the default name of your remote connection?
-- Explain what origin is in git push origin main.
-- Explain what main is in git push origin main.
-- Explain the two-stage system that Git uses to save files.
-- How do you check the status of your current repository?
-- How do you add files to the staging area in git?
-- How do you commit the files in the staging area and add a descriptive message?
-- How do you push your changes to your repository on GitHub?
-- How do you look at the history of your previous commits?
+~
 
-~ regarding Ideas (TOP), remember that this is mainly a Git Bash tutorial (not for Git and Github, save for one SMALL section) ~
+Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its helpful qualities for developers]. [helpful intro here - including prereq - that states what will be discussed] NOTE: This tutorial is for Windows users only, however, [you can find a link to Git for other users here]. <- find a link for that
 
-Ideas (W3S):
-- Git Staging Environment
-- Git Help
-- Git Revert
-- Git Amend (need to learn)
-- Git Stash (need to learn)
-- Git Config (whaaaa oh yeah, it sets your email and username)
-- Git Clone (whaaaa)
-- Git Pull
+~
 
-Talk about 3 automatic files (.gitignore, README.md, and LICENSE)
+Intro to Git Bash
+  - What is Git Bash
+    - What is the command line? Moreover, what's the difference between the command line and git bash?
+    ^ The command line is an interface for typing commands directly to a computer's operating system. The difference between the command line and Git Bash is that there are many different command lines, include Git Bash (give analogy for something that isn't the same, but is part of it???)
+    ^ https://www.makeuseof.com/git-bash-what-how-use/
+  - Git Bash vs. Command Prompt
+    - What's the difference between the command prompt and git bash?
+    ^ Windows has a native command-line interface, Command Prompt, but to use Bash on a Windows computer, we need to download and install a program called Git Bash.
+    ^ https://www.makeuseof.com/git-bash-what-how-use/
 
-Be sure to bring up push.txt (esp. Updating Existing Repo on GH)
+Installation and Setup:
+  - Installing Git Bash
+    - How do you set up Git Bash on your local machine?
+    ^ First, download Git Bash (give link). Click the downloaded file to run it. Allow permission to make changes to the device. Read the License carefully - when you're ready click the Next button.
+    ^ https://www.makeuseof.com/install-git-git-bash-windows/
+	- Setting Up Git Bash
+    - How can you check what version of Git is downloaded?
+    ^ with git --version
+    - How do you log into Git?
+    ^ find somewhere that explains haha
+
+Navigating the File System:
+  - Viewing the File System
+    - How can you navigate to a particular directory?
+    ^ First cd to your home directory. Then cd into the directory you want (either directly or inside other directories)
+    ^ give an example with my own experience and example folder tree
+    - Where will cd on its own navigate you to?
+    ^ straight to your home directory
+    - Where will cd .. navigate you to?
+    ^ up one directory in the folder tree
+    - How do you display the name of the directory you are currently in?
+    ^ with pwd
+    - How do you display the contents of the directory you are currently in?
+    ^ with ls
+  - Changing the File System
+    - How do you create a new directory?
+    ^ with mkdir
+    - How do you create a new file?
+    ^ with touch
+    - How do you destroy a directory or file?
+    ^ with rmdir and rm -rf (explain difference)
+    ^ also with rm simply...for files
+    - How do you rename a directory or file?
+    ^ with mv (include note about arguments)
+
+~ playing around a bit ~
+
+Intro to Github
+  - What is Github
+    - not sure what to put here...
+    ^ maybe connect the playing around for a bit fact to the fact that only we can see what we're doing??? So tie into how to have the whole world see it (remotely instead of locally)
+	- Github vs. Git Bash
+    - also not sure...
+    ^ also connect by having a side note that they aren't the same thing...somehow (I JUST HAD AN IDEA AND IT WAS GOOD AND NOW I DON'T HAVE IT ARGH)
+
+Setup:
+  - Setting Up Your Github Profile
+
+~ playing around again ~
+
+Git and Github
+	- Basic Git Workflow
+    - What's the absolute most basic workflow in Git?
+    ^ refer to workflow.png when writing this
+    - Explain the two-stage system that Git uses to save files. (AKA Staging Environment)
+    ^ Git uses add and commit to save files (elaborate further)
+    ^ adding how to add and commit files explanation
+  - Connecting Git and Github
+    ^simple explanation, explain that this tutorial will not cover it completely and give link to tutorial that will cover it completely
+    ^ First cd into directory you want to later push to Github (or create a new directory). Verify with pwd that you are in the right directory. Initialize a new repository with git init. Create files (if you'd like, maybe you're using a pre-existing directory?) Add files to staging area (use git add . [regarding using git add ., also add note about adding specific files to track]). Commit these additions using (git commit -m "Commit message here").
+    ^ Now to connect it to Github itself. First, make sure you're in the directory that you started tracking previously (using pwd). Check status using git status (should say [...]). Create a New Repository on Github. Only Name and Create Repository (ignore everything else, we'll talk about that later). Be sure HTTPS is selected vs. SSH. Copy commands from "…or push an existing repository from the command line" into the command line and press enter key. Wait for everything to [load] <- potentially different word??? You can delete the local folder if you'd like.
+    ^ If you want to keep the folder on your computer and push changes when you make them (add personal experience of New), follow these steps. Again, change into the directory you've been tracking (from the two previous [...]). 
+    - git add file(s) (or even .)
+    - git status (<- what does this mean, why is it necessary)
+    - git commit -m "Commit message"
+    - git push -u origin main (<- what does this mean, what can you potentially change, etc.)
+    Then refresh the page - your pushed changes should have updated remotely.
+  - Best Practices
+    - How to write a good README?
+    ^ use rdme.txt as inspiration
+    - How to write a good commit message?
+    ^ find out how hahaha
+
+More Advanced Git Bash
+	- Helpful Git Operations
+    - How do you get help for a specific command?
+    ^ with git [command] -help
+    - How do you see all commands?
+    ^ with git help --all
+    - How do you look at the history of your previous commands?
+    ^ with history
+    - How do you look at the history of your previous commits?
+    ^ with git log
+	- Git Branching (???)
+    - What is the default name of your remote connection?
+    ^ origin
+    - Explain what origin is in git push origin main.
+    ^ origin the name of your remote connection (what does this mean)
+    - Explain what main is in git push origin main.
+    ^ main is your local default branch
+  
+  - What are some other commands to note?
+  ^ bring up cmnd.txt y'all
+  - What's the difference between git revert and git reset? Also, how do you use both of them?
+  ^ git reset deletes previous commits (from where you are - where you're going), whereas git revert keeps previous commits
+  ^ use git reset [commithash] (using the log --oneline)
+  ^ https://www.w3schools.com/git/git_reset.asp
+  ^ use git revert [commithash] (using the log --oneline)
+  ^ https://www.w3schools.com/git/git_revert.asp
+  - How do you copy a repository onto your local machine from GitHub?
+  ^ with git clone
+
+
+~
+
+Summary: [recap on helpful terms learned and what we now know, in less of a childish sounding way], also take note that I didn't cover Git Teamwork (explain that I don't have much experience)
+
+Important Links/References:
+- 
