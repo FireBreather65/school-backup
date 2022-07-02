@@ -1,26 +1,40 @@
-Math (KA):
-- algebra + geometry libraries
-~ unfinished courses ~
-- precalculus
-- stats and prob
-- ap calculus ab
-- ap statistics
-- ap calculus bc
+Economics:
+- microeconomics
+- ap microeconomics
+- macroeconomics
+- ap macroeconomics
+- finance and capital markets
 
-Math (CC):
-- probability
-- discrete mathematics
-- linear algebra (KA supp.)
-- differential calculus (KA supp.)
+Humanities:
+- us history
+- ap us history
+- us gov. + civics
+- ap us gov. + pol.
+- art history
+- ap art history
+- world history
+- storytelling
+
+Mathematics:
+- algebra + geometry libraries
+~ courses (35% or higher) ~
+- ap statistics
+- precalculus
+- ap calculus ab
+- ap calculus bc
+~ courses (random calc) ~
+- probability (cc)
+- discrete mathematics (cc)
+- linear algebra (ka + cc)
+- differential calc (ka + cc)
 
 Science:
-- hs biology - NGSS
-^ take again, writing complete notes w/videos this time
-- cosmology/astronomy
+- hs biology
+- ap biology
+- chemistry library
+- ap chemistry
+- hs physics
+- ap physics 1 + 2
+- organic chemistry
+- cosmology + astronomy
 - ap environmental science
-- hs chemistry - NGSS
-^ not yet released
-- hs physics - NGSS
-^ only do before chem. 
-^ if still not released 
-^ when all other courses are taken

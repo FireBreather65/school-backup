@@ -1,26 +1,28 @@
 --- School Subjects ---
-Computing (6):
+Computing (7):
 - see computing.txt
 
-Foreign Language (5):
+Economics (4):
+- see other.txt
+
+Foreign Language (6):
 - duolingo (french)
 - duolingo (spanish)
 - pronunciator (asl)
 
 Humanities (1):
-- us history
-- us government + civics
+- see other.txt
 
 Language Arts (2):
 - see english.txt
 
-Mathematics (3):
+Mathematics (5):
 - see other.txt
 
 Physical Education:
 - 15 crunches, 10 pushups, 5min biking
 
-Science (4):
+Science (3):
 - see other.txt
 
 --- Electives ---
@@ -28,6 +30,7 @@ Science (4):
 - live help + WL (bf)
 - personal finance
 - pixar in a box
+- talks and interviews
 - volunteermatch
 
 --- Misc. ---
@@ -52,8 +55,14 @@ Notes:
 ^ also potentially have a newsletter on my website??
 - work on open source (on Github)
 
-Volunteering:
-- https://www.volunteermatch.org/search/opp3538447.jsp
+Volunteering (tutoring):
+- https://www.volunteermatch.org/search/opp3395568.jsp
+- https://www.volunteermatch.org/search/opp3521317.jsp
+- https://www.volunteermatch.org/search/opp3496002.jsp
+- https://www.volunteermatch.org/search/opp3430223.jsp
+- https://www.volunteermatch.org/search/opp3415776.jsp
+^ always be looking for more opportunities to help!
+
+Volunteering (computing):
 - https://www.volunteermatch.org/search/opp3369524.jsp
 - https://www.volunteermatch.org/search/opp3029541.jsp
-^ always be looking for more opportunities to help, though!

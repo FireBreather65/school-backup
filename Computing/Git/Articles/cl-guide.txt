@@ -9,10 +9,6 @@ Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its h
 ~
 
 Intro to Git Bash
-  - What is Git Bash
-    - What is the command line? Moreover, what's the difference between the command line and git bash?
-    ^ The command line is an interface for typing commands directly to a computer's operating system. The difference between the command line and Git Bash is that there are many different command lines, include Git Bash (give analogy for something that isn't the same, but is part of it???)
-    ^ https://www.makeuseof.com/git-bash-what-how-use/
   - Git Bash vs. Command Prompt
     - What's the difference between the command prompt and git bash?
     ^ Windows has a native command-line interface, Command Prompt, but to use Bash on a Windows computer, we need to download and install a program called Git Bash.
@@ -92,7 +88,14 @@ Git and Github
     ^ find out how hahaha
 
 More Advanced Git Bash
-	- Helpful Git Operations
+	- Git Branching (???)
+    - What is the default name of your remote connection?
+    ^ origin
+    - Explain what origin is in git push origin main.
+    ^ origin the name of your remote connection (what does this mean)
+    - Explain what main is in git push origin main.
+    ^ main is your local default branch
+  - Helpful Git Commands
     - How do you get help for a specific command?
     ^ with git [command] -help
     - How do you see all commands?
@@ -101,25 +104,18 @@ More Advanced Git Bash
     ^ with history
     - How do you look at the history of your previous commits?
     ^ with git log
-	- Git Branching (???)
-    - What is the default name of your remote connection?
-    ^ origin
-    - Explain what origin is in git push origin main.
-    ^ origin the name of your remote connection (what does this mean)
-    - Explain what main is in git push origin main.
-    ^ main is your local default branch
-  
-  - What are some other commands to note?
-  ^ bring up cmnd.txt y'all
-  - What's the difference between git revert and git reset? Also, how do you use both of them?
-  ^ git reset deletes previous commits (from where you are - where you're going), whereas git revert keeps previous commits
-  ^ use git reset [commithash] (using the log --oneline)
-  ^ https://www.w3schools.com/git/git_reset.asp
-  ^ use git revert [commithash] (using the log --oneline)
-  ^ https://www.w3schools.com/git/git_revert.asp
-  - How do you copy a repository onto your local machine from GitHub?
-  ^ with git clone
-
+    - What are some other commands to note?
+    ^ bring up cmnd.txt y'all
+    ^ also write about git diff (never used it)
+    - What's the difference between git revert and git reset? Also, how do you use both of them?
+    ^ git reset deletes previous commits (from where you are - where you're going), whereas git revert keeps previous commits
+    ^ use git reset [commithash] (using the log --oneline)
+    ^ https://www.w3schools.com/git/git_reset.asp
+    ^ use git revert [commithash] (using the log --oneline)
+    ^ https://www.w3schools.com/git/git_revert.asp
+    - How do you copy a repository onto your local machine from GitHub?
+    ^ with git clone
+    ^ also note that git commands introduced will only work with a folder being tracked with Git
 
 ~
 

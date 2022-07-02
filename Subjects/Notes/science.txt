@@ -115,3 +115,19 @@ Photosynthesis:
 - breaking bonds consumes energy, forming bonds releases energy
 
 - video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:matter-and-energy-in-organisms/x4c673362230887ef:photosynthesis/v/photosynthesis-hs
+
+~
+
+Formation of Biomolecules:
+- carbon dioxide + water in the air -> (photosynthesis) -> glucose + molecular oxygen
+
+- when plants need to, they can metabolize food through a process of respiration
+
+- enzymes are made of amino acids (like proteins!)
+
+- metabolic pathways that break molecules down release energy, whereas ones that build up molecules consume energy
+
+- metabolic pathways rearrange atoms to form new molecules
+^ specifically, the carbon, hydrogen, and oxygen atoms in glucose molecules can be rearranged
+
+- video link: https://www.khanacademy.org/science/hs-biology/x4c673362230887ef:matter-and-energy-in-organisms/x4c673362230887ef:formation-of-biomolecules/v/formation-of-biomolecules

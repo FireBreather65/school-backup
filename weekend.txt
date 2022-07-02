@@ -1,18 +1,18 @@
-Humanities:
-- Colonial America Unit Test
+SUNDAY:
+- sort laundry
+- wash colds
+- vacuum house
+- clean freezer
+- recycling
+- clean fridge
 
-Mathematics:
-- Overview and History of Algebra
+- family + shopping
+- meo unit test
+- colonial america unit test
+- make schedule
+^ after updating school
+- work on git bash article
 
-Science:
-- Matter and Energy in Organisms Unit
-
-Foreign Language:
-- Family (french)
-- Shopping (spanish)
-- Components Quizzes (asl)
-
-Computing:
-- The Beginner's Guide to Git Bash (work on it)
-
-- also work on School (get it fixed up)
+- avocado sauce
+- egg roll assembly + frying
+- garden salad
