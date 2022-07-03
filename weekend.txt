@@ -1,18 +1,2 @@
-SUNDAY:
-- sort laundry
-- wash colds
-- vacuum house
-- clean freezer
-- recycling
-- clean fridge
-
-- family + shopping
-- meo unit test
-- colonial america unit test
-- make schedule
-^ after updating school
-- work on git bash article
-
-- avocado sauce
-- egg roll assembly + frying
-- garden salad
+7/9/22 - 7/11/22:
+- clean fridge + garbage

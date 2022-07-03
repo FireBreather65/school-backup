@@ -1,16 +1,22 @@
-Recycling + GBG
-Clean Garbage
-Clean Freezer
-Freezer List
-Check Mail
+Open Blinds
+Bed + Teeth
+Salt + Pepper
+Wash Whites
+Take Garbage
 Shower + Hair
+Sort Laundry
+Fold Towels
 
-- egg roll wrappers
-- egg roll filling
-- vinaigrette dressing
-
-Computing - Git Bash Article
-Foreign Language - Family (french) + Shopping (spanish) + Components (asl)
-Science - Cellular Respiration
+Geometry - Learn to Q1 + Q1
+Humanities - The American Revolution (to the Boston Tea Party)
+Language Arts - Banning Behavior + english.txt
+Economics - Introduction to Economics
+Science - Biology and the Scientific Method
+Algebra - Introduction to Variables
+Foreign Language - Pres Tense 1 (spanish) + Activity (french) + Materials (asl)
+Computing - Git Bash Article (First Draft)
 
 - help Mom assign KA exercises
+- sign up for K-12 tutoring (Fri.)
+^ after sending a GB message to 425
+- write + send reviews.txt

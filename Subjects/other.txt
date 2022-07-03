@@ -16,7 +16,7 @@ Humanities:
 - storytelling
 
 Mathematics:
-- algebra + geometry libraries
+- geometry + algebra libraries
 ~ courses (35% or higher) ~
 - ap statistics
 - precalculus

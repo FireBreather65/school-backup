@@ -95,6 +95,7 @@ More Advanced Git Bash
     ^ origin the name of your remote connection (what does this mean)
     - Explain what main is in git push origin main.
     ^ main is your local default branch
+    - pushing a branch not named main is as simple as replacing the name
   - Helpful Git Commands
     - How do you get help for a specific command?
     ^ with git [command] -help

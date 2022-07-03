@@ -1,28 +1,28 @@
 --- School Subjects ---
-Computing (7):
+Computing (8):
 - see computing.txt
 
 Economics (4):
 - see other.txt
 
-Foreign Language (6):
+Foreign Language (7):
 - duolingo (french)
 - duolingo (spanish)
 - pronunciator (asl)
 
-Humanities (1):
+Humanities (2):
 - see other.txt
 
-Language Arts (2):
+Language Arts (3):
 - see english.txt
 
-Mathematics (5):
+Mathematics (1, 6):
 - see other.txt
 
 Physical Education:
 - 15 crunches, 10 pushups, 5min biking
 
-Science (3):
+Science (5):
 - see other.txt
 
 --- Electives ---
@@ -37,8 +37,11 @@ Science (3):
 Links:
 - https://www.careeraddict.com/
 - https://ged.com/en/ (June 2023)
+- https://www.huffpost.com/section/teen (news)
 - https://www.indeed.com/ (for internships)
 - https://www.khanacademy.org/careers/interns (Oct. 2023, if allowed)
+- https://www.thoughtco.com/ (geography, news, etc.)
+- https://townhall.com/political-cartoons (well, the link says all)
 - https://workforce-central.org/job-seekers/young-adults/hire-pierce-county-next-gen/ (Feb 2024)
 
 Notes:
@@ -56,9 +59,7 @@ Notes:
 - work on open source (on Github)
 
 Volunteering (tutoring):
-- https://www.volunteermatch.org/search/opp3395568.jsp
 - https://www.volunteermatch.org/search/opp3521317.jsp
-- https://www.volunteermatch.org/search/opp3496002.jsp
 - https://www.volunteermatch.org/search/opp3430223.jsp
 - https://www.volunteermatch.org/search/opp3415776.jsp
 ^ always be looking for more opportunities to help!

@@ -3,12 +3,13 @@ Bed + Teeth
 ~ Chores ~
 Shower + Hair
 
+Algebra -
 Computing -
 Economics -
 Foreign Language -
+Geometry -
 Humanities -
 Language Arts -
-Mathematics -
 Science -
 
 ~ Electives ~
