@@ -5,6 +5,7 @@ Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_sessi
 Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its helpful qualities for developers]. [helpful intro here - including prereq - that states what will be discussed] NOTE: This tutorial is for Windows users only, however, [you can find a link to Git for other users here]. <- find a link for that
 
 Intro to Git Bash:
+
 - What is Git Bash?
 Git Bash is a *version control system (VCS)*, meaning it's a software designed to record changes within one or more files over time. It also allows us to undo - or even cancel - the made or pending changes in one or more files.
 
@@ -16,17 +17,46 @@ Say you were working on a webpage, and you accidentally deleted or erased the co
 
 But, if you used Git Bash to track these files and changes made to said files, you could simply revert the changes (more on that later).
 
+~
+
 - What is the command line?
 The command line is an interface for typing commands directly to a computer's operating system.
 
 Every Windows PC comes with a Command Prompt (a type of command line), which allows you to install programs, create new users, and run scripts.
+
+~
 
 - What's the difference between Git Bash and the command line?
 The difference between Git Bash and the command line is simple - Git Bash is a TYPE OF command line, not THE command line. 
 
 Kind of like the difference between vanilla ice cream and ice cream - there isn't really a difference, vanilla is simply a flavor of ice cream. Mmmm, ice cream...
 
+~
+
+- What's the difference between the Command Prompt and Git Bash?
+The difference between the Command Prompt and Git Bash is that one (the Command Prompt) is built into every Windows PC (as stated above). Bash is naturally only available for Unix-like operating systems like Linux (another operating system, or OS, like Windows). Downloading Git Bash onto your computer allows you the functionalities of Bash without changing your OS.
+
+~
+
 - Then why should I use Git Bash, not the built-in Command Prompt?
 Good question. Git Bash has more powerful features, such as arithmetic, array variables, loops, and branches.
 
 ~ https://www.makeuseof.com/git-bash-what-how-use/ ~
+
+~
+
+Installation and Setup:
+- How do you set up Git Bash on your local machine?
+First, [go to their website](https://git-scm.com/). Click the "Download [version] for Windows" button. Run the downloaded file, allowing permission to make changes to the device. Read the License carefully - when you're ready click the Next button.
+
+~
+
+- How can you check what version of Git is downloaded?
+If desired, simply type git --version into your Command Prompt.
+
+~
+
+- How do you log into Git?
+~ Potentially delete Git Bash so I can start over from experience w/ pictures??? ~
+
+~

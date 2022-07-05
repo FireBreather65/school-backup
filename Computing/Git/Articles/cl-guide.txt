@@ -7,24 +7,6 @@ Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_sessi
 Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its helpful qualities for developers]. [helpful intro here - including prereq - that states what will be discussed] NOTE: This tutorial is for Windows users only, however, [you can find a link to Git for other users here]. <- find a link for that
 
 ~
-
-Intro to Git Bash
-  - Git Bash vs. Command Prompt
-    - What's the difference between the command prompt and git bash?
-    ^ Windows has a native command-line interface, Command Prompt, but to use Bash on a Windows computer, we need to download and install a program called Git Bash.
-    ^ https://www.makeuseof.com/git-bash-what-how-use/
-
-Installation and Setup:
-  - Installing Git Bash
-    - How do you set up Git Bash on your local machine?
-    ^ First, download Git Bash (give link). Click the downloaded file to run it. Allow permission to make changes to the device. Read the License carefully - when you're ready click the Next button.
-    ^ https://www.makeuseof.com/install-git-git-bash-windows/
-	- Setting Up Git Bash
-    - How can you check what version of Git is downloaded?
-    ^ with git --version
-    - How do you log into Git?
-    ^ find somewhere that explains haha
-
 Navigating the File System:
   - Viewing the File System
     - How can you navigate to a particular directory?

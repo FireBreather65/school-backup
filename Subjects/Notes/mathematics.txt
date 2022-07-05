@@ -5,19 +5,17 @@
 Terms & Labels in Geometry:
 - a point is a point, you can't move from it (or else you'd have a different point)
 
-- a line segment connects two points, denoted by a line over the letters
+- a line segment is a straight line with two endpoints, denoted by a line over the letters
 
-- an endpoint is one of two ends of a line segment
+- a ray is a straight line (with only one endpoint) that extends infinitely in one direction, denoted by an arrow over the letters (PAY ATTENTION TO ORDER OF LETTERS)
 
-- a ray is like a line segment, except there isn't a second endpoint (you can presumably go on forever), denoted by an arrow over the letters (PAY ATTENTION TO ORDER OF LETTERS)
+- a line is a straight infinite path joining an infinite number of points in both directions, denoted by a dual arrow
 
-- a line is also like a line segment (or a ray), but you can keep going in BOTH directions (unlike a ray), denoted by a dual arrow
+- colinear points are points that are on the same line segment, ray, or line
 
-- colinear points are points that are on the same line and/or line segment
+- a midpoint is a point that is exactly halfway between two locations (which can be other points)
 
-- a midpoint is pretty self-explanatory, video below if truly needed
-
-- a plane is an infinite two-dimensional surface (you can go right, left, up, and/or down)
+- a plane is an infinite two-dimensional surface (you can go right, left, up, and/or down)=
 
 - a plane segment is a non-infinite two-dimensional surface (like a piece of paper)
 
