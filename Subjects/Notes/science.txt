@@ -1,1 +1,42 @@
 ~ High School Biology ~
+
+The Scientific Method:
+- structured steps of the scientific method:
+	1. Observation (ex. noticing that pond freezes over faster and at higher temperatures than the ocean in Northern Canada)
+
+	2. Ask a Question (ex. Why does [the above] happen?)
+
+	3. Create a Hypothesis (ex. salt water has a lower freezing point, therefore requiring colder temperatures than fresh water)
+	^ a bad hypothesis could be thinking that, say, a fairy performs magic on the pond to freeze it faster (because it's not testable)
+
+	4. Make a Prediction (ex. saying that the fresh freezes at 0°C, and salt doesn't)
+	
+	5. Design an Experiment (ex. taking two cups, one has distilled water, other has same water with a bunch of salt, putting both in freezer)
+
+	6. Ask Further Questions (ex. When does salt water freeze? Do the waves or wind have an impact?)
+
+	7. Iterate + Refine Experiment (ex. revise hypothesis and/or test again)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/the-scientific-method
+
+~
+
+Data to Justify Experimental Claims:
+- although there are no notes, it will be helpful for GED prep (data analysis of scientific graphs)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/data-to-justify-experimental-claims-examples
+
+- exercise link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/e/hs-scientific-method-and-experimental-design
+
+~
+
+Introduction to Experimental Design:
+- randomly sort people into two groups (to eliminate implicit bias)
+
+- give both of them the thing being tested (in the video's case, it was a pill), making one of them "empty" and the other the real thing
+
+- double-blind study basically means keep everyone in the dark (so nothing is suspected or subconciously provided)
+
+- make your experiment replicable (so skeptical people can be put at ease)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/introduction-to-experimental-design

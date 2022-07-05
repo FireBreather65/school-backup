@@ -1,3 +1,24 @@
 ~ Algebra ~
 
 ~ Geometry ~
+
+Terms & Labels in Geometry:
+- a point is a point, you can't move from it (or else you'd have a different point)
+
+- a line segment connects two points, denoted by a line over the letters
+
+- an endpoint is one of two ends of a line segment
+
+- a ray is like a line segment, except there isn't a second endpoint (you can presumably go on forever), denoted by an arrow over the letters (PAY ATTENTION TO ORDER OF LETTERS)
+
+- a line is also like a line segment (or a ray), but you can keep going in BOTH directions (unlike a ray), denoted by a dual arrow
+
+- colinear points are points that are on the same line and/or line segment
+
+- a midpoint is pretty self-explanatory, video below if truly needed
+
+- a plane is an infinite two-dimensional surface (you can go right, left, up, and/or down)
+
+- a plane segment is a non-infinite two-dimensional surface (like a piece of paper)
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-lines-rays/v/language-and-notation-of-basic-geometry
