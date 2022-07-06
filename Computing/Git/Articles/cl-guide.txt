@@ -1,38 +1,3 @@
-Title: The Beginner's Guide to Git Bash
-
-Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1200px-Git_session.svg.png
-
-~
-
-Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its helpful qualities for developers]. [helpful intro here - including prereq - that states what will be discussed] NOTE: This tutorial is for Windows users only, however, [you can find a link to Git for other users here]. <- find a link for that
-
-~
-Navigating the File System:
-  - Viewing the File System
-    - How can you navigate to a particular directory?
-    ^ First cd to your home directory. Then cd into the directory you want (either directly or inside other directories)
-    ^ give an example with my own experience and example folder tree
-    - Where will cd on its own navigate you to?
-    ^ straight to your home directory
-    - Where will cd .. navigate you to?
-    ^ up one directory in the folder tree
-    - How do you display the name of the directory you are currently in?
-    ^ with pwd
-    - How do you display the contents of the directory you are currently in?
-    ^ with ls
-  - Changing the File System
-    - How do you create a new directory?
-    ^ with mkdir
-    - How do you create a new file?
-    ^ with touch
-    - How do you destroy a directory or file?
-    ^ with rmdir and rm -rf (explain difference)
-    ^ also with rm simply...for files
-    - How do you rename a directory or file?
-    ^ with mv (include note about arguments)
-
-~ playing around a bit ~
-
 Intro to Github
   - What is Github
     - not sure what to put here...
@@ -41,12 +6,28 @@ Intro to Github
     - also not sure...
     ^ also connect by having a side note that they aren't the same thing...somehow (I JUST HAD AN IDEA AND IT WAS GOOD AND NOW I DON'T HAVE IT ARGH)
 
-Setup:
+Git and Github - Setup
   - Setting Up Your Github Profile
+
+  - How do you set your email on Github?
+    - In the upper-right corner of any page, click your profile photo, then click Settings. In the "Access" section of the sidebar, click Emails. In "Add email address", type your email address and click Add. Verify your email address. In the "Primary email address" list, select the email address you'd like to associate with your web-based Git operations. To keep your email address private when performing web-based Git operations, click Keep my email addresses private.
+    ^ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
+
+  - How do you set your username for all repositories in Git?
+    - Open Git Bash. Set a Git username: git config --global user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config --global user.name.
+  
+  - How do you set your username for ONE repository in Git?
+    - Open Git Bash. Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits. Set a Git username: $ git config user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config user.name.
+
+  - How do you set your email for all repositories in Git?
+    - Open Git Bash. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config --global user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config --global user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
+
+  - How do you set your email for ONE repository in Git?
+    - Open Git Bash. Change the current working directory to the local repository where you want to configure the email address that you associate with your Git commits. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
 
 ~ playing around again ~
 
-Git and Github
+Git and Github - Workflow
 	- Basic Git Workflow
     - What's the absolute most basic workflow in Git?
     ^ refer to workflow.png when writing this
@@ -103,6 +84,7 @@ More Advanced Git Bash
 ~
 
 Summary: [recap on helpful terms learned and what we now know, in less of a childish sounding way], also take note that I didn't cover Git Teamwork (explain that I don't have much experience)
+^ potentially DON'T cover branching??? Also potentially make a future tutorial for Advanced Git (at a milestone or something, at least after I learn AND use these things haha???)
 
 Important Links/References:
 - 

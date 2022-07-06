@@ -35,8 +35,40 @@ Introduction to Experimental Design:
 
 - give both of them the thing being tested (in the video's case, it was a pill), making one of them "empty" and the other the real thing
 
-- double-blind study basically means keep everyone in the dark (so nothing is suspected or subconciously provided)
+- double-blind study basically means keeping both givers and receivers in the dark (so nothing is suspected nor is information subconciously provided)
 
 - make your experiment replicable (so skeptical people can be put at ease)
 
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/introduction-to-experimental-design
+
+~
+
+Elements and Atoms:
+- elements are pure substances that have specific properties at certain temperatures and react in certain ways
+
+- atoms are smaller chunks of elements, made up of protons, neutrons, and electrons (WHAAA)
+
+- protons define the element, as the atomic number of an element is the # of protons; they're also in the nucleus (positive charge)
+^ say you had carbon (6); you can't add (or subtract) protons, or else it would be a different element like nitrogen (7)
+
+- electrons are attracted to protons (opposites attract 😉); in a neutral atom the number of protons are the same as the number of electrons, they orbit the nucleus (negative charge)
+
+- neutrons are found by subtracting the mass number from the atomic number, they're also in the nucleus (no charge)
+
+- the relation of protons to electrons determines whether a atom has a net positive or negative charge (considered an ion if there are an unequal number of protons and electrons)
+^ further information: a cation has a positive charge, an anion has a negative charge
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/elements-and-atoms
+
+~
+
+Introduction to [...]:
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-carbohydrates
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-proteins-and-amino-acids
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-lipids
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-nucleic-acids-and-nucleotides
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-vitamins-and-minerals

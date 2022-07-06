@@ -20,3 +20,5 @@ Terms & Labels in Geometry:
 - a plane segment is a non-infinite two-dimensional surface (like a piece of paper)
 
 - video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-lines-rays/v/language-and-notation-of-basic-geometry
+
+~

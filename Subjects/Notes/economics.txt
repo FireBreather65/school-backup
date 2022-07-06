@@ -77,3 +77,26 @@ Normative and Positive Statements:
 - video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/economics-introduction/v/normative-and-positive-statements
 
 ~
+
+Property Rights:
+- no notes, just helpful to know and review
+
+- video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/economic-systems/v/property-rights-in-a-market-system
+
+~
+
+Markets and Property Rights:
+- a broad (and informal) definition of a market is something formed when multiple parties exchange things of value
+
+- in order to have a market, you need to have a notion that things are owned and can be sold (property rights)
+
+- three qualities of property rights:
+	- the idea that those rights are exclusive
+	- the idea that those rights are enforceable
+	- the idea that those rights are transferrable
+
+- video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/economic-systems/v/markets-and-property-rights
+
+- article link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/economic-systems/a/economic-systems-the-role-of-incentives-and-the-circular-flow-model
+
+~
