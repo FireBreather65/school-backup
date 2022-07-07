@@ -22,3 +22,9 @@ Terms & Labels in Geometry:
 - video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-lines-rays/v/language-and-notation-of-basic-geometry
 
 ~
+
+Parallel & Perpendicular Lines:
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-parallel-perp/v/identifying-parallel-and-perpendicular-lines
+^ although I don't have notes, this video is really helpful
+
+~

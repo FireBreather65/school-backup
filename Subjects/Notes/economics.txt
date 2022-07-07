@@ -100,3 +100,15 @@ Markets and Property Rights:
 - article link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/economic-systems/a/economic-systems-the-role-of-incentives-and-the-circular-flow-model
 
 ~
+
+PPF/PPC:
+- video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/production-possibilities/v/production-possibilities-frontier
+
+- video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/production-possibilities/v/opportunity-cost
+
+- video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/production-possibilities/v/increasing-opportunity-cost
+
+- video link: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/production-possibilities/v/ppcs-for-increasing-decreasing-and-constant-opportunity-cost
+^ bowed out = increasing O.C., bowed in = decreasing O.C., linear = constant O.C.
+
+~

@@ -72,3 +72,30 @@ Introduction to [...]:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-nucleic-acids-and-nucleotides
 
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biological-macromolecules/v/introduction-to-vitamins-and-minerals
+
+~
+
+Hydrogen Bonding in Water:
+- H2O can be broken down into 2 hydrogen atoms, 1 oxygen atom
+
+- an electronegative atom basically means that said atom "hogs" electrons
+^ oxygen, for example, is an electronegative atom
+
+- a hydrogen bond happens when the oxygen atom (which has a partially negative charge) in a water molecule bonds with a hydrogen atom in another molecule (which has a partially positive charge, as the electrons that would make it negative are "surrounding" the oxygen atom)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-water-and-life/v/hydrogen-bonding-in-water
+
+~
+
+Water as a Solvent:
+- table salt dissolves in water due to water being a solvent
+
+- expanding on above (and being more technical), you need to watch the video - it's so cool (and I'm not able to articulate right now XD)
+
+- hydrophilic (water loving) vs. hydrophobic (water fearing)
+
+- cohesion is the attraction for other molecules of the same kind, adhesion is the attraction for other molecules of a different kind
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-water-and-life/v/water-as-a-solvent
+
+~
