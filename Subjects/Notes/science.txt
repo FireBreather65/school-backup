@@ -99,3 +99,14 @@ Water as a Solvent:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-water-and-life/v/water-as-a-solvent
 
 ~
+
+Introduction to pH:
+- pH stands for power/potential of H (hydrogen)
+
+- on a scale of 0 to 14, 0 through 6.9 is acidic, 7.6 through 14 is alkaline, and anything else is neutral
+
+- acidic things have lots of H+ (hydrogen ions), and alkaline things react with H+ (hydrogen ions)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-ph-acids-and-bases/v/introduction-to-ph
+
+~

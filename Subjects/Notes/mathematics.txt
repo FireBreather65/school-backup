@@ -28,3 +28,10 @@ Parallel & Perpendicular Lines:
 ^ although I don't have notes, this video is really helpful
 
 ~
+
+Specifying Planes in 3D:
+- one or two points cannot define a plane, but three can (as long as they aren't colinear)
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/points-lines-planes/v/specifying-planes-in-three-dimensions
+
+~
