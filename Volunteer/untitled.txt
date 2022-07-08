@@ -32,7 +32,7 @@ For [subject desired], what has your child already learned? What could they impr
 How many days a week would you like your child to be tutored in each subject? When (time - exact or estimate) on each of those days?
 How much homework do you think is adequate for your student <- for Trishika only, and what's the caveat?
 Once school starts, would you like your sessions to be homework help or learning sessions?
-Is there anything else I should know about your child?
+Is there anything else I should know about your child? <- for Trishika only, how do I say their name properly?
 
 Answers from me:
 - Elaborate on your tutor bio!
@@ -54,24 +54,4 @@ Responses:
 Sent! Nothing yet...
 
 ~ 425Tutoring ~
-
-For Tutoring with Josiah and Trishika:
-
-Subject: Initial Meeting
-
-Hello!
-
-My name is Malycia Ashley, and I'm a homeschooled sophomore from Washington State. I'm very excited to start tutoring your kids! From my understanding, Josiah and Trishika both would like to work on english, math, and science. 
-
-For the initial meeting, are you both available next Monday (7/11), Thursday (7/14), or Friday (7/15)? Regarding the times on any of those days, anywhere from 10-5pm or 8-10pm PST time? This meeting will be for introductions and discussion about common interests/tutoring goals. It should only be about a half hour meeting.
-
-Again, I'm so excited to help your kids learn and grow!
-
-Best,
-Malycia Ashley
-
-
-~ For New Students ~
-I see that I've received a student from Pennsylvania who'd like to be tutored in the morning. As I am from Washington, this might not work due to the time zone difference.
-
-Has this been taken into account?
+Sent! Nothing yet...
