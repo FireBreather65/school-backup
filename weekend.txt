@@ -5,5 +5,3 @@
 	- potential reordering of subjects?
 	^ check out daily schedule on KA
 	- add time for tutoring and prep
-- set up tutoring completely
-- wash my own bedding
