@@ -1,7 +1,7 @@
-7/9/22 - 7/11/22:
-- clean fridge + garbage
-- update school to reflect:
-	- not taking econ this year (like piab)
-	- potential reordering of subjects?
-	^ check out daily schedule on KA
-	- add time for tutoring and prep
+Algebra:
+Monday - Combining Like Terms
+Tuesday - Interpreting Linear Expressions + Irrational Numbers
+Wednesday - Sums and Products of Rational and Irrational Numbers
+Thursday - Proofs Concerning Irrational Numbers + Division by Zero
+Friday - Unit Test
+Saturday - Binary and Hexadecimal Number Systems

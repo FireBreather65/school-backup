@@ -1,19 +1,16 @@
 --- School Subjects ---
-Computing (8):
+Computing (7):
 - see computing.txt
 
-Economics (4):
-- see other.txt
-
-Foreign Language (7):
+Foreign Language (5):
 - duolingo (french)
 - duolingo (spanish)
 - pronunciator (asl)
 
-Humanities (2):
+Humanities (4):
 - see other.txt
 
-Language Arts (3):
+Language Arts (2):
 - see english.txt
 
 Mathematics (1, 6):
@@ -22,16 +19,17 @@ Mathematics (1, 6):
 Physical Education:
 - 15 crunches, 10 pushups, 5min biking
 
-Science (5):
+Science (3):
 - see other.txt
 
 --- Electives ---
+- econ. (other.txt)
 - library events
 - live help + WL (bf)
 - personal finance
 - pixar in a box
 - talks and interviews
-- volunteermatch
+- volunteering (+ prep)
 
 --- Misc. ---
 Links:
