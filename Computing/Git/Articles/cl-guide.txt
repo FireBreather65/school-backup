@@ -1,32 +1,3 @@
-Intro to Github
-  - What is Github
-    - not sure what to put here...
-    ^ maybe connect the playing around for a bit fact to the fact that only we can see what we're doing??? So tie into how to have the whole world see it (remotely instead of locally)
-	- Github vs. Git Bash
-    - also not sure...
-    ^ also connect by having a side note that they aren't the same thing...somehow (I JUST HAD AN IDEA AND IT WAS GOOD AND NOW I DON'T HAVE IT ARGH)
-
-Git and Github - Setup
-  - Setting Up Your Github Profile
-
-  - How do you set your email on Github?
-    - In the upper-right corner of any page, click your profile photo, then click Settings. In the "Access" section of the sidebar, click Emails. In "Add email address", type your email address and click Add. Verify your email address. In the "Primary email address" list, select the email address you'd like to associate with your web-based Git operations. To keep your email address private when performing web-based Git operations, click Keep my email addresses private.
-    ^ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
-
-  - How do you set your username for all repositories in Git?
-    - Open Git Bash. Set a Git username: git config --global user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config --global user.name.
-  
-  - How do you set your username for ONE repository in Git?
-    - Open Git Bash. Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits. Set a Git username: $ git config user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config user.name.
-
-  - How do you set your email for all repositories in Git?
-    - Open Git Bash. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config --global user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config --global user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
-
-  - How do you set your email for ONE repository in Git?
-    - Open Git Bash. Change the current working directory to the local repository where you want to configure the email address that you associate with your Git commits. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
-
-~ playing around again ~
-
 Git and Github - Workflow
 	- Basic Git Workflow
     - What's the absolute most basic workflow in Git?
@@ -41,7 +12,7 @@ Git and Github - Workflow
     ^ If you want to keep the folder on your computer and push changes when you make them (add personal experience of New), follow these steps. Again, change into the directory you've been tracking (from the two previous [...]). 
     - git add file(s) (or even .)
     - git status (<- what does this mean, why is it necessary)
-    - git commit -m "Commit message"
+    - git commit -m "Commit message" <- note that commit will save changes locally, they don't have to be pushed (unless you want to save them remotely)
     - git push -u origin main (<- what does this mean, what can you potentially change, etc.)
     Then refresh the page - your pushed changes should have updated remotely.
   - Best Practices
