@@ -1,23 +1,24 @@
 Open Blinds
 Bed + Teeth
-Wash Whites
-Sort Laundry
-Fold Towels
+Add Groceries
+Make Bread
+Recycling
+Shower + Hair
+Check Mail
+Make Dinner
 
-Geometry - Angle Intro + Measuring Angles
+Geometry - Learn to Q1 + Q1
 ~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - Trailblazing Women + english.txt
+Language Arts - Mysteries of the Past
 ~ 15 crunches, 10 pushups, 5min biking ~
-Science - Intro to Cells + Basic Cell Structure
+Science - The Cell Membrane
 ~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Politics and Society in 1800s
+Humanities - Learn to Expanding Democracy
 ~ 15 crunches, 10 pushups, 5min biking ~
 Foreign Language - People 2 (french) + School (spanish) + Business (asl)
 ~ 15 crunches, 10 pushups, 5min biking ~
-Algebra - Combining Like Terms
+Algebra - Interpreting Linear Expressions + Irrational Numbers
 ~ 15 crunches, 10 pushups, 5min biking ~
 Computing - Git Bash Article
 
-- let's use video to reinvent education TED talk (during breakfast)
-- read and respond to emails (if applicable)
-- set up zoom (or google) meeting, then respond to email (include link in email)
+- set up a zoom (or google meeting), then respond to email (include link in email)

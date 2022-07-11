@@ -15,7 +15,7 @@ Terms & Labels in Geometry:
 
 - a midpoint is a point that is exactly halfway between two locations (which can be other points)
 
-- a plane is an infinite two-dimensional surface (you can go right, left, up, and/or down)=
+- a plane is an infinite two-dimensional surface (you can go right, left, up, and/or down)
 
 - a plane segment is a non-infinite two-dimensional surface (like a piece of paper)
 
@@ -37,7 +37,17 @@ Specifying Planes in 3D:
 ~
 
 The Golden Ratio:
-- https://www.khanacademy.org/math/geometry-home/geometry-lines/the-golden-ratio/v/the-golden-ratio
-^ omg this is so cool y'all
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/the-golden-ratio/v/the-golden-ratio
+
+~
+
+Angles: Introduction:
+- an angle is defined as two rays sharing the same endpoint (the angle vertex), denoted by an angle symbol next to the letters
+
+- the angle symbol looks like a less than sign, except the bottom is flat
+
+- as for what order to denote an angle, start on either side of the angle vertex (like the video)
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angle-intro/v/angle-basics
 
 ~
