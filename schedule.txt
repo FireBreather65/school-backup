@@ -1,27 +1,9 @@
-Open Blinds
-Bed + Teeth
-Take Out GB
-Wash Colors
-Clean Their BR
-Wash Whites
-Outside Chores
-Make Dinner (3pm)
-Clean Our BR
+Make Dinner (4pm)
 Sort Laundry
 Fold Towels
 
-Geometry - Learn to Q2 + Q2
-~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - Living Tongues + english.txt
-~ 15 crunches, 10 pushups, 5min biking ~
-Science - Eukaryotic Cell Structures
-~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Finish The Age of Jackson
-~ 15 crunches, 10 pushups, 5min biking ~
-Foreign Language - People 2 (french) + School (spanish)
-~ 15 crunches, 10 pushups, 5min biking ~
+Foreign Language - School (spanish)
 Algebra - Sums and Products of Rational and Irrational Numbers
-~ 15 crunches, 10 pushups, 5min biking ~
 Computing - Git Bash Article (first draft)
 
 - work on script.txt (using untitled.txt notes)

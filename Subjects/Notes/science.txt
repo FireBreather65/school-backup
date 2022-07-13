@@ -149,6 +149,33 @@ Fluid Mosaic Model of Cell Membranes:
 
 - the amphipathic property of phospholipids causes semipermeability of the cell membrane
 
-- https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-the-cell-membrane/v/fluid-mosaic-model-of-cell-membranes
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-the-cell-membrane/v/fluid-mosaic-model-of-cell-membranes
+
+~
+
+Organelles in Eukaryotic Cells:
+- a cell is eukaryotic when there are membrane-bound organelles inside the cell
+
+- organelles are specialized cell structures that perform a specific function
+
+organelles and their functions:
+	- the nucleus stores genetic information and controls all cell activities
+
+	- the endoplasmic reticulum is a network of tubes and membranes that carry material through the cell, modify proteins, and synthesize lipids
+	^ has two parts: rough ER (which contains ribosomes) and smooth ER (which doesn't)
+
+	- a golgi body is made of flattened membrane discs that modify, sort, and package proteins
+
+	- the mitochondria breaks down sugar into energy for the cell (called the powerhouse due to so)
+
+	- the chloroplast uses light energy to make food for plant cells (specific to plant/algae cells, never animal cells)
+	^ that's how you can tell what kind of cell you're looking at!!
+
+	- the vacuole stores food, water, and waste
+	^ a large central vacuole helps maintain the shape of plant cells
+
+	- the lysosome, made up of enzymes, breaks down large molecules and digests old cell parts
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-eukaryotic-cell-structures/v/organelles-in-eukaryotic-cells
 
 ~
