@@ -137,3 +137,18 @@ Introduction to the Cell:
 - article link: https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/a/hs-basic-cell-structures-review
 
 ~
+
+Fluid Mosaic Model of Cell Membranes:
+- called fluid mosaic model because it's basically a tapestry of several types of molecules (phospholipids, cholesterols, and proteins) that are constantly on the move (very fluid)
+
+- a phospholipid is a lipid that involves a phosphate group (doesn't dissolve well in water)
+
+- phospholipids are amphipathic, meaning they have a hydrophilic end and a hydrophobic end
+
+- a phospholipid bilayer involves two layers of phospholipids with their hydrophobic tails pointing inward
+
+- the amphipathic property of phospholipids causes semipermeability of the cell membrane
+
+- https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-the-cell-membrane/v/fluid-mosaic-model-of-cell-membranes
+
+~

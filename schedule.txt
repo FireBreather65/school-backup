@@ -1,24 +1,28 @@
 Open Blinds
 Bed + Teeth
-Add Groceries
-Make Bread
-Recycling
-Shower + Hair
-Check Mail
-Make Dinner
+Take Out GB
+Wash Colors
+Clean Their BR
+Wash Whites
+Outside Chores
+Make Dinner (3pm)
+Clean Our BR
+Sort Laundry
+Fold Towels
 
-Geometry - Learn to Q1 + Q1
+Geometry - Learn to Q2 + Q2
 ~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - Mysteries of the Past
+Language Arts - Living Tongues + english.txt
 ~ 15 crunches, 10 pushups, 5min biking ~
-Science - The Cell Membrane
+Science - Eukaryotic Cell Structures
 ~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Learn to Expanding Democracy
+Humanities - Finish The Age of Jackson
 ~ 15 crunches, 10 pushups, 5min biking ~
-Foreign Language - People 2 (french) + School (spanish) + Business (asl)
+Foreign Language - People 2 (french) + School (spanish)
 ~ 15 crunches, 10 pushups, 5min biking ~
-Algebra - Interpreting Linear Expressions + Irrational Numbers
+Algebra - Sums and Products of Rational and Irrational Numbers
 ~ 15 crunches, 10 pushups, 5min biking ~
-Computing - Git Bash Article
+Computing - Git Bash Article (first draft)
 
-- set up a zoom (or google meeting), then respond to email (include link in email)
+- work on script.txt (using untitled.txt notes)
+^ if I don't finish, add for language arts tomorrow

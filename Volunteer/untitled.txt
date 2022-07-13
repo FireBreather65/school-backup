@@ -1,5 +1,3 @@
-Notes:
-
 ~ Traveling Stories ~
 - 1 hour/week for 6-9 weeks
 - if you're absent more than twice, you'll get kicked out
@@ -17,12 +15,12 @@ Notes:
 	- Saturday: Morning, Afternoon, Evening
 	- Sunday: Morning, Night
 
-2.	Login to Better Impact  Click 'Opportunities' > 'Opportunity Calendar'
-3.	Find & Sign Up for a Virtual StoryTent screening time that works with your schedule (If there are currently none once more are added an email will be sent out to you letting you know there are now some available)
-4.	Once you sign up for a screening you will receive a Google calendar invite/reminder email before your screening day.
+2. Login to Better Impact. Click 'Opportunities' > 'Opportunity Calendar'
+3. Find & sign up for a Virtual StoryTent screening time that works with your schedule. If there are currently none, an email will be sent out to you once more are added.
+4. Once you sign up for a screening you will receive a reminder email before your screening day.
 
 ~ 425Tutoring ~
-Once a meeting time is established, create a Zoom meeting for that day and send them both the ID and PW.
+Once a meeting time is established, create a Google meeting for that time and send them both the link.
 
 Questions for them:
 What are [Josiah's or Trishika's] academic interests? What about extracurriculars?
@@ -46,11 +44,3 @@ Why I Tutor: I want to help the world become a better place. I love learning and
 ^ seriously though, I need to find a concrete reason...
 
 Also create a tutor bio to elaborate on during initial meeting...
-
-Responses:
-
-~ Traveling Stories ~
-Sent! Nothing yet...
-
-~ 425Tutoring ~
-Sent! Nothing yet...

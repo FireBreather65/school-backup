@@ -1,61 +1,88 @@
-Git and Github - Workflow
-	- Basic Git Workflow
-    - What's the absolute most basic workflow in Git?
-    ^ refer to workflow.png when writing this
-    - Explain the two-stage system that Git uses to save files. (AKA Staging Environment)
-    ^ Git uses add and commit to save files (elaborate further)
-    ^ adding how to add and commit files explanation
-  - Connecting Git and Github
-    ^simple explanation, explain that this tutorial will not cover it completely and give link to tutorial that will cover it completely
-    ^ First cd into directory you want to later push to Github (or create a new directory). Verify with pwd that you are in the right directory. Initialize a new repository with git init. Create files (if you'd like, maybe you're using a pre-existing directory?) Add files to staging area (use git add . [regarding using git add ., also add note about adding specific files to track]). Commit these additions using (git commit -m "Commit message here").
-    ^ Now to connect it to Github itself. First, make sure you're in the directory that you started tracking previously (using pwd). Check status using git status (should say [...]). Create a New Repository on Github. Only Name and Create Repository (ignore everything else, we'll talk about that later). Be sure HTTPS is selected vs. SSH. Copy commands from "…or push an existing repository from the command line" into the command line and press enter key. Wait for everything to [load] <- potentially different word??? You can delete the local folder if you'd like.
-    ^ If you want to keep the folder on your computer and push changes when you make them (add personal experience of New), follow these steps. Again, change into the directory you've been tracking (from the two previous [...]). 
-    - git add file(s) (or even .)
-    - git status (<- what does this mean, why is it necessary)
-    - git commit -m "Commit message" <- note that commit will save changes locally, they don't have to be pushed (unless you want to save them remotely)
-    - git push -u origin main (<- what does this mean, what can you potentially change, etc.)
-    Then refresh the page - your pushed changes should have updated remotely.
-  - Best Practices
-    - How to write a good README?
-    ^ use rdme.txt as inspiration
-    - How to write a good commit message?
-    ^ find out how hahaha
-
 More Advanced Git Bash
-	- Git Branching (???)
-    - What is the default name of your remote connection?
-    ^ origin
-    - Explain what origin is in git push origin main.
-    ^ origin the name of your remote connection (what does this mean)
-    - Explain what main is in git push origin main.
-    ^ main is your local default branch
-    - pushing a branch not named main is as simple as replacing the name
-  - Helpful Git Commands
-    - How do you get help for a specific command?
-    ^ with git [command] -help
-    - How do you see all commands?
-    ^ with git help --all
-    - How do you look at the history of your previous commands?
-    ^ with history
-    - How do you look at the history of your previous commits?
-    ^ with git log
+  - Backtracking with Git
+    - How do you show the most recently made commit?
+    Use git show HEAD to show the most recently made commit.
+
+    - How do you revert a file back to its last commit?
+    Use git checkout HEAD [filename] to revert [filename] back to its last commit.
+
+    - How do you reset a file to its HEAD commit?
+    Use git reset HEAD [filename] to reset [filename] to its HEAD commit (also removes it from the staging area)
+
+    - What's the difference between git revert and git reset? Also, how do you use both of them?
+      ^ Use git reset to delete previous commits (from where you are - where you're going), whereas git revert keeps previous commits
+      ^ use git reset [commithash] (using the log --oneline)
+      ^ https://www.w3schools.com/git/git_reset.asp
+      ^ use git revert [commithash] (using the log --oneline)
+      ^ https://www.w3schools.com/git/git_revert.asp
+      ^ change into similar to above
+
+	- Git Branching
+		- How do you list all branches?
+    You can use git branch to list all branches (lets you know what branch you are on with green and an asterisk)
+
+    - How do you create a branch?
+    You can use git branch [branchname] to create a branch.
+
+    - How do you switch branches?
+    You can use git checkout [branchname] to switch branches.
+
+    - How can you merge branches?
+    You can use git merge [branchname] to merge branches (will merge called branch with current branch, so make sure you're on the right branch before you call this one...)
+
+    - How can you delete branches?
+    There are two ways - using git branch -d [branchname] and git branch -D [branchname]. Use the first if the branch is merged with main, and use the second for branches never merged with main.
+
+
+
+		- Explain git push origin main.
+		Well, let's break it down:
+			- git push is what we use to push local branches to Github
+			- origin is the name of our remote connection (elaborate)
+			- and main is the name of our default local branch
+		
+		- How do you push a branch not named main to Github?
+		It's as simple as changing the word "main" to the name of your branch (e.g. turtle, pecan)
+
+	- Helpful Git Commands
+		- How do you get help for a specific command?
+		You can use the command git [command name here] help.
+
+		- How do you see all commands?
+		You can use git help --all.
+
+		- How do you look at the history of your previous commits?
+		First, make sure you're in a directory that's being tracked by Git. After that, all you have to do is type git log.
+
     - What are some other commands to note?
     ^ bring up cmnd.txt y'all
     ^ also write about git diff (never used it)
-    - What's the difference between git revert and git reset? Also, how do you use both of them?
-    ^ git reset deletes previous commits (from where you are - where you're going), whereas git revert keeps previous commits
-    ^ use git reset [commithash] (using the log --oneline)
-    ^ https://www.w3schools.com/git/git_reset.asp
-    ^ use git revert [commithash] (using the log --oneline)
-    ^ https://www.w3schools.com/git/git_revert.asp
+    
     - How do you copy a repository onto your local machine from GitHub?
     ^ with git clone
     ^ also note that git commands introduced will only work with a folder being tracked with Git
 
+
 ~
 
 Summary: [recap on helpful terms learned and what we now know, in less of a childish sounding way], also take note that I didn't cover Git Teamwork (explain that I don't have much experience)
-^ potentially DON'T cover branching??? Also potentially make a future tutorial for Advanced Git (at a milestone or something, at least after I learn AND use these things haha???)
+^ Also potentially make a future tutorial for Advanced Git (at a milestone or something, at least after I learn AND use these things haha???)
 
 Important Links/References:
 - 
+
+Git Bash Rubric:
+
+Do I cover...
+How to initiate a Git repository?
+How to stage/unstage your code changes?
+How to commit and amend a commit? What are the standards for a good commit message?
+How to push your changes to the repository?
+How to merge another branch to your branch?
+How to resolve merge conflicts?
+How to initiate a Git repository?
+How to stage/unstage your code changes?
+How to commit and amend a commit? What are the standards for a good commit message?
+How to push your changes to the repository?
+How to merge another branch to your branch?
+How to resolve merge conflicts?

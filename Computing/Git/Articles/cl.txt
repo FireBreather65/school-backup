@@ -4,6 +4,8 @@ Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_sessi
 
 Introduction: Git Bash is a [explain Git Bash concisely here, highlighting its helpful qualities for developers]. [helpful intro here - including prereq - that states what will be discussed] NOTE: This tutorial is for Windows users only, however, [you can find a link to Git for other users here]. <- find a link for that
 
+~ For all things applicable, give examples/screenshots/anything to supplement ~
+
 ~~~~
 
 Intro to Git Bash:
@@ -88,6 +90,18 @@ Navigating the File System (create our own food-based file tree):
 		- mv [file] [existing file] moves [file] contents into [existing file] <- needs more testing, with actually edited files
 		- mv [file] ["new" file] renames [file] to ["new" file]
 
+	- How do you look at the history of your previous commands?
+		You can simply type history into the console.
+
+	- What are some other Bash commands to note?
+		There's echo, which prints text (and other things like equation answers) to the terminal window. Also cat, reads files, creates files, and/or concatenate files. And less, which also reads files (without fear of accidentally tampering with them). Clear...well...clears the terminal
+
+		Also there's cp (copies files from one place to another, add the option -r to copy directories too), alias lets you create your own Bash commands
+
+		You can brings up a help menu for [command] with [command] --help.
+
+		~ use "Helpful Git Commands" as a template for the future "Helpful Bash Commands" ~
+
 ~ playing around a bit ~
 
 ~~~~
@@ -128,5 +142,62 @@ Git and Github - Setup
 
 		- How do you set your email for ONE repository in Git?
 			- Open Git Bash. Change the current working directory to the local repository where you want to configure the email address that you associate with your Git commits. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
+
+~~~~
+
+Git and Github - Workflow
+	- Basic Git Workflow
+		- What's the absolute most basic workflow in Git?
+		The absolute most basic workflow in Git includes (contains??) git init, git add, and git commit.
+
+		What do each of these commands mean?
+
+		Continuing using the repository we built earlier in Bash, we can now initialize it in Git using git init.
+
+		- Wait, what's the difference between Git and Bash?
+		Even though the app is called *Git Bash*, there is a difference - Bash is able to be used without initializing a new project (just to view the file system), whereas to use Git you have to initialize a project (in a repository).
+
+		- Okay, continue.
+		Thank you. Git uses a two-stage system to save files: *add* and *commit*. You can, using git add, add files to the staging area (which prepares them to be commited). Then, you can commit them using git commit. That's the basic workflow.
+
+	- Connecting Git and Github
+		A NOTE: This will not cover how to connect Git and Github when working in a team, for that you can go here (find a link)
+		- How do you connect Git and Github?
+		First cd into directory you want to later push to Github (or create a new directory). Verify with pwd that you are in the right directory. Initialize a new repository with git init. Create files (if you'd like, maybe you're using a pre-existing directory?) Add files to staging area (use git add . [regarding using git add ., also add note about adding specific files to track]). Commit these additions using (git commit -m "Commit message here").
+
+		Now to connect it to Github itself. First, make sure you're in the directory that you started tracking previously (using pwd). Check status using git status (should say [...]). Create a New Repository on Github. Only Name and Create Repository (ignore everything else, we'll talk about that later). Be sure HTTPS is selected vs. SSH. Copy commands from "…or push an existing repository from the command line" into the command line and press enter key. Wait for everything to [load] <- potentially different word??? You can delete the local folder if you'd like. Then refresh the page - your pushed changes should have updated remotely.
+
+		- How do you update a previously remotely commited folder?
+		If you want to keep the folder on your computer and push changes when you make them (add personal experience of New), follow these steps. Again, change into the directory you've been tracking (from the two previous [...]).
+		^ also add note about intricacies of git commit (<- note that commit will save changes locally, they don't have to be pushed [unless you want to save them remotely])
+
+		- How do you use git status? Why is it needed?
+		You can use git status to check the status of your updated files (whether they've been staged for a commit [aka added] or not).
+
+		~ regarding above, add points to guide them and pictures ~
+		~ also regarding above, add notes about working directory (after git init), staging area (after git add), and repository (after git commit) ~
+
+		- Best Practices
+			- How to write a good README?
+			Use this basic template for personal projects:
+
+			Project Title: the name of your project
+
+			Description: This is an extremely important component of the README. You should describe the main purpose of your project. Answer questions like "why did you build this project?" and "what problem(s) does it solve?". It also helps to include your motivations for the project and what you learned from it.
+
+			Features: If your project has multiple features, list them here. Don't be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
+
+			How to use: Here, you should write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed here.
+
+			Technologies: List all the technologies and/or frameworks you used and what purpose they serve in your project.
+
+			Collaborators: If others have contributed to your project in any way, it is important to give them credit for their work. Write your team members' or collaborators' names here along with a link to their GitHub profile.
+
+			License: It's also important to list a license on your README so other developers can understand what they can and cannot do with your project. You can use (https://choosealicense.com/) to help you choose a license.
+
+			https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet <- this can help you use Markdown in your README.md
+
+			- How to write a good commit message?
+			~ try to write a table here using: https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g ~
 
 ~~~~

@@ -10,7 +10,7 @@ Resources: https://www.425tutoring.org/tutor-resources
 		- https://www.425tutoring.org/_files/ugd/875b46_3aa4af516b7c4d36886080272bef3475.pdf (Mathematics)
 		- https://www.425tutoring.org/_files/ugd/875b46_b0dd7b8ce98d4fd59fe900a2148cbfb5.pdf (Science)
 
-Slack Link: https://join.slack.com/t/425tutoringworkspace/shared_invite/zt-m27ob368-zdzxzrGQla1szQE6DS9PpA
+Slack Link: https://app.slack.com/client/T01858ZDSE9/
 
 Tracking Hours:
 - open the form (Logging Hours link) after you tutor

@@ -81,10 +81,6 @@ git reset [commithash] - resets the file back to the [commithash] supplied (firs
 
 git revert [commithash] - reverts the file back to the [commithash] supplied (first 7 of SHA), doesn't erase all commits further
 
-git [command] -help - gets help for a specific [command]
-
-git help --all - shows all possible commands
-
 ~
 
 Git Branching (check out conflict.png for more info):
