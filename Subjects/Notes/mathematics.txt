@@ -1,5 +1,43 @@
 ~ Algebra ~
 
+Hexadecimal Number Systems:
+- in the base-10 number system, anything risen to the zeroth exponent is 1, likewise anything raised to the first exponent is itself
+
+- when it comes to hexadecimal:
+	- 0-9, then...
+	- A = 10
+	- B = 11
+	- C = 12
+	- D = 13
+	- E = 14
+	- F = 15
+	- the hex. video has more
+
+- video link: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system
+
+~
+
+Converting from Decimal to Hexadecimal:
+- https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-hexadecimal
+^ I can't articulate the helpful benefits haha
+
+~
+
+Adding in Binary:
+- https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-addition
+
+~
+
+Multiplying in Binary:
+- https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-multiplication
+
+~
+
+Binary to Hexadecimal:
+- https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-to-hexadecimal
+
+~
+
 ~ Geometry ~
 
 Terms & Labels in Geometry:
@@ -36,12 +74,6 @@ Specifying Planes in 3D:
 
 ~
 
-The Golden Ratio:
-- video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/the-golden-ratio/v/the-golden-ratio
-^ again, no notes, but it's REALLY cool
-
-~
-
 Angles: Introduction:
 - an angle is defined as two rays sharing the same endpoint (the angle vertex), denoted by an angle symbol next to the letters
 
@@ -52,3 +84,24 @@ Angles: Introduction:
 - video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angle-intro/v/angle-basics
 
 ~
+
+Angles, Parallel Lines, & Transversals:
+- a transversal line is a line that intersects two parallel lines (no matter the angle, unlike perpendicular lines)
+
+- corresponding angles are equivalent, as well as vertical angles (as the above video proves)
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/angles-formed-by-parallel-lines-and-transversals
+
+~
+
+Missing Angles w/ Transversals:
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/figuring-out-angles-between-transversal-and-parallel-lines
+^ although there aren't any notes, it's helpful to know
+
+~
+
+Missing Angles (CA Geometry):
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/ca-geometry-deducing-angle-measures
+^ actually really helpful and not able to be documented
+
+~ 

@@ -125,10 +125,12 @@ Introduction to the Cell:
 
 - the cell membrane is what separates a cell from the outside world
 
-- the cytoplasm is the stuff inside the cell (not very technical haha)
-^ the "stuff inside the cell" contains cytosol, a jelly-like fluid that holds all else
+- the plasma membrane is what separates a cell's interior from its surrounding environment
 
-- a ribosome is made up of protein structures (and they produce protein???)
+- the cytoplasm consists of jelly-like cytosol, plus the cellular structures suspended in it.
+^ in eukaryotes, cytoplasm specifically means the region outside the nucleus but inside the plasma membrane
+
+- ribosomoes are molecular machines that synthesize proteins
 
 - in our bodies, mature blood cells don't have DNA anymore (OMG 😲)
 
@@ -169,13 +171,35 @@ organelles and their functions:
 	- the mitochondria breaks down sugar into energy for the cell (called the powerhouse due to so)
 
 	- the chloroplast uses light energy to make food for plant cells (specific to plant/algae cells, never animal cells)
-	^ that's how you can tell what kind of cell you're looking at!!
+	^ that's how you can tell what kind of cell (plant vs. animal) you're looking at!!
+	^ as well as if it contains a cell wall (only plant cells have them)
 
 	- the vacuole stores food, water, and waste
-	^ a large central vacuole helps maintain the shape of plant cells
+	^ a large central vacuole helps maintain the shape of plant cells, whereas animal cells have many, smaller vacuoles
 
 	- the lysosome, made up of enzymes, breaks down large molecules and digests old cell parts
 
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-eukaryotic-cell-structures/v/organelles-in-eukaryotic-cells
+
+~
+
+Prokaryotic and Eukaryotic Cells:
+- largest distinction is that a eukaryote specifically has a membrane-bound nucleus; a prokaryote instead has a nucleoid
+
+- another distinction is that prokaryotes don't have any membrane-bound organelles, whereas a eukaryote does
+
+- last distinction is that the DNA in eurkaryotes are multiple linear chromosomes found in the nucleus, whereas prokaryotes are single, circular, and free-floating in cytoplasm (can also wind around and around, but always closes up)
+
+- eurkaryotes are also typically larger, and prokaryotes are typically smaller
+
+- examples of eurkayotes are all multicellular (and some unicellular) organisms, such as animals, plants, fungi, protists
+
+- examples of prokaryotes are bacteria and archaea (always unicellular)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-prokaryotes-and-eukaryotes/v/prokaryotic-and-eukaryotic-cells
+
+- eukaryotic animal cell diagram: https://cdn.kastatic.org/ka-perseus-images/f39337d3dbf31edf0e07300fd51ab2eb553e0705.png
+
+- eukaryotic plant cell diagram: https://cdn.kastatic.org/ka-perseus-images/efdeccc83cd2b30849b89fedd8993d783a1f635a.png
 
 ~

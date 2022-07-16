@@ -5,7 +5,6 @@ Computing (7):
 Foreign Language (5):
 - duolingo (french)
 - duolingo (spanish)
-- pronunciator (asl)
 
 Humanities (4):
 - see other.txt

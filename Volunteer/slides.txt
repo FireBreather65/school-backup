@@ -1,4 +1,4 @@
-~ Slides: Elements ~
+~ Elements ~
 - Objectives
 - Timeline
 - Actual Lesson
@@ -6,11 +6,12 @@
 - Discussion
 - Lesson Reflection (personal)
 
-~ Slides: Broken Down ~
+~ Broken Down ~
 Objectives:
 By the end of this lesson, students will:
 -
 ^ use SMART goals to understand objectives of a lesson
+^ also look at KA to find more information about subjects
 
 Timeline:
 10 minutes: Warm-up (conversation, introductions, brief overview)
