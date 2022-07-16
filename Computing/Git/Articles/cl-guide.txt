@@ -86,3 +86,4 @@ How to commit and amend a commit? What are the standards for a good commit messa
 How to push your changes to the repository?
 How to merge another branch to your branch?
 How to resolve merge conflicts?
+How to automate the two-step process (if possible)? <- implement for personal use LMAO
