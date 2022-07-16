@@ -6,7 +6,7 @@ Wireframing:
 
 First Draft:
 - use a unique voice (don't try to copy others)
-- include a link to new or unfamiliar terms (better yet, define it yourself)
+- include a link to new or unfamiliar terms (better yet, define it yourself) 
 - on the initial use of an unfamiliar acronym within a document or a section, spell out the full term, and then put the acronym in parentheses.
 ^ put both the spelled-out version and the acronym in boldface
 - avoid "etc." unless it's obvious/repetitive
@@ -94,8 +94,3 @@ Use the below table as a point of reference:
 - fully passive voice: Code is interpreted by Python, but code is compiled by C++.
 - semi passive voice: Python interprets code, but code is compiled by C++.
 - fully active voice: Python interprets code, but C++ compiles code.
-
-Paragraph Rubric:
-- What are you trying to tell your reader?
-- Why is it important for the reader to know this?
-- How should the reader use this knowledge? Alternatively, how should the reader know your point to be true?

@@ -51,8 +51,6 @@ git add (filename) - adds files to staging area for a commit
 
 git commit - adds a commit (use -m and quotation marks to write a commit message)
 
-^ also see workflow.png
-
 ~
 
 Basic Workflow (extras):
@@ -75,11 +73,13 @@ git show HEAD - shows the most recently made commit
 
 git checkout HEAD (filename) - reverts the file back to its last commit
 
-git reset HEAD (filename) - resets file to HEAD commit and removes it from the staging area
+git reset HEAD (filename) - resets file to HEAD commit and unstages it
+
+git revert [commithash] - reverts the file back to the [commithash] supplied (first 7 of SHA), doesn't erase all commits further
 
 git reset [commithash] - resets the file back to the [commithash] supplied (first 7 of SHA), erases all commits further
 
-git revert [commithash] - reverts the file back to the [commithash] supplied (first 7 of SHA), doesn't erase all commits further
+git commit --amend - amends a commit (use -m and quotation marks to write new commit message)
 
 ~
 

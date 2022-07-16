@@ -1,46 +1,260 @@
+~~~~
+
+Intro to Git Bash:
+
+- What is Git Bash?
+Git Bash is a *version control system (VCS)*, meaning it's a software designed to record changes within one or more files over time. It also allows us to undo - or even cancel - the made or pending changes in one or more files.
+
+You might be wondering, what does this mean? Why does this matter to me?
+
+Well, using a VCS (in this case, Git Bash) can help you track your projects.
+
+Say you were working on a webpage, and you deleted or erased the contents of the main page on accident. You would then lose the main file in your project, as well as hours of work.
+
+But, if you used Git Bash to track these files and changes made to said files, you could revert the changes (more on that later).
+
+
+- What is the command line?
+The command line is an interface for typing commands directly to a computer's operating system.
+
+Every Windows PC comes with a Command Prompt (a type of command line), which allows you to install programs, create new users, and run scripts.
+
+
+- What's the difference between Git Bash and the command line?
+The difference between Git Bash and the command line is simple - Git Bash is a TYPE OF command line, not THE command line. 
+
+Kind of like the difference between vanilla ice cream and ice cream - there isn't really a difference, vanilla is simply a flavor of ice cream. 
+
+Mmmm, ice cream...
+
+- What's the difference between the Command Prompt and Git Bash?
+The difference between the Command Prompt and Git Bash is that one (the Command Prompt) is built into every Windows PC (as stated above). Bash is naturally only available for Unix-like operating systems like Linux (another operating system, or OS, like Windows). Downloading Git Bash onto your computer allows you the functionalities of Bash without changing your OS.
+
+
+- Then why should I use Git Bash, not the built-in Command Prompt?
+Good question. Git Bash has more powerful features, such as arithmetic, array variables, loops, and branches.
+
+~ https://www.makeuseof.com/git-bash-what-how-use/ ~
+
+~~~~
+
+Installating Git Bash:
+- How do you set up Git Bash on your local machine?
+[This link to MakeUseOf](https://www.makeuseof.com/install-git-git-bash-windows/) can help you. <- say in a different way???
+
+
+- How do you check what version of Git is downloaded?
+If desired, simply type git --version into your Command Prompt (or even Git Bash itself).
+
+~~~~
+
+Navigating the File System (create our own food-based file tree):
+
+- Viewing the File System
+	- How do you navigate to a particular directory?
+	You can use cd to navigate to a particular directory. cd by itself will take you to your home directory, whereas adding an actual directory's name will take you to that directory (under specfic conditions). <- be sure to also include cd .. (somehow)
+	
+	- How do you display the name of the directory you are currently in?
+	You can use pwd to display the name of your current directory.
+	
+	- How do you display the contents of the directory you are currently in?
+	You can use ls to display the contents of the current directory. You can also add on a directory name to list the contents of said directory.
+
+	^ incorporate above two more naturally into the lesson...
+
+- Changing the File System
+	- How do you create a new directory?
+	You can use mkdir to create a new directory.
+
+	- How do you destory a directory?
+	You can use rmdir, use rm -rf to destroy it with force (no questions asked).
+
+	- How do you create a new file?
+	You can use touch to create a new file.
+
+	- How do you destroy a file?
+	You can use rm to destroy a file, rm -f to destroy it with force (no questions asked).
+
+	- How do you rename a directory or file?
+	You can use mv to rename (and move) directories and/or files. Basically...
+		- mv [directory] [existing directory] moves [directory] into [existing directory]
+		- mv [directory] ["new" directory] renames [directory] to ["new" directory]
+		- mv [file] [directory] moves [file] into [directory]
+		- mv [file] [existing file] moves [file] contents into [existing file] <- needs more testing, with actually edited files
+		- mv [file] ["new" file] renames [file] to ["new" file]
+
+	- How do you look at the history of your previous commands?
+		You can simply type history into the console.
+
+	- What are some other Bash commands to note?
+		There's echo, which prints text (and other things like equation answers) to the terminal window. Also cat, reads files, creates files, and/or concatenate files. And less, which also reads files (without fear of accidentally tampering with them). Clear...well...clears the terminal
+
+		Also there's cp (copies files from one place to another, add the option -r to copy directories too), alias lets you create your own Bash commands
+
+		You can brings up a help menu for [command] with [command] --help.
+
+		~ use "Helpful Git Commands" as a template for the future "Helpful Bash Commands" ~
+
+~ playing around a bit ~
+
+~~~~
+
+Intro to Github
+
+- What is Github
+So far, you've been messing around on your computer, making changes to your file system - and only you can see those changes. You've been making changes locally.
+
+How can you allow others to see your changes, you may ask? By pushing your changes to Github, or some other code hosting platform. That way, others can see (and even contribute to) your projects.
+
+- Github vs. Git Bash
+The difference between Github and Git Bash is that one is a version control system only (Git Bash), and one is a code hosting platform (Github). Another difference is that Git Bash will save your changes locally (only for you to see), whereas Github will save your changes remotely (for everyone to see).
+
+*A NOTE*: Although I state that everyone can see your changes when you push them remotely, technically you can have a private repository that you still can only see (but it's saved remotely).
+^ maybe use another metaphor to describe difference between Git Bash and Github???
+
+~~~~
+
+Git and Github - Setup
+
+  - Setting Up Your Github Profile
+	~ find link to current setup (creation of GH profile) ~
+
+	- How do you set your email on Github?
+    - In the upper-right corner of any page, click your profile photo, then click Settings. In the "Access" section of the sidebar, click Emails. In "Add email address", type your email address and click Add. Verify your email address. In the "Primary email address" list, select the email address you'd like to associate with your web-based Git operations. To keep your email address private when performing web-based Git operations, click Keep my email addresses private.
+    ^ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
+
+	- Setting Up Your Git Profile
+		- How do you set your username for all repositories in Git?
+			- Open Git Bash. Set a Git username: git config --global user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config --global user.name.
+		
+		- How do you set your username for ONE repository in Git?
+			- Open Git Bash. Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits. Set a Git username: $ git config user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config user.name.
+
+		- How do you set your email for all repositories in Git?
+			- Open Git Bash. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config --global user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config --global user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
+
+		- How do you set your email for ONE repository in Git?
+			- Open Git Bash. Change the current working directory to the local repository where you want to configure the email address that you associate with your Git commits. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
+
+~~~~
+
+Git and Github - Workflow
+	- Basic Git Workflow
+		- What's the absolute most basic workflow in Git?
+		The absolute most basic workflow in Git includes (contains??) git init, git add, and git commit.
+
+		What do each of these commands mean?
+
+		Continuing using the repository we built earlier in Bash, we can now initialize it in Git using git init.
+
+		- Wait, what's the difference between Git and Bash?
+		Even though the app is called *Git Bash*, there is a difference - Bash is able to be used without initializing a new project (just to view the file system), whereas to use Git you have to initialize a project (in a repository).
+
+		- Okay, continue.
+		Thank you. Git uses a two-stage system to save files: *add* and *commit*. You can, using git add, add files to the staging area (which prepares them to be commited). Then, you can commit them using git commit. That's the basic workflow.
+
+		You can also unstage your changes using git reset. It resets the file to the HEAD commit (which we'll talk about later) and removes it from the staging area.
+		^ add reasons why I'd want to unstage files
+
+		Commits can also be amended (https://devconnected.com/how-to-amend-git-commit-message/) <- write my own version somehow...
+
+	- Connecting Git and Github
+		A NOTE: This will not cover how to connect Git and Github when working in a team, for that you can go here (find a link)
+		- How do you connect Git and Github?
+		First cd into directory you want to later push to Github (or create a new directory). Verify with pwd that you are in the right directory. Initialize a new repository with git init. Create files (if you'd like, maybe you're using a pre-existing directory?) Add files to staging area (use git add . [regarding using git add ., also add note about adding specific files to track]). Commit these additions using (git commit -m "Commit message here").
+
+		Now to connect it to Github itself. First, make sure you're in the directory that you started tracking previously (using pwd). Check status using git status (should say [...]). Create a New Repository on Github. Only Name and Create Repository (ignore everything else, we'll talk about that later). Be sure HTTPS is selected vs. SSH. Copy commands from "…or push an existing repository from the command line" into the command line and press enter key. Wait for everything to [load] <- potentially different word??? You can delete the local folder if you'd like. Then refresh the page - your pushed changes should have updated remotely.
+
+		- How do you update a previously remotely commited folder?
+		If you want to keep the folder on your computer and push changes when you make them (add personal experience of New), follow these steps. Again, change into the directory you've been tracking (from the two previous [...]).
+		^ also add note about intricacies of git commit (<- note that commit will save changes locally, they don't have to be pushed [unless you want to save them remotely], then you can push if you want)
+
+		- How do you use git status? Why is it needed?
+		You can use git status to check the status of your updated files (whether they've been staged for a commit [aka added] or not).
+
+		~ regarding above, add points to guide them and pictures ~
+		~ also regarding above, add notes about working directory (after git init), staging area (after git add), and repository (after git commit) ~
+
+		- Best Practices
+			- How to write a good README?
+			Use this basic template for personal projects:
+
+			Project Title: the name of your project
+
+			Description: This is an extremely important component of the README. You should describe the main purpose of your project. Answer questions like "why did you build this project?" and "what problem(s) does it solve?". It also helps to include your motivations for the project and what you learned from it.
+
+			Features: If your project has multiple features, list them here. Don't be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
+
+			How to use: Here, you should write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed here.
+
+			Technologies: List all the technologies and/or frameworks you used and what purpose they serve in your project.
+
+			Collaborators: If others have contributed to your project in any way, it is important to give them credit for their work. Write your team members' or collaborators' names here along with a link to their GitHub profile.
+
+			License: It's also important to list a license on your README so other developers can understand what they can and cannot do with your project. You can use (https://choosealicense.com/) to help you choose a license.
+
+			https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet <- this can help you use Markdown in your README.md
+
+			- How to write a good commit message?
+			~ try to write a table here using: https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g ~
+
+~~~~
+
 More Advanced Git Bash
-  - Backtracking with Git
-    - How do you show the most recently made commit?
+	- Backtracking with Git
+		- How do you show the most recently made commit?
     Use git show HEAD to show the most recently made commit.
 
-    - How do you revert a file back to its last commit?
+		- How do you revert a file back to its HEAD commit?
     Use git checkout HEAD [filename] to revert [filename] back to its last commit.
 
-    - How do you reset a file to its HEAD commit?
+		- How do you reset a file to its HEAD commit?
     Use git reset HEAD [filename] to reset [filename] to its HEAD commit (also removes it from the staging area)
 
-    - What's the difference between git revert and git reset? Also, how do you use both of them?
-      ^ Use git reset to delete previous commits (from where you are - where you're going), whereas git revert keeps previous commits
-      ^ use git reset [commithash] (using the log --oneline)
-      ^ https://www.w3schools.com/git/git_reset.asp
-      ^ use git revert [commithash] (using the log --oneline)
-      ^ https://www.w3schools.com/git/git_revert.asp
-      ^ change into similar to above
+		- How do you revert a file to a specific commit?
+		Use git revert [commithash] to revert the file to the supplied [commithash].
+
+		- How do you reset a file to a specific commit?
+		Use git reset [commithash] to reset the file to the supplied [commithash].
+
+		- What's the difference between git revert and git reset?
+		The difference is between git revert and git reset is that git revert (both versions) doesn't erase your commits further, whereas git reset (both versions) does.
+		^ be sure to include (--oneline) option (so they don't get stuck reading long lines of commits and stuff)
+
+		- How do you amend a previously made commit?
+		Use git commit --amend to amend a file's commit message (should only be used on local repositories)
+		^ https://www.w3schools.com/git/git_amend.asp
 
 	- Git Branching
 		- How do you list all branches?
     You can use git branch to list all branches (lets you know what branch you are on with green and an asterisk)
 
-    - How do you create a branch?
+		- How do you create a branch?
     You can use git branch [branchname] to create a branch.
 
-    - How do you switch branches?
+		- How do you switch branches?
     You can use git checkout [branchname] to switch branches.
 
-    - How can you merge branches?
+		- How can you merge branches?
     You can use git merge [branchname] to merge branches (will merge called branch with current branch, so make sure you're on the right branch before you call this one...)
 
-    - How can you delete branches?
-    There are two ways - using git branch -d [branchname] and git branch -D [branchname]. Use the first if the branch is merged with main, and use the second for branches never merged with main.
+		- How do you resolve merge conflicts?
+    You can resolve merge conflicts by viewing the marked-up file (that will tell you where the discrepancies lie).
+		^ look through and articulate conflict.png (will help a lot)
 
-
+		- How can you delete branches?
+    There are two ways - using git branch -d [branchname] and git branch -D [branchname]. 
+		
+		Use the first if the branch is merged with main, and use the second for branches never merged with main.
 
 		- Explain git push origin main.
 		Well, let's break it down:
 			- git push is what we use to push local branches to Github
+
 			- origin is the name of our remote connection (elaborate)
+
 			- and main is the name of our default local branch
-		
+
 		- How do you push a branch not named main to Github?
 		It's as simple as changing the word "main" to the name of your branch (e.g. turtle, pecan)
 
@@ -54,36 +268,23 @@ More Advanced Git Bash
 		- How do you look at the history of your previous commits?
 		First, make sure you're in a directory that's being tracked by Git. After that, all you have to do is type git log.
 
-    - What are some other commands to note?
-    ^ bring up cmnd.txt y'all
-    ^ also write about git diff (never used it)
-    
-    - How do you copy a repository onto your local machine from GitHub?
-    ^ with git clone
-    ^ also note that git commands introduced will only work with a folder being tracked with Git
+		To find the history of your previous commits for a specific file, just add the filename to the end of the command (give an example).
 
+		- How do you copy a repository onto your local machine from GitHub?
+		https://www.janbasktraining.com/community/devops/what-is-the-difference-between-pull-and-clone-in-git <- figure this out
+		https://www.delftstack.com/howto/git/difference-of-git-clone-and-git-pull/ <- this can be helpful...
 
-~
+		- What are some other commands to note?
+		There's git diff, which checks difference between current status and previously saved status (explain a bit better??).
+		^ as of right now, that's all I have (I'M SO PROUD THOUGH HAHA)
 
-Summary: [recap on helpful terms learned and what we now know, in less of a childish sounding way], also take note that I didn't cover Git Teamwork (explain that I don't have much experience)
-^ Also potentially make a future tutorial for Advanced Git (at a milestone or something, at least after I learn AND use these things haha???)
+~~~~
+
+Summary
+	[recap on helpful terms learned and what we now know, in less of a childish sounding way], also take note that I didn't cover Git Teamwork (explain that I don't have much experience).
+	^ Also potentially make a future tutorial for Advanced Git (at a milestone or something, at least after I learn AND use these things???)
 
 Important Links/References:
-- 
+-
 
-Git Bash Rubric:
-
-Do I cover...
-How to initiate a Git repository?
-How to stage/unstage your code changes?
-How to commit and amend a commit? What are the standards for a good commit message?
-How to push your changes to the repository?
-How to merge another branch to your branch?
-How to resolve merge conflicts?
-How to initiate a Git repository?
-How to stage/unstage your code changes?
-How to commit and amend a commit? What are the standards for a good commit message?
-How to push your changes to the repository?
-How to merge another branch to your branch?
-How to resolve merge conflicts?
-How to automate the two-step process (if possible)? <- implement for personal use LMAO
+~ Potentially wait until next year to post this?? ~

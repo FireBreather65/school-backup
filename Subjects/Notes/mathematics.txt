@@ -19,7 +19,6 @@ Hexadecimal Number Systems:
 
 Converting from Decimal to Hexadecimal:
 - https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-hexadecimal
-^ I can't articulate the helpful benefits haha
 
 ~
 
@@ -36,7 +35,7 @@ Multiplying in Binary:
 Binary to Hexadecimal:
 - https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-to-hexadecimal
 
-~
+-----
 
 ~ Geometry ~
 
@@ -53,17 +52,16 @@ Terms & Labels in Geometry:
 
 - a midpoint is a point that is exactly halfway between two locations (which can be other points)
 
-- a plane is an infinite two-dimensional surface (you can go right, left, up, and/or down)
+- a plane is an infinite two-dimensional surface (like an infinite piece of paper)
 
-- a plane segment is a non-infinite two-dimensional surface (like a piece of paper)
+- a plane segment is a non-infinite two-dimensional surface (like a regular piece of paper 😂)
 
 - video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-lines-rays/v/language-and-notation-of-basic-geometry
 
 ~
 
 Parallel & Perpendicular Lines:
-- video link: https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-parallel-perp/v/identifying-parallel-and-perpendicular-lines
-^ although I don't have notes, this video is really helpful
+- https://www.khanacademy.org/math/geometry-home/geometry-lines/geometry-parallel-perp/v/identifying-parallel-and-perpendicular-lines
 
 ~
 
@@ -88,20 +86,27 @@ Angles: Introduction:
 Angles, Parallel Lines, & Transversals:
 - a transversal line is a line that intersects two parallel lines (no matter the angle, unlike perpendicular lines)
 
-- corresponding angles are equivalent, as well as vertical angles (as the above video proves)
+- corresponding angles are equivalent, as well as vertical/opposite angles
 
-- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/angles-formed-by-parallel-lines-and-transversals
+- alternate interior angles are the alternate (but equal) angles that are "inside" the parallel lines
+
+- alternate exterior angles are the alternate (but equal) angles that are "outside" the parallel lines
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/old-angles/v/angles-part-3
 
 ~
 
 Missing Angles w/ Transversals:
-- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/figuring-out-angles-between-transversal-and-parallel-lines
-^ although there aren't any notes, it's helpful to know
+- https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/figuring-out-angles-between-transversal-and-parallel-lines
 
 ~
 
 Missing Angles (CA Geometry):
-- video link: https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/ca-geometry-deducing-angle-measures
-^ actually really helpful and not able to be documented
+- https://www.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/ca-geometry-deducing-angle-measures
 
-~ 
+~
+
+The Angle Game(s):
+- https://www.khanacademy.org/math/geometry-home/geometry-angles/old-angles/v/the-angle-game
+
+- https://www.khanacademy.org/math/geometry-home/geometry-angles/old-angles/v/angle-game-part-2
