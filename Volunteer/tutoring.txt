@@ -3,7 +3,7 @@ Logging Hours (after I begin tutoring): https://docs.google.com/forms/d/e/1FAIpQ
 Resources: https://www.425tutoring.org/tutor-resources
 	- https://www.425tutoring.org/_files/ugd/875b46_55f8ea079f5b47bda43a841f9956ed43.pdf (Homework)
 	- https://www.425tutoring.org/_files/ugd/875b46_d669a93b9e834a8dad9c52eae33854ed.pdf (Tutor FAQ)
-	- https://www.425tutoring.org/_files/ugd/875b46_90c3734a20774d5ab3e8b89f4aff1bc0.pdf (Welcome Guide)
+	- https://www.425tutoring.org/_files/ugd/875b46_90c3734a20774d5ab3e8b89f4aff1bc0.pdf (Welcome Guide) <- get website version once up again
 	Curriculum Standards:
 		- https://www.425tutoring.org/_files/ugd/875b46_36be5cc8421e4d3e8c99d114b8e019e7.pdf (English)
 		- https://www.425tutoring.org/_files/ugd/875b46_3aa4af516b7c4d36886080272bef3475.pdf (Mathematics)
