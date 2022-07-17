@@ -1,68 +1,4 @@
-~~~~
-
-Intro to Git Bash:
-
-- What is Git Bash?
-Git Bash is a *version control system (VCS)*, meaning it's a software designed to record changes within one or more files over time. It also allows us to undo - or even cancel - the made or pending changes in one or more files.
-
-You might be wondering, what does this mean? Why does this matter to me?
-
-Well, using a VCS (in this case, Git Bash) can help you track your projects.
-
-Say you were working on a webpage, and you deleted or erased the contents of the main page on accident. You would then lose the main file in your project, as well as hours of work.
-
-But, if you used Git Bash to track these files and changes made to said files, you could revert the changes (more on that later).
-
-
-- What is the command line?
-The command line is an interface for typing commands directly to a computer's operating system.
-
-Every Windows PC comes with a Command Prompt (a type of command line), which allows you to install programs, create new users, and run scripts.
-
-
-- What's the difference between Git Bash and the command line?
-The difference between Git Bash and the command line is simple - Git Bash is a TYPE OF command line, not THE command line. 
-
-Kind of like the difference between vanilla ice cream and ice cream - there isn't really a difference, vanilla is simply a flavor of ice cream. 
-
-Mmmm, ice cream...
-
-- What's the difference between the Command Prompt and Git Bash?
-The difference between the Command Prompt and Git Bash is that one (the Command Prompt) is built into every Windows PC (as stated above). Bash is naturally only available for Unix-like operating systems like Linux (another operating system, or OS, like Windows). Downloading Git Bash onto your computer allows you the functionalities of Bash without changing your OS.
-
-
-- Then why should I use Git Bash, not the built-in Command Prompt?
-Good question. Git Bash has more powerful features, such as arithmetic, array variables, loops, and branches.
-
-~ https://www.makeuseof.com/git-bash-what-how-use/ ~
-
-~~~~
-
-Installating Git Bash:
-- How do you set up Git Bash on your local machine?
-[This link to MakeUseOf](https://www.makeuseof.com/install-git-git-bash-windows/) can help you. <- say in a different way???
-
-
-- How do you check what version of Git is downloaded?
-If desired, simply type git --version into your Command Prompt (or even Git Bash itself).
-
-~~~~
-
-Navigating the File System (create our own food-based file tree):
-
-- Viewing the File System
-	- How do you navigate to a particular directory?
-	You can use cd to navigate to a particular directory. cd by itself will take you to your home directory, whereas adding an actual directory's name will take you to that directory (under specfic conditions). <- be sure to also include cd .. (somehow)
-	
-	- How do you display the name of the directory you are currently in?
-	You can use pwd to display the name of your current directory.
-	
-	- How do you display the contents of the directory you are currently in?
-	You can use ls to display the contents of the current directory. You can also add on a directory name to list the contents of said directory.
-
-	^ incorporate above two more naturally into the lesson...
-
-- Changing the File System
+- Changing the File System:
 	- How do you create a new directory?
 	You can use mkdir to create a new directory.
 
@@ -285,6 +221,8 @@ Summary
 	^ Also potentially make a future tutorial for Advanced Git (at a milestone or something, at least after I learn AND use these things???)
 
 Important Links/References:
--
+- https://blog.greenroots.info/20-useful-markdown-syntaxes-for-developers <- for marking down my article during the second draft
+- also during the second draft, find consistent way to present folder vs. directory, tree vs. structure, and folder tree vs. directory structure 🤣🤣🤣
 
 ~ Potentially wait until next year to post this?? ~
+^ not totally sure...huh

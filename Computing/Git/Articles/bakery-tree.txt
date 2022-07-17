@@ -1,0 +1,25 @@
+Cakes
+	- red-velvet.txt
+	- funfetti.txt
+	- chocolate.txt <- make a point about this
+	- Frostings
+		- vanilla.txt
+		- cream-cheese.txt
+		- chocolate.txt <- reason why to make one
+Cookies
+	- chocolate-chip.txt
+	- shortbread.txt
+	- oatmeal-raisin.txt
+Pies
+	- apple.txt
+	- pecan.txt
+	- pumpkin.txt
+	Whipped Cream
+		- cinnamon.txt
+		- chantilly.txt
+Breads
+	- banana.txt
+	- ciabatta.txt
+	- bagels.txt
+
+~ maybe make a bit more complex (to prove that anything is possible LMAO) ~

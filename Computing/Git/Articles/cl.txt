@@ -2,7 +2,8 @@ Title: The Beginner's Guide to Git Bash
 
 Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1200px-Git_session.svg.png
 
-Introduction: Git Bash is a popular *version control system (VCS)*, meaning it's a software designed to record changes within one or more files over time. It also allows us to undo - or even cancel - the made or pending changes in one or more files.
+Introduction:
+Git Bash is a popular *version control system (VCS)*, meaning it is a software designed to record changes within one or more files over time. It also allows us to undo - or even cancel - the made or pending changes in one or more files.
 
 You might be wondering, what does this mean? Why does this matter to me?
 
@@ -12,9 +13,102 @@ Say you were working on a webpage, and you deleted the main contents of the page
 
 But, if you used Git Bash to track these files and changes made to said files, you could revert the changes (more on that later).
 
-NOTE: Before we begin, I have three things to mention: 
-	- First, you might want to be at a computer or laptop (to get the full experience by coding along if you'd like)
-	
-	- Second, the audience for this article is Windows users (for Linux/Mac users, [go to this link](https://www.theodinproject.com/lessons/foundations-command-line-basics))
+Git Bash also has other powerful features, such as arithmetic, array variables, loops, and branches.
 
-	- Third, I won't cover Git Teamwork in this tutorial, 
+NOTE: Before you continue reading, I have three things to mention: 
+	- First, you might want to be at a computer or laptop (to get the full experience by coding along if you would like).
+	
+	- Second, the audience for this article is Windows users (for Linux or MacOS users, [go to this link](https://www.theodinproject.com/lessons/foundations-command-line-basics)).
+
+	- Third, I will not cover Git Teamwork in this tutorial. I do not have enough (or really, any) experience with Git Teamwork, therefore I cannot write about it.
+
+~~~~
+
+Installing Git Bash:
+The first (and probably most important) thing to do is download Git Bash. You can set up Git Bash on your *local machine (aka laptop or computer)* by [going to this link](https://www.makeuseof.com/install-git-git-bash-windows/).
+
+To check what version of Git Bash is downloaded, simply type this command into the terminal:
+
+```bash
+git --version
+```
+
+~~~~
+
+Navigating the File System:
+Now that you have downloaded Git Bash, you can start navigating (and later changing) the file system.
+
+For this tutorial (at "Changing the File System"), you will be making your own *folder (also known as directory)* tree. 
+
+*Fun fact: The folder tree is named so because it branches off from a main "trunk" of your root folder.*
+
+It will kind of look like this, but much larger:
+![https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Binary_tree_structure.svg/1200px-Binary_tree_structure.svg.png](Binary Tree Structure)
+
+But first, you should understand what is already happening here, and how to move around in the directory tree.
+
+~
+
+Let's start with `cd`. You can use `cd` to go "down" to a particular directory, like so:
+
+```bash
+cd <directory-name>
+```
+
+A caveat with this is that you have to already be on the same path as where you would like to go.
+
+For example, remember the [Binary Tree Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Binary_tree_structure.svg/1200px-Binary_tree_structure.svg.png) from earlier?
+
+In that case, the root directory would be Encyclopaedia. Encyclopaedia then branches off to either Science or Culture. From Culture, you can go further "down" again to Art or Craft.
+
+Say you were in Science, but you want to go to Craft. You can't go directly to Craft, because that's under Culture, not Science. (If this is starting to get confusing, break it down while looking at the picture). As you aren't on the same _path_ as Craft, you cannot immediately go there.
+
+Instead, you must go "up" the tree, using this command:
+
+```bash
+cd ..
+```
+
+Lastly, `cd` can be used by itself. Typing the command by itself takes you to your root directory.
+
+~
+
+Now that you know how to use `cd`, let's move on to `pwd`.
+
+Simply typing `pwd` into the terminal prints your current working directory (aka where you are) to the terminal.
+
+`pwd` is helpful if you aren't sure what path you are on, or to verify where you are in the tree.
+
+~
+
+The last basic command to note is `ls`. This command lists the contents of your current directory.
+
+Again using the [Binary Tree Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Binary_tree_structure.svg/1200px-Binary_tree_structure.svg.png) (this thing is proving helpful 😂), say you were in the root folder (Encyclopaedia). If you used `ls` there, it would show up like this:
+
+```bash
+Science/  Culture/
+```
+
+Using the same logic, if you were in Culture and typed `ls`, it would show up like this:
+
+```bash
+Art/  Craft/
+```
+
+For empty directories like Science, if you typed `ls`, nothing would come up (as it is empty).
+
+Remember the logic of `cd`? That you have to be on the same path as the directory you would like to go to? It applies here too, with `ls`. You can list the contents of a directory (as long as it's directly inside of your current directory), like so:
+
+```bash
+ls <directory-name>
+```
+
+~
+
+Changing the File System:
+Now that you (hopefully) understand how to navigate the folder tree, you can start changing the structure.
+
+As I mentioned earlier, you're going to add on to your pre-existing directory structure with one of your own (a bakery-based one 😋).
+
+In the end, it will look like this:
+~ make a depiction in canva of bakery-tree.txt ~
