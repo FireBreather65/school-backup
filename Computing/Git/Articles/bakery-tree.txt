@@ -1,25 +1,41 @@
-Cakes
+Base Directory: Bakery
+
+Cakes ✔
+	- chocolate.txt <- make a point
 	- red-velvet.txt
-	- funfetti.txt
-	- chocolate.txt <- make a point about this
-	- Frostings
+	- yellow.txt
+	Specialty
+		- funfetti.txt
+		- wedding.txt
+	Frostings
 		- vanilla.txt
 		- cream-cheese.txt
-		- chocolate.txt <- reason why to make one
-Cookies
-	- chocolate-chip.txt
-	- shortbread.txt
-	- oatmeal-raisin.txt
-Pies
-	- apple.txt
-	- pecan.txt
-	- pumpkin.txt
-	Whipped Cream
-		- cinnamon.txt
-		- chantilly.txt
-Breads
-	- banana.txt
-	- ciabatta.txt
-	- bagels.txt
+		- chocolate.txt <- make a point
 
-~ maybe make a bit more complex (to prove that anything is possible LMAO) ~
+Cookies ✔
+	- chocolate-chip.txt <- make a point ✔
+	- chocolate-crinkle.txt ✔
+	- oatmeal-raisin.txt ✔
+
+Pies ✔
+	Seasonal
+		Summer
+			- blackberry.txt
+			- blueberry.txt
+			- strawberry-rhubarb.txt
+		Fall
+			- apple.txt
+			- pecan.txt
+			- pumpkin.txt
+
+Miscellaneous ✔
+	Breads
+		- baguette.txt
+		- ciabatta.txt
+		- cuban.txt
+	Muffins
+		- banana-nut.txt
+		- blueberry.txt
+		- chocolate-chip.txt <- make a point
+	- ny-cheesecake.txt
+	- brownies.txt

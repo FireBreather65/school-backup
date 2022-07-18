@@ -111,4 +111,92 @@ Now that you (hopefully) understand how to navigate the folder tree, you can sta
 As I mentioned earlier, you're going to add on to your pre-existing directory structure with one of your own (a bakery-based one 😋).
 
 In the end, it will look like this:
-~ make a depiction in canva of bakery-tree.txt ~
+~ canva project: depict bakery-tree.txt ~
+
+~
+
+Imagine that you're a baker who wants to plan out their menu and offerings, and figures that the best way to do that is with a project in Git Bash. <- make better, imagine more, and keep with the analogy throughout
+
+Let's get started by creating a new directory. Make sure that you're in your home directory first (this can be accomplished by simply typing `cd` into the terminal).
+
+You use `mkdir` to create a new directory. Since you'll be making a bakery-based folder tree, name your directory "Bakery", like so:
+
+```bash
+mkdir Bakery
+```
+
+Now [list the contents of your root directory](internal link to above) - Bakery should show up! You may need to scroll up to see it.
+
+~
+
+Mini-Test: Use what you learned above to create 4 more directories - Cakes, Cookies, Pies, Miscellaneous, and Cupcakes.
+
+~
+
+You then decide that you don't want to sell cupcakes (they're WAY too much work).
+
+*Perfect time to learn another command - rmdir :)*
+
+You can use `rmdir` to remove directories.
+
+First, verify that you're on the same path as the directory you'd like to delete. Then, remove the directory like so:
+
+```bash
+rmdir <directory-name>
+```
+
+In this case, make sure you're in the Bakery directory and replace <directory-name> with Cupcakes.
+
+Now [list the contents of Bakery](internal link to above). Cupcakes should be gone! 🧁
+
+You can also use rm -rf to remove a directory with force (if it just wants to be stubborn). <- find some way to include this...
+
+~
+
+Since that's sorted out, now you can start adding files. Again, [verify that you're in the Bakery directory](internal link to pwd). 
+
+Creating new files is easy - simply type `touch <filename>` into the terminal. 
+
+According to the ~ depiction of bakery-tree.txt ~, Cookies only has files in it - so let's start there.
+
+First, locate to the directory you'd like to add files to (in this case, Cookies).
+
+Then, add the files using this method:
+
+```bash
+touch <filename>
+```
+
+~
+
+Mini-Test: Use what you know to add the files chocolate-chip.txt, chocolate-crinkle.txt, oatmeal-raisin.txt, and shortbread.txt to the Cookies directory.
+
+~
+
+You decide that shortbread isn't a good idea (you haven't perfected it just yet), so you decide to delete it from your plans.
+
+Files can be deleted by simply doing this:
+
+```bash
+rm <filename>
+```
+
+Again, first make sure that you're on the same path (and in the same directory) as the file you want to delete.
+
+In this case, make sure you're in the Cookie directory and replace <filename> with shortbread.txt.
+
+Now [list the contents of Cookie](internal link to above). Shortbread.txt should be gone! 🍪
+
+You can also use rm -r to remove a file with force (if it just wants to be stubborn). <- find some way to include this...
+
+~
+
+Next, I'll tell you how to move and rename files - using the same command 😱
+
+Both moving and renaming files use the `mv` command, but with different arguments.
+
+First, let's say that you want to move a directory into an existing directory. You would use these commands:
+
+```bash
+mv <directory-name> <existing-directory>
+```

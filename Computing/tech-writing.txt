@@ -5,7 +5,7 @@ Wireframing:
 - use "Article Organization" to help wireframe ✔
 
 First Draft:
-- use a unique voice (don't try to copy others)
+- use a unique voice (don't try to copy others) ✔
 - include a link to new or unfamiliar terms (better yet, define it yourself) 
 - on the initial use of an unfamiliar acronym within a document or a section, spell out the full term, and then put the acronym in parentheses.
 ^ put both the spelled-out version and the acronym in boldface

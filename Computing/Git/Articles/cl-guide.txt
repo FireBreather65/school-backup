@@ -1,22 +1,8 @@
 - Changing the File System:
-	- How do you create a new directory?
-	You can use mkdir to create a new directory.
-
-	- How do you destory a directory?
-	You can use rmdir, use rm -rf to destroy it with force (no questions asked).
-
-	- How do you create a new file?
-	You can use touch to create a new file.
-
-	- How do you destroy a file?
-	You can use rm to destroy a file, rm -f to destroy it with force (no questions asked).
-
-	- How do you rename a directory or file?
-	You can use mv to rename (and move) directories and/or files. Basically...
-		- mv [directory] [existing directory] moves [directory] into [existing directory]
 		- mv [directory] ["new" directory] renames [directory] to ["new" directory]
 		- mv [file] [directory] moves [file] into [directory]
-		- mv [file] [existing file] moves [file] contents into [existing file] <- needs more testing, with actually edited files
+		- mv [file] [existing file] moves [file] contents into [existing file]
+		^ doing this results in the first file being removed, and the contents of the first file replacing the contents of the second file (thereby removing the original contents of the second file) <- see proof.png for help
 		- mv [file] ["new" file] renames [file] to ["new" file]
 
 	- How do you look at the history of your previous commands?
@@ -29,8 +15,6 @@
 
 		You can brings up a help menu for [command] with [command] --help.
 
-		~ use "Helpful Git Commands" as a template for the future "Helpful Bash Commands" ~
-
 ~ playing around a bit ~
 
 ~~~~
@@ -40,7 +24,7 @@ Intro to Github
 - What is Github
 So far, you've been messing around on your computer, making changes to your file system - and only you can see those changes. You've been making changes locally.
 
-How can you allow others to see your changes, you may ask? By pushing your changes to Github, or some other code hosting platform. That way, others can see (and even contribute to) your projects.
+You may ask, how can you allow others to see your changes? By pushing your changes to Github, or some other code hosting platform. That way, others can see (and even contribute to) your projects.
 
 - Github vs. Git Bash
 The difference between Github and Git Bash is that one is a version control system only (Git Bash), and one is a code hosting platform (Github). Another difference is that Git Bash will save your changes locally (only for you to see), whereas Github will save your changes remotely (for everyone to see).
