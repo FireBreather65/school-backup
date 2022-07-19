@@ -1,5 +1,3 @@
-Logging Hours (after I begin tutoring): https://docs.google.com/forms/d/e/1FAIpQLSeMz-I2fsvTsqCEWaIgLPeQHqXQE557duaMdz9Wq8Ggrb_KEQ/viewform
-
 Resources: https://www.425tutoring.org/tutor-resources
 	- https://www.425tutoring.org/_files/ugd/875b46_55f8ea079f5b47bda43a841f9956ed43.pdf (Homework)
 	- https://www.425tutoring.org/_files/ugd/875b46_d669a93b9e834a8dad9c52eae33854ed.pdf (Tutor FAQ)
@@ -10,13 +8,6 @@ Resources: https://www.425tutoring.org/tutor-resources
 		- https://www.425tutoring.org/_files/ugd/875b46_b0dd7b8ce98d4fd59fe900a2148cbfb5.pdf (Science)
 
 Slack Link: https://app.slack.com/client/T01858ZDSE9/
-
-Tracking Hours:
-- open the form (Logging Hours link) after you tutor
-- select your name from the dropdown menu
-- enter the date, starting, and ending time
-- add any additional info (change in schedule, issues, etc.)
-- remember that you can log past hours, but not future hours
 
 Notes:
 - you'll be teaching for 8 weeks (then choose to go longer or not)

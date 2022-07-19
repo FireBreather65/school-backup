@@ -193,10 +193,5 @@ You can also use rm -r to remove a file with force (if it just wants to be stubb
 
 Next, I'll tell you how to move and rename files - using the same command 😱
 
-Both moving and renaming files use the `mv` command, but with different arguments.
+Both moving and renaming files use the `mv` command, but with different arguments. The table below demonstrates this:
 
-First, let's say that you want to move a directory into an existing directory. You would use these commands:
-
-```bash
-mv <directory-name> <existing-directory>
-```

@@ -6,13 +6,13 @@
 - We recommend using online resources. You can use your own book if you have any but prefer something that can be screened shared as it makes it easy to see oppose to showing it via camera.
 - read this: https://drive.google.com/file/d/1unDCRo8LFaU-6NCD5m_a1-pBYCjGqNOa/view
 - availability settings:
-	- Monday: Morning, Night
-	- Tuesday: Morning, Night
-	- Wednesday: Morning, Night
-	- Thursday: Morning, Night
-	- Friday: Morning, Night
+	- Monday: Morning, Afternoon, Evening, Night
+	- Tuesday: Morning, Evening, Night
+	- Wednesday: Morning, Afternoon, Night
+	- Thursday: Morning, Evening, Night
+	- Friday: Morning, Afternoon, Evening, Night
 	- Saturday: Morning, Afternoon, Evening
-	- Sunday: Morning, Night
+	- Sunday: Morning, Afternoon, Night
 
 2. Login to Better Impact. Click 'Opportunities' > 'Opportunity Calendar'
 3. Find & sign up for a Virtual StoryTent screening time that works with your schedule. If there are currently none, an email will be sent out to you once more are added.

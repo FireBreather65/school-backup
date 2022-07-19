@@ -203,3 +203,15 @@ Prokaryotic and Eukaryotic Cells:
 - eukaryotic plant cell diagram: https://cdn.kastatic.org/ka-perseus-images/efdeccc83cd2b30849b89fedd8993d783a1f635a.png
 
 ~
+
+Introduction to Metabolism:
+- metabolism is made up of two processes:
+	- catabolism, where large molecules are broken down into small ones (energy is released, making it an exergonic reaction)
+	- anabolism, where small molecules are assembled into large ones (energy is required, making it an endergonic reaction)
+
+- the material that plants and trees are made of is actually carbon
+^ it comes from them come from them rearranging carbon dioxide, taking the carbon from it and turning it from a gas to a solid form (the plant)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-introduction-to-metabolism/v/introduction-to-metabolism-anabolism-and-catabolism
+
+~

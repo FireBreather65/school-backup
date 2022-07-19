@@ -110,3 +110,24 @@ The Angle Game(s):
 - https://www.khanacademy.org/math/geometry-home/geometry-angles/old-angles/v/the-angle-game
 
 - https://www.khanacademy.org/math/geometry-home/geometry-angles/old-angles/v/angle-game-part-2
+
+~
+
+Recognizing Shapes:
+- a rectangle is a parallelogram (and a quadrilateral) with 4 equal (90°) angles
+^ also has 2 pairs of equal sides
+
+- a rhombus is a parallelogram (and a quadrilateral) with 4 sides of equal length
+^ also doesn't have 90° angles
+
+- considering the above, a square is:
+	- a parallelogram
+	- a quadrilateral
+	- a rectangle
+	- and a rhombus
+
+- lastly, a trapezoid is a quadrilateral with one pair of parallel sides (therefore not a parallelogram)
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-shapes/geometry-properties-shapes/v/recognizing-shapes/
+
+~
