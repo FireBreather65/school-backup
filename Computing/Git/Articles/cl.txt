@@ -149,7 +149,7 @@ In this case, make sure you're in the Bakery directory and replace <directory-na
 
 Now [list the contents of Bakery](internal link to above). Cupcakes should be gone! 🧁
 
-You can also use rm -rf to remove a directory with force (if it just wants to be stubborn). <- find some way to include this...
+Note: You can also use rm -rf to remove a directory with force (if it just wants to be stubborn).
 
 ~
 
@@ -187,7 +187,7 @@ In this case, make sure you're in the Cookie directory and replace <filename> wi
 
 Now [list the contents of Cookie](internal link to above). Shortbread.txt should be gone! 🍪
 
-You can also use rm -r to remove a file with force (if it just wants to be stubborn). <- find some way to include this...
+Note: You can also use rm -f to remove a file with force (if it just wants to be stubborn).
 
 ~
 
@@ -195,3 +195,49 @@ Next, I'll tell you how to move and rename files - using the same command 😱
 
 Both moving and renaming files use the `mv` command, but with different arguments. The table below demonstrates this:
 
+~ create markdown table demonstrating this ~
+	- mv [directory] [existing directory] moves [directory] into [existing directory]
+	- mv [directory] ["new" directory] renames [directory] to ["new" directory]
+	- mv [file] [directory] moves [file] into [directory]
+	- mv [file] [existing file] moves [file] contents into [existing file]
+	^ doing this results in the first file being removed, and the contents of the first file replacing the contents of the second file (thereby removing the original contents of the second file) <- see proof.png for help
+	- mv [file] ["new" file] renames [file] to ["new" file]
+
+~
+
+Another helpful command is `cp`, which copies files (and directories, using the -r option). Here's another table (these are coming in handy, huh?) to display the different operations:
+
+~ create markdown table demonstrating this (after testing again) ~
+	- cp [file] [existing-file] copies the contents of [file] into [existing file]
+	^ similar to `mv`, doing this results in the contents of the first file replacing the contents of the second file (thereby removing the original contents of the second file). the difference is the first file isn't removed
+
+	- cp [file] ["new" file] copies the contents of [file] into ["new" file]
+	^ basically creating two identical files
+
+	- cp [file] [directory] gives an error <- test again, maybe I did something wrong?
+
+	- cp [file] [another-file] [existing-directory] copies the files [file] and [another-file] into the [existing-directory] supplied
+	^ must be existing because `cp` won't create it
+
+	- cp -r [directory] ["new" directory] copies contents of [directory] into [existing-directory]
+	^ if ["new"-directory] isn't...well...new, [directory] will become a sub-directory
+
+~
+
+Lastly, here are some random (but helpful) commands. Again, but for the last time (I promise), I present to you a table:
+
+~ create markdown table demostrating these ~
+	- echo: used `echo` <filename> or <equation>: prints file contents (or equation answers) to the terminal
+	- cat: used `cat` <filename>: reads, creates, and/or [concatenates](https://www.merriam-webster.com/dictionary/concatenate) files
+	- less: used `less` <filename>: reads files without the risk of tampering them
+	- clear: used `clear`: well...clears the terminal haha
+	- history: used `history`: shows the history of your bash commands
+	- help: used [command] --help: brings up a help menu for [command]
+
+~
+
+Unit Test: Using the [depiction](~ canva project: depict bakery-tree.txt ~) provided, finish creating all the directories and files so it ends up matching the picture.
+
+Optional: After the Unit Test, play around with the tree, using the commands you learned earlier (for the sake of the tutorial, though, please return it to matching before continuing)
+
+~

@@ -1,25 +1,3 @@
-- Changing the File System:
-		- mv [directory] [existing directory] moves [directory] into [existing directory]
-		- mv [directory] ["new" directory] renames [directory] to ["new" directory]
-		- mv [file] [directory] moves [file] into [directory]
-		- mv [file] [existing file] moves [file] contents into [existing file]
-		^ doing this results in the first file being removed, and the contents of the first file replacing the contents of the second file (thereby removing the original contents of the second file) <- see proof.png for help
-		- mv [file] ["new" file] renames [file] to ["new" file]
-
-	- How do you look at the history of your previous commands?
-		You can simply type history into the console.
-
-	- What are some other Bash commands to note?
-		There's echo, which prints text (and other things like equation answers) to the terminal window. Also cat, reads files, creates files, and/or concatenate files. And less, which also reads files (without fear of accidentally tampering with them). Clear...well...clears the terminal
-
-		Also there's cp (copies files from one place to another, add the option -r to copy directories too), alias lets you create your own Bash commands
-
-		You can brings up a help menu for [command] with [command] --help.
-
-~ playing around a bit ~
-
-~~~~
-
 Intro to Github
 
 - What is Github

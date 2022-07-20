@@ -215,3 +215,18 @@ Introduction to Metabolism:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-introduction-to-metabolism/v/introduction-to-metabolism-anabolism-and-catabolism
 
 ~
+
+Introduction to Kinetics:
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-enzymes/v/introduction-to-kinetics
+^ boring (and lengthy), but useful
+
+~
+
+Enzymes:
+- a catalyst is a substance that speeds up a chemical reaction WITHOUT being charged (an enzyme is an example of this)
+
+- the substrate is the reactant molecule that an enzyme works on (binds with an enzyme at the active site)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-enzymes/v/enzymes
+
+~

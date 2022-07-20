@@ -1,41 +1,41 @@
 Base Directory: Bakery
 
 Cakes ✔
-	- chocolate.txt <- make a point
-	- red-velvet.txt
-	- yellow.txt
+	- chocolate.txt ✔ <- make a point
+	- red-velvet.txt ✔
+	- yellow.txt ✔
 	Specialty
-		- funfetti.txt
-		- wedding.txt
+		- funfetti.txt ✔
+		- wedding.txt ✔
 	Frostings
-		- vanilla.txt
-		- cream-cheese.txt
-		- chocolate.txt <- make a point
+		- vanilla.txt ✔
+		- cream-cheese.txt ✔
+		- chocolate.txt ✔ <- make a point
 
 Cookies ✔
-	- chocolate-chip.txt <- make a point ✔
+	- chocolate-chip.txt ✔ <- make a point
 	- chocolate-crinkle.txt ✔
 	- oatmeal-raisin.txt ✔
 
 Pies ✔
 	Seasonal
 		Summer
-			- blackberry.txt
-			- blueberry.txt
-			- strawberry-rhubarb.txt
+			- blackberry.txt ✔
+			- blueberry.txt ✔
+			- strawberry-rhubarb.txt ✔
 		Fall
-			- apple.txt
-			- pecan.txt
-			- pumpkin.txt
+			- apple.txt ✔
+			- pecan.txt ✔
+			- pumpkin.txt ✔
 
 Miscellaneous ✔
 	Breads
-		- baguette.txt
-		- ciabatta.txt
-		- cuban.txt
+		- baguette.txt ✔
+		- ciabatta.txt ✔
+		- cuban.txt ✔
 	Muffins
-		- banana-nut.txt
-		- blueberry.txt
-		- chocolate-chip.txt <- make a point
-	- ny-cheesecake.txt
-	- brownies.txt
+		- banana-nut.txt ✔
+		- blueberry.txt ✔
+		- chocolate-chip.txt ✔ <- make a point
+	- ny-cheesecake.txt ✔
+	- brownies.txt ✔
