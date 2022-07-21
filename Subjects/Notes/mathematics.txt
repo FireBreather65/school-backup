@@ -131,3 +131,37 @@ Recognizing Shapes:
 - video link: https://www.khanacademy.org/math/geometry-home/geometry-shapes/geometry-properties-shapes/v/recognizing-shapes/
 
 ~
+
+Intro to Curves:
+- a curve is a continuous drawing (sans gaps, or discontinuity)
+^ meaning a straight line is a curve 🤯
+
+- simple curves do not cross over themselves, whereas "not" simple curves do
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-shapes/geometry-curves-and-polygons/v/intro-to-curves-basic-geometrical-ideas-class-6-india-khan-academy
+
+~
+
+Polygons as Special Curves:
+- the criteria to meet:
+	- must be simple
+	- must be closed
+	- must be made of just line segments
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-shapes/geometry-curves-and-polygons/v/polygons-as-special-curves-basic-geometrical-ideas-class-6-india-khan-academy
+
+~
+
+Sum of Interior Angles:
+- formula is:
+	- let s = sides of a given polygon
+	- (s - 2) * 180° = interior angle sum (in degrees)
+
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-shapes/angles-with-polygons/v/sum-of-interior-angles-of-a-polygon
+
+~
+
+Sum of Exterior Angles:
+- video link: https://www.khanacademy.org/math/geometry-home/geometry-shapes/angles-with-polygons/v/sum-of-the-exterior-angles-of-convex-polygon
+
+~
