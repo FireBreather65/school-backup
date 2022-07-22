@@ -35,6 +35,14 @@ Multiplying in Binary:
 Binary to Hexadecimal:
 - https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-to-hexadecimal
 
+~
+
+Two-Step Equation Word Problem:
+- https://www.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-linear-eq-word-probs/v/application-problems-with-equation-in-one-variable
+^ simple once explained, but I was stuck at first
+
+~
+
 -----
 
 ~ Geometry ~

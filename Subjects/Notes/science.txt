@@ -237,3 +237,42 @@ Intro to Passive and Active Transport:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-passive-and-active-transport/v/introduction-to-passive-and-active-transport
 
 ~
+
+Introduction to Diffusion:
+- diffusion is basically the stabilizing of a given concentration gradient (from a high/low or low/high gradient to no gradient)
+^ uses passive transport
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-passive-and-active-transport/v/diffusion-video
+
+~
+
+Concentration Gradients:
+- a concentration gradient is a region of space over which the concentration of substance changes
+
+- they move irrespective to the other moving particles
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-passive-and-active-transport/v/concentration-gradients
+
+~
+
+Osmosis:
+- defined as the net movement of water across a semipermeable (aka selectively permeable) membrane from an area of lower solute concentration to an area of higher solute concentration
+^ passive transport process
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-osmosis-and-tonicity/v/osmosis
+
+~
+
+Tonicity:
+- defined as the ability of an extracellular solution to make water move into or out of a cell by osmosis (defined above)
+
+- three types of tonicity:
+	- hypertonic, where there's a higher concentration of solute in the solution surrounding the cell than in the cell (water moves out of the cell here)
+
+	- isotonic, where there's an equal amount of solute in the solution surrounding the cell and in the cell (water moves in and out of the cell at the same time here)
+
+	- hypotonic, where there's a lower concentration of solute in the solution surrounding the cell than in the cell (water moves into the cell here)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-osmosis-and-tonicity/v/hypotonic-isotonic-and-hypertonic-solutions-tonicity
+
+~

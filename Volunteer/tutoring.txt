@@ -1,15 +1,12 @@
-Resources: https://www.425tutoring.org/tutor-resources
-	- https://www.425tutoring.org/_files/ugd/875b46_55f8ea079f5b47bda43a841f9956ed43.pdf (Homework)
-	- https://www.425tutoring.org/_files/ugd/875b46_d669a93b9e834a8dad9c52eae33854ed.pdf (Tutor FAQ)
-	- https://www.425tutoring.org/_files/ugd/875b46_90c3734a20774d5ab3e8b89f4aff1bc0.pdf (Welcome Guide) <- get website version once up again
+Resources:
+	- https://img1.wsimg.com/blobby/go/b3394d1e-6d2e-4a74-aff2-a53115309942/downloads/425%20Tutoring%20Welcome%20Guide.pdf?ver=1658334908718 (Welcome Guide)
+	- https://img1.wsimg.com/blobby/go/b3394d1e-6d2e-4a74-aff2-a53115309942/downloads/Tutor%20FAQs.pdf?ver=1658334908718 (Tutor FAQ)
 	Curriculum Standards:
-		- https://www.425tutoring.org/_files/ugd/875b46_36be5cc8421e4d3e8c99d114b8e019e7.pdf (English)
-		- https://www.425tutoring.org/_files/ugd/875b46_3aa4af516b7c4d36886080272bef3475.pdf (Mathematics)
-		- https://www.425tutoring.org/_files/ugd/875b46_b0dd7b8ce98d4fd59fe900a2148cbfb5.pdf (Science)
+		- update once fixed lmao
 
 Slack Link: https://app.slack.com/client/T01858ZDSE9/
 
 Notes:
 - you'll be teaching for 8 weeks (then choose to go longer or not)
 - after the first meeting, set up a curriculum - base your curriculum on the Washington common core standards (above)
-- for homework, use KA - create a classroom as an "educator" and create accounts for each student (email them their account information) <- see above "Homework" for more guidance
+- go to Welcome Guide link for Homework and curriculum standards
