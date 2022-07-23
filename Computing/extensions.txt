@@ -20,4 +20,6 @@
 
 - Ra Livid Dark Theme (by Rahman Yerli)
 
+- vscode-pdf (by tomoki1207)
+
 - W3C Web Validator (by Celian Riboulet)

@@ -1,24 +1,6 @@
-Wash Whites
-Outside Chores
-Add Groceries
-Freezer List
-Sort Laundry
-Fold Towels
-
-Geometry - Learn to UT + UT
-~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - Vaping Essay + english.txt
-~ 15 crunches, 10 pushups, 5min biking ~
-Science - Learn to Unit Test
-~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Finish the Civil War
-~ 15 crunches, 10 pushups, 5min biking ~
-Foreign Language - Family 2 (french) + People (spanish)
-~ 15 crunches, 10 pushups, 5min biking ~
 Algebra - Learn to Linear Equations w/ Parentheses
 ~ 15 crunches, 10 pushups, 5min biking ~
 Computing - Git Bash Article (first draft)
 
-- volunteer screening (3:45pm)
-- send the rest of trina.txt (after response)
-- sort albums.txt (also count + time playlist)
+- send the rest of trina.txt
+- complete volunteer-checklist.pdf (w/Mom)

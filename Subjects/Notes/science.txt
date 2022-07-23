@@ -276,3 +276,57 @@ Tonicity:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-osmosis-and-tonicity/v/hypotonic-isotonic-and-hypertonic-solutions-tonicity
 
 ~
+
+Photosynthesis:
+- photosynthesis is a plant process where light (photo) energy is used to (synthesize) sugar (also releases molecular oxygen) <- occurs in the chloroplast
+
+- also requires water and carbon dioxide alongside the light <- the basic things that kids are taught to give plants
+
+- there are two stages: 
+	- the light-dependent reactions (which happens in the thylakoid membrane), where water and light are taken to produce ATP (a source of energy), NADPH (a strong reducing agent, also contains energy), and molecular oxygen (a bi-product)
+
+	- the Calvin cycle (which happens in the stroma) takes the products of the light-dependent reactions along with carbon dioxide to produce and store more energy in the form of sugar
+
+- although not brought up in the video, a photoautotroph is an organism that produces its own food using light energy (like plants)
+
+- another cool thing not brought up in the video is the fact that plants are green because chlorophyll reflects green light (instead absorbs red and blue light)
+
+- yet another fact not included in the video is in photosynthesis, carbon dioxide, water, and light energy react, which forms glucose and oxygen
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-photosynthesis/v/breaking-down-photosynthesis-stages
+
+~
+
+Cellular Respiration Introduction:
+- cellular respiration synthesizes glucose into energy (similar to light-dependent reactions during photosynthesis)
+^ occurs in the mitochondria
+
+- in a more involved fashion, if you one mole of glucose and six moles of oxygen, put it through cellular respiration, the product is six moles of carbon dioxide, six moles of water, and, most importantly, energy
+
+- both ATP and glucose are the "energy currency" of biological systems
+
+- energy produces both heat and 38 ATPs <- weirdly specific number lmao
+
+- regarding the strangely specific 38 ATPs, it's an ideal number (in reality, it's more along the lines of 30 ATPs), but these theories are still being studied
+
+- parts of cellular respiration:
+	- glycolysis (the first stage), an anaerobic process where glucose is broken up from 6 carbon moles to a pair of 3 carbon moles (requires 2 ATPs, generates 4 ATPs, net +2 ATPs)
+	^ if oxygen isn't available, the byproducts of glycolosis go through a side process called fermentation (as the next 3 stages require oxygen)
+
+	- the Krebs cycle (the second stage), an aerobic process where the broken down glucose (aka pyruvate) gets further broken down into carbon dioxide (requires ? ATPs, generates 2 ATPs, net ? ATPs)
+
+	- the electron transport chain (the third stage), an aerobic process where NADHs and FADH2 produced in the above two stages are used to produce ATPs (requires ? ATPs, generates 34 ATPs, net ? ATPS)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-cellular-respiration/v/introduction-to-cellular-respiration
+
+~
+
+Lactic Acid Fermentation:
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-cellular-respiration/v/lactic-acid-fermentation
+
+~
+
+Alcohol Fermentation:
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-cellular-respiration/v/alcohol-or-ethanol-fermentation
+
+~
