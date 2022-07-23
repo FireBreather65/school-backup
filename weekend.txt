@@ -1,14 +1,54 @@
-Algebra:
-Saturday - Learn to Linear Equations Word Problems
-
 Foreign Language:
-Saturday - Restaurant (french, 2 levels)
 Sunday - Restaurant (french, 2 levels)
 
+~
+
+Algebra:
+Monday - Linear Equations WP + Unknown Coefficients
+Tuesday - Old School Equations
+Wednesday - Introduction to Inequalities
+Thursday - One-Step Inequalities
+Friday - Two-Step + Multi-Step Inequalities
+Saturday - Basic Equations and Inequalities Unit Test
+
+Foreign Language:
+Monday - City (french) + Greetings (spanish)
+Tuesday - City (french) + Greetings (spanish)
+Wednesday - City (french) + Greetings (spanish)
+Thursday - City (french) + Greetings (spanish)
+Friday - City (french) + Greetings (spanish)
+Saturday - Cracked Skills (french) + The Red Jacket
+Sunday - Cracked Skills (spanish) + The Red Jacket
+
+Geometry:
+Monday - Triangle Types
+Tuesday - Triangle Angles + Triangle Inequality Theoreom
+Wednesday - Perpendicular Bisectors + Angle Bisectors
+Thursday - Medians & Centroids
+Friday - Learn to Unit Test
+Saturday - Unit Test
+
 Humanities:
-Saturday - Learn to Reconstruction
+Monday - Reconstruction + Unit Test
+Tuesday - Learn to America Moves to the City
+Wednesday - Complete The Gilded Age
+Thursday - The South after the Civil War
+Friday - The American West
+Saturday - The Gilded Age Unit Test
+
+Language Arts:
+Monday - Borders + english.txt
+Tuesday - Social Psychology + english.txt
+Wednesday - The Apocalypse + english.txt
+Thursday - Git Bash Article + english.txt
+Friday - Vaccination Essay + english.txt
 
 Science:
-Saturday - Energy and Transport Unit Test
+Monday - Types of Reproduction
+Tuesday - Chromosome Structure
+Wednesday - The Cell Cycle and Mitosis
+Thursday - Meiosis
+Friday - Fertilization and Development
+Saturday - Reproduction and Cell Division UT
 
 On weekends, prepare lessons for tutoring in powerpoint.txt (as well as plan weekly educational goals).
