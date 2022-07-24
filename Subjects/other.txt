@@ -9,6 +9,7 @@ Humanities:
 - us history
 - ap us history
 - HTSGTS (on Prime)
+- BQ Presidents (both)
 - us gov. + civics
 - ap us gov. + pol.
 - art history
@@ -17,10 +18,10 @@ Humanities:
 - storytelling
 
 Mathematics:
-- geometry + algebra libraries
-~ courses (35% or higher) ~
-- ap statistics
-- precalculus
+- algebra 1 + hs geometry
+- algebra 2 + trigonometry
+- hs statistics
+- stats/prob + precalculus
 - ap calculus ab
 - ap calculus bc
 ~ courses (random calc) ~
@@ -32,7 +33,7 @@ Mathematics:
 Science:
 - hs biology
 - ap biology
-- chemistry library
+- hs chemistry
 - ap chemistry
 - hs physics
 - ap physics 1 + 2

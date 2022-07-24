@@ -251,6 +251,8 @@ Concentration Gradients:
 
 - they move irrespective to the other moving particles
 
+- facilitated diffusion is the passive movement of molecules along the concentration gradient (FACILITATED by membrane proteins)
+
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-passive-and-active-transport/v/concentration-gradients
 
 ~
@@ -297,7 +299,7 @@ Photosynthesis:
 
 ~
 
-Cellular Respiration Introduction:
+Cellular Respiration:
 - cellular respiration synthesizes glucose into energy (similar to light-dependent reactions during photosynthesis)
 ^ occurs in the mitochondria
 

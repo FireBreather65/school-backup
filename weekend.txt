@@ -1,15 +1,10 @@
-Foreign Language:
-Sunday - Restaurant (french, 2 levels)
-
-~
-
 Algebra:
-Monday - Linear Equations WP + Unknown Coefficients
-Tuesday - Old School Equations
-Wednesday - Introduction to Inequalities
-Thursday - One-Step Inequalities
-Friday - Two-Step + Multi-Step Inequalities
-Saturday - Basic Equations and Inequalities Unit Test
+Monday - Linear Equations w/ Variables
+Tuesday - Learn to Q1 + Q1
+Wednesday - Learn to Q2 + Q2
+Thursday - Multi-Step Inequalities
+Friday - Learn to Q3 + Q3
+Saturday - Solving Equations & Inequalities Unit Test
 
 Foreign Language:
 Monday - City (french) + Greetings (spanish)
@@ -21,12 +16,12 @@ Saturday - Cracked Skills (french) + The Red Jacket
 Sunday - Cracked Skills (spanish) + The Red Jacket
 
 Geometry:
-Monday - Triangle Types
-Tuesday - Triangle Angles + Triangle Inequality Theoreom
-Wednesday - Perpendicular Bisectors + Angle Bisectors
-Thursday - Medians & Centroids
-Friday - Learn to Unit Test
-Saturday - Unit Test
+Monday - Introduction to Rigid Transformations
+Tuesday - Learn to Q1 + Q1
+Wednesday - Learn to Q2 + Q2
+Thursday - Learn to Q3 + Q3
+Friday - Learn to Q4 + Q4
+Saturday - Performing Transformations Unit Test
 
 Humanities:
 Monday - Reconstruction + Unit Test
@@ -51,4 +46,8 @@ Thursday - Meiosis
 Friday - Fertilization and Development
 Saturday - Reproduction and Cell Division UT
 
-On weekends, prepare lessons for tutoring in powerpoint.txt (as well as plan weekly educational goals).
+Tutoring:
+Saturday - Math PowerPoint Preparation
+Sunday - Reading/Science Preparation
+
+On weekends, plan weekly educational goals.
