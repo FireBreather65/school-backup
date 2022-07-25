@@ -1,20 +1,32 @@
 Open Blinds
 Bed + Teeth
-Wash Colds
-Make Sauce
-Salt + Pepper
-Make Filling
-Wash Colors
-Assemble Rolls
-Outside Chores
+Flank + CB
+-- Enter --
+Make Bread
+Salt Pork
+Cast Irons
+-- Enter --
+Take Shower
+Wash Whites
+Take Garbage
+-- Enter --
 Sort Laundry
-Vacuum House
-Fry Egg Rolls
+Fold Towels
+-- Enter --
 
-Foreign Language - Restaurant (french, 2 levels)
+Geometry - Introduction to Rigid Transformations
+~ 15 crunches, 10 pushups, 5min biking ~
+Language Arts - Borders + english.txt
+~ 15 crunches, 10 pushups, 5min biking ~
+Science - Types of Reproduction
+~ 15 crunches, 10 pushups, 5min biking ~
+Humanities - Reconstruction + Unit Test
+~ 15 crunches, 10 pushups, 5min biking ~
+Foreign Language - City (french) + Greetings (spanish)
+~ 15 crunches, 10 pushups, 5min biking ~
+Algebra - Linear Equations w/ Variables
+~ 15 crunches, 10 pushups, 5min biking ~
 Computing - Git Bash Article (first draft)
 
-- complete volunteer-checklist.pdf (w/Mom)
-- create a website profile (Welcome Guide)
 - finish tutoring preparation (using notes)
-- send a reminder to both parents (about KA)
+- read + respond to emails (send reviews.txt)
