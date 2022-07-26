@@ -1,12 +1,10 @@
 Algebra:
-Tuesday - Learn to Q1 + Q1
 Wednesday - Learn to Q2 + Q2
 Thursday - Multi-Step Inequalities
 Friday - Learn to Q3 + Q3
 Saturday - Solving Equations & Inequalities Unit Test
 
 Foreign Language:
-Tuesday - City (french) + Greetings (spanish)
 Wednesday - City (french) + Greetings (spanish)
 Thursday - City (french) + Greetings (spanish)
 Friday - City (french) + Greetings (spanish)
@@ -14,27 +12,23 @@ Saturday - Cracked Skills (french) + The Red Jacket
 Sunday - Cracked Skills (spanish) + The Red Jacket
 
 Geometry:
-Tuesday - Learn to Q1 + Q1
 Wednesday - Learn to Q2 + Q2
 Thursday - Learn to Q3 + Q3
 Friday - Learn to Q4 + Q4
 Saturday - Performing Transformations Unit Test
 
 Humanities:
-Tuesday - Learn to America Moves to the City
 Wednesday - Complete The Gilded Age
 Thursday - The South after the Civil War
 Friday - The American West
 Saturday - The Gilded Age Unit Test
 
 Language Arts:
-Tuesday - Social Psychology + english.txt
 Wednesday - The Apocalypse + english.txt
 Thursday - Git Bash Article + english.txt
 Friday - Vaccination Essay + english.txt
 
 Science:
-Tuesday - Chromosome Structure
 Wednesday - The Cell Cycle and Mitosis
 Thursday - Meiosis
 Friday - Fertilization and Development

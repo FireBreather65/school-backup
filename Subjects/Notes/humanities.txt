@@ -475,3 +475,35 @@ Big Takeaways from the Civil War:
 	^ African American men actually could vote before women could (15th vs. 19th Amendments)
 
 ~
+
+Failure of Reconstruction:
+- things that changed vs. things that stayed the same during this period:
+	- freedom before the 13th Amendment: slavery in southern states led to a lack of physical or economic freedom - there was no choice of work or money
+	- freedom after the 13th Amendment: african-americans believed that they deserved the land they toiled on for so long (leading to William Sherman distributing Confederate territory to them, later overturned by Andrew Johnson), instead became sharecroppers (leaving them in an endless cycle of debt and poverty), Black Codes and segregation fought to keep black people and white people separate
+
+	- citizenship before the 14th Amendment: exclusively the privilege of white Americans, Dred Scott decided that no African Americans could be citizens at all, ever
+	- citizenship after the 14th Amendment: [...] protections for ANYONE born on US soil, although still completely unfair
+
+	- democracy before the 15th Amendment: voting rights for white MEN only
+	- democracy after the 15th Amendment: extended right to vote to black MEN (although great, women STILL couldn't vote) and there were 2000 black officeholders, poll taxes + literacy tests + grandfather clauses pretty much barred voting for black men
+
+- basically, after the Reconstruction, African-Americans owned their bodies and labor...but that was about it :(
+
+- there were also short-lived revolutions in citizenship and voting rights (as explained above)
+
+- all of this laid the foundation for the Civil Rights Movement in the 1950s and 60s
+
+~
+
+Effects of Civil War on National Identity:
+- democracy before the Civil War: voting for ALL white men, considered radical because it was previously based on land ownership (although, by removing this loophole, free black men and women as a whole were effectively excluded from voting)
+- democracy after the Civil War: voting for ALL men, no matter what their skin color (women of any color still couldn't vote)
+^ although the implementation of Jim Crow made it all but impossible for black men to actually vote
+
+- citizenship before the Civil War: definitely white men, white women, free black men and women in the North, immigrants from Ireland and Germany, but NOT Native Americans, Mexican Americans, and black men/women in the South
+- citizenship after the Civil War: overall citizenship for all people born on US soil or naturalized (whatever that means), no citizenship for other minorities
+
+- US vs. the World before the Civil War: still practicing isolationism, although "Manifest Destiny" led to the Mexican-American war and Indian Removal
+- US vs. the World after the Civil War: pretty much everything stayed the same here...
+
+~

@@ -332,3 +332,22 @@ Alcohol Fermentation:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-cellular-respiration/v/alcohol-or-ethanol-fermentation
 
 ~
+
+Asexual and Sexual Reproduction:
+- asexual reproduction is the process of creating new individual using one parent organism
+
+- sexual reproduction is the process of creating new individuals using two parent organisms
+
+- binary fission is where one parent organism doubles its DNA, then splits into two organisms (applies to prokaryotes)
+
+- mitosis is where one parent organism doubles its DNA, then splits into two organisms (applies to eurkaryotes)
+
+- budding is where there is growth on the surface of a parent organism, therefore forming two individuals (applies to yeast and some special animals)
+
+- fragmentation is where a parent organism breaks into two or more fragments, which develop into a new individual (applies to many plants and some special animals)
+
+- parthenogenesis is where an embryo develops from an unfertilized cell (applies to invertebrates and some fish, amphibians, reptiles)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-types-of-reproduction/v/asexual-and-sexual-reproduction
+
+~

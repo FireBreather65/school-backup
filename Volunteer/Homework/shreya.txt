@@ -1,0 +1,2 @@
+- compare objects 1 + 2
+- teen numbers (if not already assigned)

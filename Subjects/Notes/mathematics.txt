@@ -1,5 +1,10 @@
 ~ Algebra ~
 
+Equations w/ Variables on Both Sides:
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/solving-equations-2
+
+~
+
 -----
 
 ~ Geometry ~
@@ -22,5 +27,20 @@ Terms & Labels in Geometry:
 - a plane segment is a non-infinite two-dimensional surface (like a regular piece of paper 😂)
 
 - video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-intro-euclid/v/language-and-notation-of-basic-geometry
+
+~
+
+Rigid Transformations Intro:
+- examples of rigid transformations are:
+	- translations (simply moving a given point or shape)
+	- rotations (turning a given point or shape relative to an arbitrary point)
+	- reflections (reflecting a given point or shape across an arbitrary line)
+	- any transformation where lengths AND angles are preserved
+
+- examples of NOT rigid transformations are:
+	- dilation (where shapes are scaled up or down relative to their original size, lengths aren't preserved)
+	- stretching (where shapes are stretched in any way, both angles and lengths are potentially not preserved)
+
+- video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-transformations-intro/v/introduction-to-transformations
 
 ~

@@ -1,32 +1,25 @@
 Open Blinds
 Bed + Teeth
-Flank + CB
+Add Groceries
 -- Enter --
-Make Bread
-Salt Pork
-Cast Irons
+Outside Chores
+Plants + HW
 -- Enter --
-Take Shower
-Wash Whites
-Take Garbage
--- Enter --
-Sort Laundry
-Fold Towels
--- Enter --
+Chicken Salad
 
-Geometry - Introduction to Rigid Transformations
+Algebra - Learn to Q1 + Q1
 ~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - Borders + english.txt
+Language Arts - Social Psychology + english.txt
 ~ 15 crunches, 10 pushups, 5min biking ~
-Science - Types of Reproduction
+Science - Chromosome Structure
 ~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Reconstruction + Unit Test
+Humanities - Learn to America Moves to the City
 ~ 15 crunches, 10 pushups, 5min biking ~
 Foreign Language - City (french) + Greetings (spanish)
 ~ 15 crunches, 10 pushups, 5min biking ~
-Algebra - Linear Equations w/ Variables
+Geometry - Learn to Q1 + Q1
 ~ 15 crunches, 10 pushups, 5min biking ~
 Computing - Git Bash Article (first draft)
 
-- finish tutoring preparation (using notes)
-- read + respond to emails (send reviews.txt)
+- read + respond to emails (if applicable)
+- write + send out reviews.txt
