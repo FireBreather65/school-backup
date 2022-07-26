@@ -15,7 +15,7 @@ But, if you used Git Bash to track these files and changes made to said files, y
 
 Git Bash also has other powerful features, such as arithmetic, array variables, loops, and branches.
 
-NOTE: Before you continue reading, I have three things to mention: 
+*NOTE*: Before you continue reading, I have three things to mention: 
 	- First, you might want to be at a computer or laptop (to get the full experience by coding along if you would like).
 	
 	- Second, the audience for this article is Windows users (for Linux or MacOS users, [go to this link](https://www.theodinproject.com/lessons/foundations-command-line-basics)).
@@ -149,7 +149,7 @@ In this case, make sure you're in the Bakery directory and replace <directory-na
 
 Now [list the contents of Bakery](internal link to above). Cupcakes should be gone! 🧁
 
-Note: You can also use rm -rf to remove a directory with force (if it just wants to be stubborn).
+*NOTE*: You can also use rm -rf to remove a directory with force (if it just wants to be stubborn).
 
 ~
 
@@ -187,7 +187,7 @@ In this case, make sure you're in the Cookie directory and replace <filename> wi
 
 Now [list the contents of Cookie](internal link to above). Shortbread.txt should be gone! 🍪
 
-Note: You can also use rm -f to remove a file with force (if it just wants to be stubborn).
+*NOTE*: You can also use rm -f to remove a file with force (if it just wants to be stubborn).
 
 ~
 
@@ -240,4 +240,166 @@ Unit Test: Using the [depiction](~ canva project: depict bakery-tree.txt ~) prov
 
 Optional: After the Unit Test, play around with the tree, using the commands you learned earlier (for the sake of the tutorial, though, please return it to matching before continuing)
 
+~~~~
+
+Intro to Github
+
+- What is Github
+So far, you've been messing around on your computer, making changes to your file system - and only you can see those changes. You've been making changes _locally_.
+
+So how can you allow others to see your changes? By pushing your changes to Github, or some other code hosting platform. That way, others can see (and even contribute to) your projects.
+
+When you push your changes to Github, it's called making changes _remotely_.
+
+*NOTE*: For the sake of simplicity in this tutorial, I claim that making changes remotely means that everyone can see them. In fact, you can save your changes in a private repository, where no one can see it.
+
+~~~~
+
+Git and Github - Setup
+
+Before you proceed learning how to use Git, you first need to sign up (or log in) to Github and Git.
+
+To sign up with Github, go to [their website](https://github.com/), and click "Sign Up". Simply follow the prompts to create your account!
+
+To set your commit email in Github, [follow this tutorial](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address).
+
+To set your username in Git (for all repositories or just one), [follow this tutorial](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git).
+
+Lastly, to set your commit email address in Git (for all repositories or just one), [follow this tutorial](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address).
+
+~~~~
+
+Git and Github - Workflow
+
+Now that that's completed (yay! 🎊), you can start actually working in Git.
+
+Mini-Test: Use what you learned earlier to go into the "Bakery" repository. [Here's a hint.](~ internal link to `cd` ~)
+
 ~
+
+Once you're there (make sure with something [_else_](~ internal link to `pwd` ~) you learned earlier), you can use a new command: `git init`. 
+
+Say you decide that you'd like to start keeping your changes in a remote repository, just in case something happens to your local computer. Simply entering this command allows you to initialize (create) a new Git repository in whatever directory you call it in.
+
+Mini-Test: Use what you've just learned to initialize a new Git repository in "Bakery".
+
+~
+
+Now that you've learned that, you can start learning to push your local changes to a remote repository.
+
+The most basic workflow in Git is the two-stage commit process. This might sound a little daunting or confusing (or both), but I'll break it down for you.
+
+The two-stage commit process is named so because there are two stages: when you stage (<- explain) your files for a commit (using `git add`) and when you actually commit them (using `git commit`).
+
+Use `git add` like so:
+
+```bash
+git add <filename>
+```
+There are also other cases, like if you want to stage multiple files (or even all of them). 
+	To stage multiple on the same path, separate each file with a space (e.g. `git add file1.txt file2.txt`). 
+	To stage multiple on different paths, still separate each file with a space, but call the exact path. (<- give example with "Bakery").
+	To stage all files in a directory, simply use a period in place of <filename>.
+
+Lastly, there's the option to unstage your changes using `git reset`, which I'll bring up a little later.
+
+~
+
+Use `git commit` like so:
+
+```bash
+git commit -m "commit message here"
+```
+This commits all staged files and logs your commit (as I'll discuss later).
+
+Another thing I'll discuss later is the possibility of amending your commits, or changing the message you previously wrote for a given commit.
+
+~
+
+Mini-Test: Use what you've just learned to stage all files in "Bakery" for a commit, then commit them.
+
+~~~~
+
+Another tidbit of information that's unrelated to what you're working on (but helpful to note) is that Git is different from Bash. Although the app is quite literally called "Git Bash", there's still a big difference.
+
+Bash can be used without initializing a new project (just to view the file system), whereas Git has to be initialized first (using `git init`).
+
+The reason this is helpful? If you're looking for previous command in Bash, you can simply type history anywhere (even in a Git project) and it will come up.
+
+Conversly, if you're looking for a previous commit in Git, you have to be inside of an initialized Git repository for it to show up.
+
+~~~~
+
+Next, to truly connect Git and Github!
+
+*NOTE*: This next section will not cover how to connect Git and Github when working in a team, for that [go to this link](~ find a link lmao ~).
+
+First, navigate into the Bakery repository (verifying that you're in the right directory). Since you've already initialized a repository, created files and directories, added files, AND committed files (good on you!), you can go straight to the next part.
+
+Use the command `git status` to check the status of your repository. It should come up with a message saying "nothing to commit, working tree clean". That's a great sign.
+
+If it doesn't, you may not have staged or committed any new changes to the Bakery repository. You'd want to do this now, before moving on.
+
+Now, navigate to [Github](https://github.com/). Create a new repository by simply clicking the "New" button, or by first clicking the "+" on the navbar and then clicking "New repository".
+
+For now, simply name and create the repository - don't worry about anything else. Preferably name it something descriptive, like "bakery-project" or "my-git-bakery".
+
+At this point, make sure that HTTPS is selected (not SSH). Copy the commands from "...or push an existing repository from the command line" into your terminal, then press the enter key. Wait for everything to load and update, then refresh the page - your pushed changes should have been updated remotely!
+
+*NOTE*: You can opt to delete the Bakery directory on your local computer if you'd like. Just note that in doing so, you'll have to either continue working in Github or, as I'll talk about later, pull your remote changes into your local repository.
+
+~
+
+If you want to keep the folder on your computer and continue pushing your local changes to the remote repository, follow the below steps.
+
+First (and I believe the most important), make sure you're in the right directory. Navigate there if you aren't.
+
+Then [add your files to the staging area](~ internal link to git add ~). Once they're added, they're ready to be committed, then pushed using `git push -u origin main`, which I'll break down later on.
+
+Another helpful thing to note is that, if you don't want to push changes to a remote repository just yet, but you'd like to make sure they're saved and logged, omit the `git push` step, then push whenever you'd like. You've got the power! 😁
+
+~
+
+For this project (and any projects you'll make in the future), you're going to need to know how to write a README. A good one, at that.
+
+Below is a basic template that I plan to use for my projects. You can use it as well (sans credit to me).
+
+```
+Project Title: This is sorta self-explanatory (it's where your project title goes).
+
+Description: This is a crucial component of the README. Use this section to describe the main purpose of your project. Why did you build it? What problems does it solve? What did you learn from making this project?
+
+Features: This is the space to list your project's features. Don't be shy - brag unabashedly about your project's features, especially if they're unique to it and only it. Maybe even include screenshots and/or gifs to show them in action.
+
+How to Use: This is where you write step-by-step instructions on how to install and use your project. This would also be the place to list software or package requirements (like [npm](~ find a link ~)).
+
+Technologies: This is the place to list all technologies and/or frameworks you used. What purpose did they serve in your project? Optional question: Why did you choose what you chose over another similar framework?
+
+Collaborators: This is where you need to give credit where credit is due. If you had help with this project, give the team member or collaborator a shoutout (with a link to their Github profile).
+
+License: This is another crucial component of your README. Here is where you list a license (or three) so other developers understand what they can and cannot do with your project. [Need help choosing a license?](https://choosealicense.com/)
+```
+
+An important part of crafting your README is knowing how to artfully use Markdown. [This guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) can help you use Markdown efficiently.
+
+~
+
+The last (and equally important to a README) part of using Git with Github is writing good commit messages.
+
+There is no set way to write a commit message. Some companies (yes, even COMPANIES use Git and Github) have different standards than others. [This discussion](https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g) proves how many different ways there are to write them - and they're all equally correct.
+
+Personally, I believe the best commit message is the most descriptive one. Say you realize that you don't like where your project is going, and you want to revert or even reset your changes (as I'll discuss later). If you have descriptive commits, you'll be able to easily do so - without getting confused about what you did where.
+
+TL;DR, after reading the above linked discussion, I believe the best commit message goes like this:
+
+```bash
+<type>: <description>
+
+[optional body]
+
+[optional footer]
+```
+
+Read [this post](https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g/answer/ck4mwccd300qrdes173jqx2vw) to find out how to fill out the `type`, `description`, and optional body/footer.
+
+~~~~
