@@ -1,104 +1,3 @@
-Intro to Github
-
-- What is Github
-So far, you've been messing around on your computer, making changes to your file system - and only you can see those changes. You've been making changes locally.
-
-You may ask, how can you allow others to see your changes? By pushing your changes to Github, or some other code hosting platform. That way, others can see (and even contribute to) your projects.
-
-- Github vs. Git Bash
-The difference between Github and Git Bash is that one is a version control system only (Git Bash), and one is a code hosting platform (Github). Another difference is that Git Bash will save your changes locally (only for you to see), whereas Github will save your changes remotely (for everyone to see).
-
-*A NOTE*: Although I state that everyone can see your changes when you push them remotely, technically you can have a private repository that you still can only see (but it's saved remotely).
-^ maybe use another metaphor to describe difference between Git Bash and Github???
-
-~~~~
-
-Git and Github - Setup
-
-  - Setting Up Your Github Profile
-	~ find link to current setup (creation of GH profile) ~
-
-	- How do you set your email on Github?
-    - In the upper-right corner of any page, click your profile photo, then click Settings. In the "Access" section of the sidebar, click Emails. In "Add email address", type your email address and click Add. Verify your email address. In the "Primary email address" list, select the email address you'd like to associate with your web-based Git operations. To keep your email address private when performing web-based Git operations, click Keep my email addresses private.
-    ^ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
-
-	- Setting Up Your Git Profile
-		- How do you set your username for all repositories in Git?
-			- Open Git Bash. Set a Git username: git config --global user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config --global user.name.
-		
-		- How do you set your username for ONE repository in Git?
-			- Open Git Bash. Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits. Set a Git username: $ git config user.name "Mona Lisa". Confirm that you have set the Git username correctly: $ git config user.name.
-
-		- How do you set your email for all repositories in Git?
-			- Open Git Bash. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config --global user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config --global user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
-
-		- How do you set your email for ONE repository in Git?
-			- Open Git Bash. Change the current working directory to the local repository where you want to configure the email address that you associate with your Git commits. Set an email address in Git. You can use your GitHub-provided noreply email address or any email address. $ git config user.email "email@example.com". Confirm that you have set the email address correctly in Git: $ git config user.email. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
-
-~~~~
-
-Git and Github - Workflow
-	- Basic Git Workflow
-		- What's the absolute most basic workflow in Git?
-		The absolute most basic workflow in Git includes (contains??) git init, git add, and git commit.
-
-		What do each of these commands mean?
-
-		Continuing using the repository we built earlier in Bash, we can now initialize it in Git using git init.
-
-		- Wait, what's the difference between Git and Bash?
-		Even though the app is called *Git Bash*, there is a difference - Bash is able to be used without initializing a new project (just to view the file system), whereas to use Git you have to initialize a project (in a repository).
-
-		- Okay, continue.
-		Thank you. Git uses a two-stage system to save files: *add* and *commit*. You can, using git add, add files to the staging area (which prepares them to be commited). Then, you can commit them using git commit. That's the basic workflow.
-
-		You can also unstage your changes using git reset. It resets the file to the HEAD commit (which we'll talk about later) and removes it from the staging area.
-		^ add reasons why I'd want to unstage files
-
-		Commits can also be amended (https://devconnected.com/how-to-amend-git-commit-message/) <- write my own version somehow...
-
-	- Connecting Git and Github
-		A NOTE: This will not cover how to connect Git and Github when working in a team, for that you can go here (find a link)
-		- How do you connect Git and Github?
-		First cd into directory you want to later push to Github (or create a new directory). Verify with pwd that you are in the right directory. Initialize a new repository with git init. Create files (if you'd like, maybe you're using a pre-existing directory?) Add files to staging area (use git add . [regarding using git add ., also add note about adding specific files to track]). Commit these additions using (git commit -m "Commit message here").
-
-		Now to connect it to Github itself. First, make sure you're in the directory that you started tracking previously (using pwd). Check status using git status (should say [...]). Create a New Repository on Github. Only Name and Create Repository (ignore everything else, we'll talk about that later). Be sure HTTPS is selected vs. SSH. Copy commands from "…or push an existing repository from the command line" into the command line and press enter key. Wait for everything to [load] <- potentially different word??? You can delete the local folder if you'd like. Then refresh the page - your pushed changes should have updated remotely.
-
-		- How do you update a previously remotely commited folder?
-		If you want to keep the folder on your computer and push changes when you make them (add personal experience of New), follow these steps. Again, change into the directory you've been tracking (from the two previous [...]).
-		^ also add note about intricacies of git commit (<- note that commit will save changes locally, they don't have to be pushed [unless you want to save them remotely], then you can push if you want)
-
-		- How do you use git status? Why is it needed?
-		You can use git status to check the status of your updated files (whether they've been staged for a commit [aka added] or not).
-
-		~ regarding above, add points to guide them and pictures ~
-		~ also regarding above, add notes about working directory (after git init), staging area (after git add), and repository (after git commit) ~
-
-		- Best Practices
-			- How to write a good README?
-			Use this basic template for personal projects:
-
-			Project Title: the name of your project
-
-			Description: This is an extremely important component of the README. You should describe the main purpose of your project. Answer questions like "why did you build this project?" and "what problem(s) does it solve?". It also helps to include your motivations for the project and what you learned from it.
-
-			Features: If your project has multiple features, list them here. Don't be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
-
-			How to use: Here, you should write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed here.
-
-			Technologies: List all the technologies and/or frameworks you used and what purpose they serve in your project.
-
-			Collaborators: If others have contributed to your project in any way, it is important to give them credit for their work. Write your team members' or collaborators' names here along with a link to their GitHub profile.
-
-			License: It's also important to list a license on your README so other developers can understand what they can and cannot do with your project. You can use (https://choosealicense.com/) to help you choose a license.
-
-			https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet <- this can help you use Markdown in your README.md
-
-			- How to write a good commit message?
-			~ try to write a table here using: https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g ~
-
-~~~~
-
 More Advanced Git Bash
 	- Backtracking with Git
 		- How do you show the most recently made commit?
@@ -109,6 +8,7 @@ More Advanced Git Bash
 
 		- How do you reset a file to its HEAD commit?
     Use git reset HEAD [filename] to reset [filename] to its HEAD commit (also removes it from the staging area)
+		^ add reasons why you'd want to unstage files
 
 		- How do you revert a file to a specific commit?
 		Use git revert [commithash] to revert the file to the supplied [commithash].
@@ -123,6 +23,7 @@ More Advanced Git Bash
 		- How do you amend a previously made commit?
 		Use git commit --amend to amend a file's commit message (should only be used on local repositories)
 		^ https://www.w3schools.com/git/git_amend.asp
+		^ https://devconnected.com/how-to-amend-git-commit-message/
 
 	- Git Branching
 		- How do you list all branches?
@@ -186,7 +87,6 @@ Summary
 Important Links/References:
 - https://blog.greenroots.info/20-useful-markdown-syntaxes-for-developers <- for marking down my article during the second draft
 - also during the second draft, find consistent way to present folder vs. directory, tree vs. structure, and folder tree vs. directory structure 🤣🤣🤣
+^ another consistency issue with tutorial vs. article...I was not cut out for this lmao
 
-~ Potentially wait until next year to post this?? ~
-^ not totally sure...huh
-~ Potentially release one part at a time (Navigating, Changing, etc.) ~
+~ Wait until next year to post this, then release one part at a time (Navigating, Changing, etc.) ~

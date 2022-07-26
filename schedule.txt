@@ -1,6 +1,5 @@
 Open Blinds
 Bed + Teeth
-Add Groceries
 -- Enter --
 Outside Chores
 Plants + HW
@@ -19,7 +18,7 @@ Foreign Language - City (french) + Greetings (spanish)
 ~ 15 crunches, 10 pushups, 5min biking ~
 Geometry - Learn to Q1 + Q1
 ~ 15 crunches, 10 pushups, 5min biking ~
-Computing - Git Bash Article (first draft)
+Computing - Git Bash Article (Backtracking with Git)
 
 - read + respond to emails (if applicable)
 - write + send out reviews.txt

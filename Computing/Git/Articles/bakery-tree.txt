@@ -1,7 +1,7 @@
 Base Directory: Bakery
 
 Cakes ✔
-	- chocolate.txt ✔ <- make a point
+	- chocolate.txt ✔
 	- red-velvet.txt ✔
 	- yellow.txt ✔
 	Specialty
@@ -10,10 +10,10 @@ Cakes ✔
 	Frostings
 		- vanilla.txt ✔
 		- cream-cheese.txt ✔
-		- chocolate.txt ✔ <- make a point
+		- chocolate.txt ✔
 
 Cookies ✔
-	- chocolate-chip.txt ✔ <- make a point
+	- chocolate-chip.txt ✔
 	- chocolate-crinkle.txt ✔
 	- oatmeal-raisin.txt ✔
 
@@ -36,6 +36,6 @@ Miscellaneous ✔
 	Muffins
 		- banana-nut.txt ✔
 		- blueberry.txt ✔
-		- chocolate-chip.txt ✔ <- make a point
+		- chocolate-chip.txt ✔
 	- ny-cheesecake.txt ✔
 	- brownies.txt ✔
