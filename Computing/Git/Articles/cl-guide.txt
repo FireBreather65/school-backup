@@ -1,62 +1,35 @@
-More Advanced Git Bash
-	- Backtracking with Git
-		- How do you show the most recently made commit?
-    Use git show HEAD to show the most recently made commit.
+- Git Branching
+	- How do you list all branches?
+  You can use git branch to list all branches (lets you know what branch you are on with green and an asterisk)
 
-		- How do you revert a file back to its HEAD commit?
-    Use git checkout HEAD [filename] to revert [filename] back to its last commit.
+	- How do you create a branch?
+  You can use git branch [branchname] to create a branch.
 
-		- How do you reset a file to its HEAD commit?
-    Use git reset HEAD [filename] to reset [filename] to its HEAD commit (also removes it from the staging area)
-		^ add reasons why you'd want to unstage files
+	- How do you switch branches?
+  You can use git checkout [branchname] to switch branches.
 
-		- How do you revert a file to a specific commit?
-		Use git revert [commithash] to revert the file to the supplied [commithash].
+	- How can you merge branches?
+  You can use git merge [branchname] to merge branches (will merge called branch with current branch, so make sure you're on the right branch before you call this one...)
 
-		- How do you reset a file to a specific commit?
-		Use git reset [commithash] to reset the file to the supplied [commithash].
+	- How do you resolve merge conflicts?
+  You can resolve merge conflicts by viewing the marked-up file (that will tell you where the discrepancies lie).
+	^ look through and articulate conflict.png (will help a lot)
 
-		- What's the difference between git revert and git reset?
-		The difference is between git revert and git reset is that git revert (both versions) doesn't erase your commits further, whereas git reset (both versions) does.
-		^ be sure to include (--oneline) option (so they don't get stuck reading long lines of commits and stuff)
-
-		- How do you amend a previously made commit?
-		Use git commit --amend to amend a file's commit message (should only be used on local repositories)
-		^ https://www.w3schools.com/git/git_amend.asp
-		^ https://devconnected.com/how-to-amend-git-commit-message/
-
-	- Git Branching
-		- How do you list all branches?
-    You can use git branch to list all branches (lets you know what branch you are on with green and an asterisk)
-
-		- How do you create a branch?
-    You can use git branch [branchname] to create a branch.
-
-		- How do you switch branches?
-    You can use git checkout [branchname] to switch branches.
-
-		- How can you merge branches?
-    You can use git merge [branchname] to merge branches (will merge called branch with current branch, so make sure you're on the right branch before you call this one...)
-
-		- How do you resolve merge conflicts?
-    You can resolve merge conflicts by viewing the marked-up file (that will tell you where the discrepancies lie).
-		^ look through and articulate conflict.png (will help a lot)
-
-		- How can you delete branches?
-    There are two ways - using git branch -d [branchname] and git branch -D [branchname]. 
+	- How can you delete branches?
+  There are two ways - using git branch -d [branchname] and git branch -D [branchname]. 
 		
-		Use the first if the branch is merged with main, and use the second for branches never merged with main.
+	Use the first if the branch is merged with main, and use the second for branches never merged with main.
 
-		- Explain git push origin main.
-		Well, let's break it down:
-			- git push is what we use to push local branches to Github
+	- Explain git push origin main.
+	Well, let's break it down:
+		- git push is what we use to push local branches to Github
 
-			- origin is the name of our remote connection (elaborate)
+		- origin is the name of our remote connection (elaborate)
 
-			- and main is the name of our default local branch
+		- and main is the name of our default local branch
 
-		- How do you push a branch not named main to Github?
-		It's as simple as changing the word "main" to the name of your branch (e.g. turtle, pecan)
+	- How do you push a branch not named main to Github?
+	It's as simple as changing the word "main" to the name of your branch (e.g. turtle, pecan)
 
 	- Helpful Git Commands
 		- How do you get help for a specific command?
@@ -88,5 +61,10 @@ Important Links/References:
 - https://blog.greenroots.info/20-useful-markdown-syntaxes-for-developers <- for marking down my article during the second draft
 - also during the second draft, find consistent way to present folder vs. directory, tree vs. structure, and folder tree vs. directory structure 🤣🤣🤣
 ^ another consistency issue with tutorial vs. article...I was not cut out for this lmao
+^ yet another consistency issue with git revert then git reset...
+
+- w3schools git link?
+- codecademy git link?
+- education.github.com???
 
 ~ Wait until next year to post this, then release one part at a time (Navigating, Changing, etc.) ~

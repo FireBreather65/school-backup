@@ -1,7 +1,9 @@
 ~ Algebra ~
 
 Equations w/ Variables on Both Sides:
-- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/solving-equations-2
+- if there aren't non-variable numbers on both sides (like example.png shows), skip that step
+
+- video link: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-variables-both-sides/v/solving-equations-2
 
 ~
 

@@ -92,7 +92,7 @@ Water as a Solvent:
 
 - expanding on above (and being more technical), you need to watch the video - it's so cool (and I'm not able to articulate right now XD)
 
-- hydrophilic (water loving) vs. hydrobic (water fearing)
+- hydrophilic (water loving) vs. hydrophobic (water fearing)
 
 - cohesion is the attraction for other molecules of the same kind, adhesion is the attraction for other molecules of a different kind
 
@@ -351,3 +351,14 @@ Asexual and Sexual Reproduction:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-types-of-reproduction/v/asexual-and-sexual-reproduction
 
 ~
+
+Chromosomes, Chromatids, and Chromatin:
+- chromatin -> chromatid -> chromosome
+
+- haploid cells = n, diploid cells = 2n
+
+- homologous pair chromosomes usually have the same genes at the same relative locations (loci)
+^ "usually" because it's possible that they have different alleles
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-chromosome-structure-and-numbers/v/chromosomes-chromatids-chromatin-etc
+^ super long lol (almost 19 minutes)

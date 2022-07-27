@@ -1,24 +1,27 @@
 Open Blinds
 Bed + Teeth
--- Enter --
+Take Flank
+Wash Colors
+Make Ciabatta
+Wash Whites
 Outside Chores
-Plants + HW
--- Enter --
-Chicken Salad
+Sort Laundry
+Fold Towels
+Take Shower
 
-Algebra - Learn to Q1 + Q1
+Geometry - Learn to Q2 + Q2
 ~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - Social Psychology + english.txt
+Language Arts - The Apocalypse + english.txt
 ~ 15 crunches, 10 pushups, 5min biking ~
-Science - Chromosome Structure
+Science - The Cell Cycle and Mitosis
 ~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Learn to America Moves to the City
+Humanities - Complete The Gilded Age
 ~ 15 crunches, 10 pushups, 5min biking ~
 Foreign Language - City (french) + Greetings (spanish)
 ~ 15 crunches, 10 pushups, 5min biking ~
-Geometry - Learn to Q1 + Q1
+Algebra - Learn to Q2 + Q2
 ~ 15 crunches, 10 pushups, 5min biking ~
-Computing - Git Bash Article (Backtracking with Git)
+Computing - Git Bash Article (Git Branching)
 
-- read + respond to emails (if applicable)
-- write + send out reviews.txt
+- math tutoring (12:30pm)
+- send out reviews.txt

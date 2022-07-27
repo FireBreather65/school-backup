@@ -71,7 +71,7 @@ How to Backtrack:
 
 git show HEAD - shows the most recently made commit
 
-git checkout HEAD (filename) - reverts the file back to its last commit
+git revert HEAD (filename) - reverts the file back to its last commit
 
 git reset HEAD (filename) - resets file to HEAD commit and unstages it
 

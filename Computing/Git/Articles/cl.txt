@@ -332,7 +332,7 @@ Conversly, if you're looking for a previous commit in Git, you have to be inside
 
 Next, to truly connect Git and Github!
 
-*NOTE*: This next section will not cover how to connect Git and Github when working in a team, for that [go to this link](~ find a link lmao ~).
+*NOTE*: This next section will not cover how to connect Git and Github when working in a team, for that [go to this link](~ find a link lmao, maybe w3schools?? ~).
 
 First, navigate into the Bakery repository (verifying that you're in the right directory). Since you've already initialized a repository, created files and directories, added files, AND committed files (good on you!), you can go straight to the next part.
 
@@ -403,3 +403,78 @@ TL;DR, after reading the above linked discussion, I believe the best commit mess
 Read [this post](https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g/answer/ck4mwccd300qrdes173jqx2vw) to find out how to fill out the `type`, `description`, and optional body/footer.
 
 ~~~~
+
+Let's next learn how to backtrack with Git. Backtracking can be helpful for many different reasons, like:
+	- if you made an accidental commit and didn't realize it then
+	- thought something was a good idea before, but changed your mind
+	- or any other situations where you were in a better spot before
+
+First, let's learn how to show the most recently made commit. You can use `git show HEAD` for that.
+
+~
+
+To revert a file back to its HEAD commit, do this:
+
+```bash
+git revert HEAD <filename>
+```
+~
+
+To reset a file to its HEAD commit, use the above command, replacing `checkout` with `reset`. Resetting a file also removes it from the staging area. This can be helpful if you realize that it would be a mistake to commit <filename>.
+
+~
+
+The difference between reverting and resetting files to their HEAD commit (or any commit, as you'll see very soon), is best explained using the following depictions.
+
+~ canva project: spin off of w3schools revert image ~
+
+~ canva project: spin off of w3schools reset image ~
+
+[Add explanation here, after I understand myself. Currently only understand that `git revert` doesn't erase your commits further, whereas `git reset` does]
+
+[Also add link to https://stackoverflow.com/a/8358039, as it could be helpful to developers]
+
+~
+
+Now that we know the difference between `git revert` and `git reset`, we can start using it more progressively.
+
+What if you wanted to go back further than one commit? IS THAT EVEN POSSIBLE??
+
+Yes. Yes it is. By replacing HEAD with the desired <commithash> (explain commit hashes!!!!), you can go back as far as you'd like.
+
+To break it down completely, it's like this:
+
+```bash
+git revert <commithash> <filename>
+```
+
+and
+
+```bash
+git reset <commithash> <filename>
+```
+
+~
+
+The last thing to learn regarding backtracking in Git is learning how to amend a previous commit.
+
+*NOTE*: For clarity, this knowledge should only be applied to local projects, not remote repositories or projects in a team.
+
+To amend your most recent commit, simply type this into your terminal:
+
+```bash
+git commit --amend -m "New commit message"
+```
+This is kind of like calling HEAD ([like we learned earlier](~ internal link to HEAD ~)), but for commits.
+
+To amend a commit further back, use the following lines (as found on [DevConnected](https://devconnected.com/how-to-amend-git-commit-message/)):
+
+```bash
+git rebase -i <commithash>
+```
+
+First find the commit you want to go back to (with `git log --oneline`), then set the <commithash> to be _one back_ from there. For example, all your commits are in numerical order (🤨). You're at 15, and you want to go back to 4. You'd have to set your <commithash> to be 3.
+
+[Keep writing about amending commits.]
+
+~
