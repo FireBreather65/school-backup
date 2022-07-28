@@ -362,3 +362,47 @@ Chromosomes, Chromatids, and Chromatin:
 
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-chromosome-structure-and-numbers/v/chromosomes-chromatids-chromatin-etc
 ^ super long lol (almost 19 minutes)
+
+~
+
+Interphase:
+- [...] is where the cell grows and makes a copy of its DNA
+
+- consists of three steps:
+	- first, the g1 phase, where the cell grows and organelles are copied
+	- second, the s phase, where the cell (s)ynthesizes a complete copy of the DNA in its nucleus
+	- third, the g2 phase, where the cell keeps growing, makes proteins and organelles, and starts reorganizing its contents to prepare for mitosis
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-the-cell-cycle-and-mitosis/v/interphase
+
+~
+
+Mitosis:
+- [...] is where the cell separates its DNA into two sets and then divdes, forming two new cells
+
+- consists of four basic phases:
+	- prophase, which has two sub-phases:
+		- early, where the mitotic spindle starts to form, chromosomes start to condense, the nucleolus disappears
+		- late (aka prometaphase), where the nuclear envelope breaks down, chromosomes are fully condensed here
+
+	- metaphase, where chromosomes line up at metaphase plate (center of the cell)
+
+	- anaphase, where microtubules push poles apart, chromosomes are pulled towards poles (by kinetochore microtubules)
+
+	- telophase, where chromosomes start to decondense, mitotic spindle (from the early prophase) disappears, nuclear membrane reforms (from the late prophase), nucleolus reappears (again, from early prophase)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-the-cell-cycle-and-mitosis/v/mitosis
+
+~
+
+Cancer:
+- [...] is a disease of uncontrolled cell growth (where cells avoid apoptosis, or programmed cell death)
+
+- mutations of two types of cell cycle regulators can promote the development of cancer:
+	- positive regulators - which promote cell growth - may become hyperactivated (or oncogenic)
+
+	- negative regulators - which prevent the formation of tumors and uncontrolled cell growth - may become inactivated
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-the-cell-cycle-and-mitosis/v/cancer
+
+~

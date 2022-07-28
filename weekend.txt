@@ -1,30 +1,27 @@
 Algebra:
-Thursday - Multi-Step Inequalities
 Friday - Learn to Q3 + Q3
 Saturday - Solving Equations & Inequalities Unit Test
 
+Computing:
+Friday - Feedback + Editing
+
 Foreign Language:
-Thursday - City (french) + Greetings (spanish)
 Friday - City (french) + Greetings (spanish)
 Saturday - Cracked Skills (french) + The Red Jacket
 Sunday - Cracked Skills (spanish) + The Red Jacket
 
 Geometry:
-Thursday - Learn to Q3 + Q3
 Friday - Learn to Q4 + Q4
 Saturday - Performing Transformations Unit Test
 
 Humanities:
-Thursday - The South after the Civil War
 Friday - The American West
 Saturday - The Gilded Age Unit Test
 
 Language Arts:
-Thursday - Git Bash Article + english.txt
 Friday - Vaccination Essay + english.txt
 
 Science:
-Thursday - Meiosis
 Friday - Fertilization and Development
 Saturday - Reproduction and Cell Division UT
 

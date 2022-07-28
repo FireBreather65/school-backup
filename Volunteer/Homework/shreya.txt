@@ -1,2 +1,4 @@
 - compare objects 1 + 2
 - teen numbers (if not already assigned)
+
+Josiah - struggles with number sequences + adding/subtracting

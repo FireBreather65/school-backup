@@ -1,6 +1,4 @@
-Title: The Beginner's Guide to Git Bash
-
-Cover Image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1200px-Git_session.svg.png
+~ Article 1 ~
 
 Introduction:
 Git Bash is a popular *version control system (VCS)*, meaning it is a software designed to record changes within one or more files over time. It also allows us to undo - or even cancel - the made or pending changes in one or more files.
@@ -22,7 +20,7 @@ Git Bash also has other powerful features, such as arithmetic, array variables, 
 
 	- Third, I will not cover Git Teamwork in this tutorial. I do not have enough (or really, any) experience with Git Teamwork, therefore I cannot write about it.
 
-~~~~
+~
 
 Installing Git Bash:
 The first (and probably most important) thing to do is download Git Bash. You can set up Git Bash on your *local machine (aka laptop or computer)* by [going to this link](https://www.makeuseof.com/install-git-git-bash-windows/).
@@ -33,7 +31,9 @@ To check what version of Git Bash is downloaded, simply type this command into t
 git --version
 ```
 
-~~~~
+This is the 1st article in a ? part series. <- or something like that haha
+
+~ Article 2 ~
 
 Navigating the File System:
 Now that you have downloaded Git Bash, you can start navigating (and later changing) the file system.
@@ -103,7 +103,9 @@ Remember the logic of `cd`? That you have to be on the same path as the director
 ls <directory-name>
 ```
 
-~
+This is the 2nd article in a ? part series. <- or something like that haha
+
+~ Article 3 ~
 
 Changing the File System:
 Now that you (hopefully) understand how to navigate the folder tree, you can start changing the structure.
@@ -240,7 +242,9 @@ Unit Test: Using the [depiction](~ canva project: depict bakery-tree.txt ~) prov
 
 Optional: After the Unit Test, play around with the tree, using the commands you learned earlier (for the sake of the tutorial, though, please return it to matching before continuing)
 
-~~~~
+This is the 3rd article in a ? part series. <- or something like that haha
+
+~ Article 4 ~
 
 Intro to Github
 
@@ -253,7 +257,7 @@ When you push your changes to Github, it's called making changes _remotely_.
 
 *NOTE*: For the sake of simplicity in this tutorial, I claim that making changes remotely means that everyone can see them. In fact, you can save your changes in a private repository, where no one can see it.
 
-~~~~
+~
 
 Git and Github - Setup
 
@@ -267,7 +271,9 @@ To set your username in Git (for all repositories or just one), [follow this tut
 
 Lastly, to set your commit email address in Git (for all repositories or just one), [follow this tutorial](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address).
 
-~~~~
+This is the 4th article in a ? part series. <- or something like that haha
+
+~ Article 5 ~
 
 Git and Github - Workflow
 
@@ -318,7 +324,7 @@ Another thing I'll discuss later is the possibility of amending your commits, or
 
 Mini-Test: Use what you've just learned to stage all files in "Bakery" for a commit, then commit them.
 
-~~~~
+~
 
 Another tidbit of information that's unrelated to what you're working on (but helpful to note) is that Git is different from Bash. Although the app is quite literally called "Git Bash", there's still a big difference.
 
@@ -328,10 +334,11 @@ The reason this is helpful? If you're looking for previous command in Bash, you 
 
 Conversly, if you're looking for a previous commit in Git, you have to be inside of an initialized Git repository for it to show up.
 
-~~~~
+This is the 5th article in a ? part series. <- or something like that haha
 
-Next, to truly connect Git and Github!
+~ Article 6 ~
 
+Connecting Git and Github:
 *NOTE*: This next section will not cover how to connect Git and Github when working in a team, for that [go to this link](~ find a link lmao, maybe w3schools?? ~).
 
 First, navigate into the Bakery repository (verifying that you're in the right directory). Since you've already initialized a repository, created files and directories, added files, AND committed files (good on you!), you can go straight to the next part.
@@ -402,8 +409,11 @@ TL;DR, after reading the above linked discussion, I believe the best commit mess
 
 Read [this post](https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g/answer/ck4mwccd300qrdes173jqx2vw) to find out how to fill out the `type`, `description`, and optional body/footer.
 
-~~~~
+This is the 6th article in a ? part series. <- or something like that haha
 
+~ Article 7 ~
+
+Backtracking with Git:
 Let's next learn how to backtrack with Git. Backtracking can be helpful for many different reasons, like:
 	- if you made an accidental commit and didn't realize it then
 	- thought something was a good idea before, but changed your mind
@@ -475,6 +485,86 @@ git rebase -i <commithash>
 
 First find the commit you want to go back to (with `git log --oneline`), then set the <commithash> to be _one back_ from there. For example, all your commits are in numerical order (🤨). You're at 15, and you want to go back to 4. You'd have to set your <commithash> to be 3.
 
-[Keep writing about amending commits.]
+[Keep writing about amending commits, giving an example on how to as well.]
+
+This is the 7th article in a ? part series. <- or something like that haha
+
+~ Article 8 ~
+
+Git Branching:
+You're almost done learning Git Bash! The last major thing to learn is branching - how to do it, when to do it, and what to do when it goes wrong...
+
+The first thing to learn (as you'll be using it quite a bit) is how to list branches.
+
+First make sure you're in Bakery (or another Git-tracked repository). Now type `git branch`. It should output only one branch - main - in green and/or with an asterisk next to it.
+
+~
+
+Now to create a branch. Creating a branch is as simple as doing this:
+
+```bash
+git branch <branchname>
+```
+~ have them create a branch in Bakery ~
+
+Once you create this branch, use `git checkout <branchname> to switch branches. Trying listing the contents and then log the commits. Everything should be the same as the `main` branch.
+
+~
+
+So why do you need to learn to branch, if everything is going to be the same?
+
+Well, branching can be helpful for many things. Say you were working on a project and wanted to test a new feature.
+
+Making a branch (and testing the feature on that branch) is a good idea, just in case the feature doesn't work or isn't what you thought you wanted.
+
+Another example would be if there was an error or bug fix needed. The ability to branch from the `main` branch to fix that error or bug, then merging it (as I'll discuss next) is a plus.
+
+~
+
+Merging branches is an important part of knowing how to branch - what good does branching to test/fix things do if you can't combine them?
+
+Using `git merge <branchname>` is the easiest way to merge. Do note that whatever branch you call will be merged with your current branch, so make sure you're on the right branch before merging.
+
+The con that comes with combining branches is merge conflict.
+
+~ explain merge conflict here ~
+
+It's something that 99.99999% of developers deal with, so it deserves a mention here.
+
+Resolving them is actually really simple once you know how to do it. All you really have to do is view and change the discrepancies in the marked-up file (automatically marked for your convenience!)
+
+~ CREATE A MERGE CONFLICT LMAO ~
+
+Oops, there's been a merge conflict (total accident...😉). Perfect time to test this out!
+
+First open the conflicted file in your preferred text editor. It should be marked up with arrows showing the original version, equal signs, then the conflicting version, like so:
+
+~ canva project: depict a merge conflict!!! ~
+
+Git, in its own special way, is asking you what version to keep: the original or the conflicting version. Decide which one you'd like to keep (for the sake of the tutorial, please keep the conflicting version).
+
+Now delete the content as it appears on the original branch, as well as all special markings (the arrows, equal signs, and words). Try to merge again - it should work!
+
+~
+
+Deleting branches in Git is very simple - just use the command `git branch -d <branchname>`. Besides the command, there's only one thing to remember - use a lowercase d for branches that were never merged with main, and use an uppercase d for branches that were ever merged with main.
+
+~
+
+As promised, here I'll break down `git push -u origin main`.
+
+It's basically like this:
+- `git push` is what we use to push local branches to Github
+- -u is an [option](link to options explanation), which (find out what it does/means)
+- origin is the name of our remote connection (elaborate)
+- main is the name of our default local branch
+
+~
+
+If you know that main is the name of our default local branch, it's easy to figure out how to push a branch not named main to Github.
+
+If you are still confused, I'll come right out and say it: to push a branch not named "main" to Github, just replace the word main with the actual name of the branch!
+
+This is the 8th article in a ? part series. <- or something like that haha
 
 ~

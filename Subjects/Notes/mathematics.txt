@@ -7,6 +7,25 @@ Equations w/ Variables on Both Sides:
 
 ~
 
+Number of Solutions to Equations:
+- all you really have to do is simplify the equations like above, then use the following table:
+	- there are no solutions if you get a nonsensical answer (like 3 = 5)
+	- there is one solution if you get an answer like x = 5 (where the variable is variable, and could totally be that!)
+	- there are infinite solutions if you get an answer that's always equivalent (like 13 = 13)
+
+- video link: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:num-solutions-linear-equations/v/number-of-solutions-to-linear-equations
+
+~
+
+Linear Equations w/ Unknown Coefficents:
+- move all (answer variable) terms to one side of the equation, and move all other terms to the other side of the equation
+- using the distributive property, group like terms together on both sides of the equation (if necessary)
+- to isolate (answer variable), divide both sides by the coefficents of (answer variable)
+
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-eqns-unknown-coefficients/v/linear-equations-with-unknown-coefficients
+
+~
+
 -----
 
 ~ Geometry ~
@@ -46,3 +65,19 @@ Rigid Transformations Intro:
 - video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-transformations-intro/v/introduction-to-transformations
 
 ~
+
+Rotating Points:
+- positive rotation = counterclockwise (aka to the left)
+- negative rotation = clockwise (aka to the right)
+
+- video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-rotations/v/rotating-points
+
+~
+
+Rotating Shapes:
+- as a general rule:
+	- for a (positive) 90 degree rotation about (0, 0), (x, y) = (−y, x)
+	- for a (negative) 90 degree rotation about (0, 0), (x, y) = (y, −x)
+	- for a 180 degree rotation about (0, 0), (x, y) = (-x, -y)
+
+- video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-rotations/v/points-after-rotation

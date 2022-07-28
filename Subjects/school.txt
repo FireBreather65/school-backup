@@ -9,7 +9,7 @@ Foreign Language (5):
 Humanities (4):
 - see other.txt
 
-Language Arts (2):
+Language Arts (3):
 - see english.txt
 
 Mathematics (1, 6):
@@ -18,7 +18,7 @@ Mathematics (1, 6):
 Physical Education:
 - 15 crunches, 10 pushups, 5min biking
 
-Science (3):
+Science (2):
 - see other.txt
 
 --- Electives ---

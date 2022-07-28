@@ -1,27 +1,27 @@
 Open Blinds
 Bed + Teeth
-Take Flank
-Wash Colors
-Make Ciabatta
-Wash Whites
-Outside Chores
-Sort Laundry
-Fold Towels
 Take Shower
+-- Enter --
+Wash Bedding
+Clean Bathtub
+-- Enter --
 
-Geometry - Learn to Q2 + Q2
+Geometry - Learn to Q3 + Q3
 ~ 15 crunches, 10 pushups, 5min biking ~
-Language Arts - The Apocalypse + english.txt
+Science - Meiosis + english.txt
 ~ 15 crunches, 10 pushups, 5min biking ~
-Science - The Cell Cycle and Mitosis
+Language Arts - Helpful Git Commands + Superheroes
 ~ 15 crunches, 10 pushups, 5min biking ~
-Humanities - Complete The Gilded Age
+Humanities - The South after the Civil War
 ~ 15 crunches, 10 pushups, 5min biking ~
 Foreign Language - City (french) + Greetings (spanish)
 ~ 15 crunches, 10 pushups, 5min biking ~
-Algebra - Learn to Q2 + Q2
+Algebra - Multi-Step Inequalities
 ~ 15 crunches, 10 pushups, 5min biking ~
-Computing - Git Bash Article (Git Branching)
+Computing - Summary + Important Links'
 
-- math tutoring (12:30pm)
-- send out reviews.txt
+- outside chores (1pm) <- enter afterwards
+- tutoring (1:30pm)
+- prep for Mom (2:30pm)
+- teen council (4pm)
+- send out reviews.txt (5pm)

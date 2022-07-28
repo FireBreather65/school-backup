@@ -1,55 +1,21 @@
-- Git Branching
-	- How do you list all branches?
-  You can use git branch to list all branches (lets you know what branch you are on with green and an asterisk)
+- Helpful Git Commands
+	- How do you get help for a specific command?
+	You can use the command git [command name here] help.
 
-	- How do you create a branch?
-  You can use git branch [branchname] to create a branch.
+	- How do you see all commands?
+	You can use git help --all.
 
-	- How do you switch branches?
-  You can use git checkout [branchname] to switch branches.
+	- How do you look at the history of your previous commits?
+	First, make sure you're in a directory that's being tracked by Git. After that, all you have to do is type git log.
 
-	- How can you merge branches?
-  You can use git merge [branchname] to merge branches (will merge called branch with current branch, so make sure you're on the right branch before you call this one...)
+	To find the history of your previous commits for a specific file, just add the filename to the end of the command (give an example).
 
-	- How do you resolve merge conflicts?
-  You can resolve merge conflicts by viewing the marked-up file (that will tell you where the discrepancies lie).
-	^ look through and articulate conflict.png (will help a lot)
+	- How do you copy a repository onto your local machine from GitHub?
+	https://www.janbasktraining.com/community/devops/what-is-the-difference-between-pull-and-clone-in-git <- figure this out
+	https://www.delftstack.com/howto/git/difference-of-git-clone-and-git-pull/ <- this can be helpful...
 
-	- How can you delete branches?
-  There are two ways - using git branch -d [branchname] and git branch -D [branchname]. 
-		
-	Use the first if the branch is merged with main, and use the second for branches never merged with main.
-
-	- Explain git push origin main.
-	Well, let's break it down:
-		- git push is what we use to push local branches to Github
-
-		- origin is the name of our remote connection (elaborate)
-
-		- and main is the name of our default local branch
-
-	- How do you push a branch not named main to Github?
-	It's as simple as changing the word "main" to the name of your branch (e.g. turtle, pecan)
-
-	- Helpful Git Commands
-		- How do you get help for a specific command?
-		You can use the command git [command name here] help.
-
-		- How do you see all commands?
-		You can use git help --all.
-
-		- How do you look at the history of your previous commits?
-		First, make sure you're in a directory that's being tracked by Git. After that, all you have to do is type git log.
-
-		To find the history of your previous commits for a specific file, just add the filename to the end of the command (give an example).
-
-		- How do you copy a repository onto your local machine from GitHub?
-		https://www.janbasktraining.com/community/devops/what-is-the-difference-between-pull-and-clone-in-git <- figure this out
-		https://www.delftstack.com/howto/git/difference-of-git-clone-and-git-pull/ <- this can be helpful...
-
-		- What are some other commands to note?
-		There's git diff, which checks difference between current status and previously saved status (explain a bit better??).
-		^ as of right now, that's all I have (I'M SO PROUD THOUGH HAHA)
+	- What are some other commands to note?
+	There's git diff, which checks difference between current status and previously saved status (explain a bit better??).
 
 ~~~~
 
@@ -62,9 +28,21 @@ Important Links/References:
 - also during the second draft, find consistent way to present folder vs. directory, tree vs. structure, and folder tree vs. directory structure 🤣🤣🤣
 ^ another consistency issue with tutorial vs. article...I was not cut out for this lmao
 ^ yet another consistency issue with git revert then git reset...
+^ ANOTHER CONSISTENCY ISSUE WITH MAKING SURE WE'RE IN A GIT-TRACKED REPO FIRST
+^ yet. another. consistency. issue. (this time with you vs. we/us)
+- also during the second draft, add more interactive elements (to reinforce what I'm teaching)
+^ add text to a couple files (to supplement later merge conflict 😊)
+- divide articles (as already done), and work on INDIVIDUALLY <- easier and less overwhelming...
 
 - w3schools git link?
 - codecademy git link?
 - education.github.com???
 
 ~ Wait until next year to post this, then release one part at a time (Navigating, Changing, etc.) ~
+^ add the following reminders at the beginning of each part:
+	- laptop or desktop before starting
+	- for windows users (link to linux/mac users)
+	- git teamwork (for appropriate tutorials)
+	- to read the articles in order (at least the first one, where Git Bash is downloaded) <- emphasize importance of reading in order due to difficulty increasing
+^ name entire compilation "The Foodie's Guide to Git Bash"
+^ same cover image for all (https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Git_session.svg/1200px-Git_session.svg.png) <= maybe find a food image instead??

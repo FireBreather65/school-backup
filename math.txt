@@ -1,10 +1,5 @@
 ~ Algebra 1 ~
 
-Linear Equations:
-- move all (answer variable) terms to one side of the equation, and move all other terms to the other side of the equation.
-- using the distributive property, group like terms together on both sides of the equation.
-- to isolate (answer variable), divide both sides by the coefficents of (answer variable).
-
 Slope:
 - rtl is positive, ltr is negative :)
 ^ direction determined by higher side
@@ -272,13 +267,6 @@ Volume of Cylinder:
 
 Area of Parallelogram:
 - h * b
-
-Rotation:
-positive (counterclockwise) and negative (clockwise)
-for a (positive) 90 degree rotation about (0, 0), (x, y) = (−y, x)
-for a (negative) 90 degree rotation about (0, 0), (x, y) = (y, −x)
-for a 180 degree rotation about (0, 0), (x, y) = (-x, -y)
-^ study above (to remember!!)
 
 Reflection:
 - find coordinates for two different points e.g. (-4, -4) and (2, -6)
