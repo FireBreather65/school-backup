@@ -406,3 +406,26 @@ Cancer:
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-the-cell-cycle-and-mitosis/v/cancer
 
 ~
+
+Meiosis:
+- haploid cells contain half as many chromosomes as their parent cell, whereas diploid cells have twice as many chromosomes as their parent cell
+
+- [...] produces gametes (sex cells) - four haploid daughter cells
+
+- https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-meiosis/v/chromosomal-crossover-in-meiosis-i
+
+~
+
+Phases of Meiosis I:
+- accurate depiction: https://cdn.kastatic.org/ka-perseus-images/f2dadb5759ec2c840b8c960f0b55b00aebf74301.png
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-meiosis/v/phases-of-meiosis-i
+
+~
+
+Phases of Meiosis II:
+- accurate depiction: https://cdn.kastatic.org/ka-perseus-images/9a74225bd24998f2c863366b8b57d238b9b9b653.png
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-meiosis/v/phases-of-meiosis-ii
+
+~

@@ -22,9 +22,15 @@ Linear Equations w/ Unknown Coefficents:
 - using the distributive property, group like terms together on both sides of the equation (if necessary)
 - to isolate (answer variable), divide both sides by the coefficents of (answer variable)
 
-- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-eqns-unknown-coefficients/v/linear-equations-with-unknown-coefficients
+- video link: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-eqns-unknown-coefficients/v/linear-equations-with-unknown-coefficients
 
 ~
+
+Inequalities w/ Variables on Both Sides:
+- literally is the same as above (equations w/ variables on both sides)
+^ but with the division, if you divide by a negative number switch the symbol (e.g. [> to <] or [< to >])
+
+- video link: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-3
 
 -----
 
@@ -81,3 +87,28 @@ Rotating Shapes:
 	- for a 180 degree rotation about (0, 0), (x, y) = (-x, -y)
 
 - video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-rotations/v/points-after-rotation
+
+~
+
+Reflecting Points:
+- when it comes to reflecting points across an axis, add/remove the negative sign from the OPPOSITE axis' coordinate (see video if still confused)
+^ also applies to reflecting shapes 
+
+- video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflecting-points
+
+~
+
+Determining Reflections:
+- steps to find reflection:
+	- find coordinates for two different points e.g. (-4, -4) and (2, -6)
+	- take x coordinates added together and y coordinates added together, and divide both by 2
+	- repeat to another point on the line of reflection
+
+- video link: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections/v/points-on-line-of-reflection
+
+~
+
+Reflecting Shapes w/ Diagonal Line of Reflection:
+- https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflecting-segments-over-line
+
+~

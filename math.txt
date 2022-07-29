@@ -268,11 +268,6 @@ Volume of Cylinder:
 Area of Parallelogram:
 - h * b
 
-Reflection:
-- find coordinates for two different points e.g. (-4, -4) and (2, -6)
-- take x coordinates added together and y coordinates added together, and divide both by 2
-- that's one of your points of reflection
-
 ------------------------------------------------------------------
 | SSS = side-side-side (proves congruency)                       |
 |                                                                |
