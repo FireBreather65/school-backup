@@ -32,6 +32,18 @@ Inequalities w/ Variables on Both Sides:
 
 - video link: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:multistep-inequalities/v/multi-step-inequalities-3
 
+~
+
+Compound Inequalities:
+- on both of the below accounts, all you have to do is solve the equations...am I missing something??
+^ it's also helpful to draw a little number line (to see where overlap is)
+
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compund-inequalities <- OR
+
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:compound-inequalities/v/compund-inequalities-2 <- AND
+
+~
+
 -----
 
 ~ Geometry ~
@@ -110,5 +122,17 @@ Determining Reflections:
 
 Reflecting Shapes w/ Diagonal Line of Reflection:
 - https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflecting-segments-over-line
+
+~
+
+Dilating Points:
+- https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-dilations/v/dilating-points-example
+
+~
+
+Center of Dilation:
+- https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-dilations/v/example-identifying-the-center-of-dilation
+^ probably won't be needed...but just in case 😉
+^ this can be used for shapes as well, just fyi
 
 ~

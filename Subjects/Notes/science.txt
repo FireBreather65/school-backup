@@ -408,7 +408,7 @@ Cancer:
 ~
 
 Meiosis:
-- haploid cells contain half as many chromosomes as their parent cell, whereas diploid cells have twice as many chromosomes as their parent cell
+- haploid cells contain half as many chromosomes as their parent cell, whereas diploid cells (zygotes) have twice as many chromosomes as their parent cell
 
 - [...] produces gametes (sex cells) - four haploid daughter cells
 
@@ -427,5 +427,27 @@ Phases of Meiosis II:
 - accurate depiction: https://cdn.kastatic.org/ka-perseus-images/9a74225bd24998f2c863366b8b57d238b9b9b653.png
 
 - video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-meiosis/v/phases-of-meiosis-ii
+
+~
+
+Human Fertilization:
+- stages of human development:
+	- first, the sperm and egg fuse (zygote stage)
+	- second, the above zygote divides into a hollow ball of cells and attaches to the uterus (blastocyst stage)
+	- third, the embryo forms - internal organs and external features start to emerge (embryonic stage)
+	- fourth, the fetus forms from the developed embryo, and differentiation + specialization of structures occurs (fetal stage)
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-fertilization-and-development/v/human-fertilization-and-early-development
+
+~
+
+Apoptosis:
+- as mentioned earlier, apoptosis is programmed cell death
+
+- going deeper, there are two types - necrosis (where a cell swells up and explodes, messy and NOT GOOD) and apoptosis (where the cell shrinks down and breaks up its parts, GOOD)
+
+- other cells can use the components of the "apoptosised" cell for their own purposes
+
+- video link: https://www.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-fertilization-and-development/v/apoptosis
 
 ~
